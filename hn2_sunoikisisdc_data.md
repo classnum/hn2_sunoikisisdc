@@ -1,6 +1,6 @@
 # Sunoikisis Digital Classics
 
-Synthèse du programme SunoikisisDC à partir des métadonnées disponibles disponibles sur le wiki de l'entrepôt [GitHub](https://sunoikisisdc.github.io/) du projet, dans le cadre du cours [Humanités numériques 2](https://classnum.hypotheses.org/programme-hn-2).
+Synthèse du programme à partir des métadonnées disponibles disponibles sur le wiki de l'[entrepôt GitHub de SunoikisisDC](https://sunoikisisdc.github.io/), dans le cadre du cours [Humanités numériques 2](https://classnum.hypotheses.org/programme-hn-2).
 
 * Recueil des données : 2021-02-08 ([document partagé](https://hackmd.io/Q_aS6uaCRTyfO_RPkX6PhA))
 * Statut : harmonisation en cours
