@@ -27,7 +27,7 @@ __Exemple : texte structuré__
 
 ### Saison 1
 1. Séance 1, 2021-02-05
-2. Séance 2, 2021-02-06 
+2. Séance 2, 2021-02-06
 
 ### Saison 2
 1. Séance 1, 2021-02-07
@@ -130,45 +130,52 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 
 
 ## SunoikisisDC 2017-2018 |CJG
-### Fall Sunoikisis DCH ###
-1. Sep 14. Overview, cultural heritage and digital humanities (Gabriel Bodard, Tom Elliott, Simona Stoyanova, Rada Varga)
-2. Sep 21. Crowdsourcing archaeological data: Portable antiquities scheme (John Pearce)
-3. Oct 5. Geographic annotation and visualisation (Paula Granados García, Valeria Vitale)
-4. Oct 12. Geographic Information Systems I: encoding geographic data (Chiara Palladino, Tom Elliott)
-5. Oct 19. Geographic Information Systems II: interpreting geographic data (Tom Elliott, Chiara Palladino)
-6. Oct 26. Structuring, querying and visualising data (Gabriel Bodard, Tom Elliott, Rada Varga)
-7. Nov 2. Data transformation with python and regular expressions (Matteo Romanello, Simona Stoyanova)
-8. Nov 9. Linking text and image (Charlotte Roueché, Simona Stoyanova, Gabriel Bodard)
-9. Nov 16. Prosopography and linked person-data (Gabriel Bodard, Rada Varga)
-10. Nov 23. 3D scanning and imaging (Graeme Earl, Christian Prager, Valeria Vitale)
-11. Nov 30. 3D modelling and design (Thomas Flynn, Graeme Earl, Valeria Vitale)
-12. Dec 7. 3D printing (Gabriel Bodard, Philip Carter, Tyler Jo Smith)
-13. Dec 14. Network analysis and visualisation (Yanne Broux, Ryan Horne)
-14. Jan 11. 3D environments and virtual reality (Tom Flynn, Matthew Nicholls, Valeria Vitale)
+
+### Fall Sunoikisis DCH |CJG
+
+| Numéro |   Année   | Saison | Séance |    Date    |                                           Titre                                            |                                                                          Contributeurs (+ Institutions)                                                                         |   |
+|--------|-----------|--------|--------|------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| 2017-2018 | Fall Sunoikisis DCH |1|2017-14-09| Overview, cultural heritage and digital humanities | Gabriel Bodard, Tom Elliott, Simona Stoyanova, Rada Varga|
+| 2017-2018 | Fall Sunoikisis DCH |2|2017-21-09| Crowdsourcing archaeological data: Portable antiquities scheme | John Pearce |
+| 2017-2018 | Fall Sunoikisis DCH |3|2017-05-10| Geographic annotation and visualisation|Paula Granados García, Valeria Vitale|
+| 2017-2018 | Fall Sunoikisis DCH |4|2017-12-10| Geographic Information Systems I: encoding geographic data | Chiara Palladino, Tom Elliott|
+| 2017-2018 | Fall Sunoikisis DCH |5|2017-19-10| Geographic Information Systems II: interpreting geographic data| Tom Elliott, Chiara Palladino|
+| 2017-2018 | Fall Sunoikisis DCH |6|2017-26-10| Structuring, querying and visualising data | Gabriel Bodard, Tom Elliott, Rada Varga|
+| 2017-2018 | Fall Sunoikisis DCH |7|2017-02-11| Data transformation with python and regular expressions | Matteo Romanello, Simona Stoyanova |
+| 2017-2018 | Fall Sunoikisis DCH |8|2017-09-11| Linking text and image | Charlotte Roueché, Simona Stoyanova, Gabriel Bodard |
+| 2017-2018 | Fall Sunoikisis DCH |9|2017-16-11|  Prosopography and linked person-data | Gabriel Bodard, Rada Varga |
+| 2017-2018 | Fall Sunoikisis DCH |10|2017-23-11| 3D scanning and imaging | Graeme Earl, Christian Prager, Valeria Vitale |
+| 2017-2018 | Fall Sunoikisis DCH |11|2017-30-11|  3D modelling and design | Thomas Flynn, Graeme Earl, Valeria Vitale |
+| 2017-2018 | Fall Sunoikisis DCH |12|2017-07-12|  3D printing | Gabriel Bodard, Philip Carter, Tyler Jo Smith |
+| 2017-2018 | Fall Sunoikisis DCH |13|2017-14-12| Network analysis and visualisation | Yanne Broux, Ryan Horne |
+| 2017-2018 | Fall Sunoikisis DCH |14|2018-11-01|  3D environments and virtual reality | Tom Flynn, Matthew Nicholls, Valeria Vitale |
 
 
-###Spring - Summer 2018: Sunoikisis Digital Classics###
-1. January 25: Translation alignment (Maryam Foradi, Tariq Yousef, Gabriel Bodard)
-2. February 1: Collaborative editing/resources (Gabriel Bodard, Emma Bridges, Lucia Vannini)
-3. February 8: Markup 1 (Monica Berti, Gabriel Bodard, Martina Filosa)
-4. February 15: Text annotation (Monica Berti, Gabriel Bodard)
-5. February 22: Markup 2 (Gabriel Bodard, Simona Stoyanova, Lucia Vannini)
-6. March 1: Treebanking 1 (Marja Vierros, Polina Yordanova)
-7. March 8: Treebanking 2 (Dag Haug, Francesco Mambrini)
-8. March 15: Python 1/NER (Francesco Mambrini, Simona Stoyanova)
-9. March 22: Python 2/PoS tagging and lemmatisation (Barbara McGillivray, Matteo Romanello)
-10. April 12: Linked Ancient World Data (Hugh Cayless, Valeria Vitale)
-11. April 19: The Classical Language Toolkit (CLTK) (Patrick J. Burns)
-12. April 26: The Scaife Digital Library Viewer (James Tauber)
-13. May 3: Linguistic Annotation (Eleni Bozia and Anise D'Orange Ferreira)
-14. May 17: Geo-Annotation [CANCELLED] (Chiara Palladino and Valeria Vitale) 
-15. May 24: Digital Prosopography (Rada Varga and Gabriel Bodard)
-16. May 31: Programming Through Latin (Eleni Bozia and Angelos Barmpoutis)
-17. June 7: Mastering Sanskrit and Latin words and phrases with Bhagavad Gita as a digital corpus (Neven Jovanović, Mia Stubičar, Ana Vragolović)
-18. June 14: Open Persian (Maryam Foradi)
-19. June 21: Digital Papyrology (Nicola Reggiani and Marja Vierros)
-20. June 28: 3D Modelling (Valeria Vitale)
-21. July 5: The Digital Rosetta Stone Project (Miriam Amin, Monica Berti, Josephine Hensel, Franziska Naether)
+### Spring - Summer 2018: Sunoikisis Digital Classics |CJG
+
+| Numéro |   Année   | Saison | Séance |    Date    |                                           Titre                                            |                                                                          Contributeurs (+ Institutions)                                                                         |   |
+|--------|-----------|--------|--------|------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |1|2018-25-01|  Translation alignment | Maryam Foradi, Tariq Yousef, Gabriel Bodard |
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |2|2018-01-02|  Collaborative editing/resources | Gabriel Bodard, Emma Bridges, Lucia Vannini|
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |3|2018-08-02|  Markup 1 | Monica Berti, Gabriel Bodard, Martina Filosa |
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |4|2018-15-02| Text annotation | Monica Berti, Gabriel Bodard |
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |5|2018-22-02|  Markup 2 | Gabriel Bodard, Simona Stoyanova, Lucia Vannini |
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |6|2018-01-03|  Treebanking 1 | Marja Vierros, Polina Yordanova|
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |7|2018-08-03|  Treebanking 2 | Dag Haug, Francesco Mambrini |
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |8|2018-15-03|  Python 1/NER |Francesco Mambrini, Simona Stoyanova|
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |9|2018-22-03|   Python 2/PoS tagging and lemmatisation | Barbara McGillivray, Matteo Romanello|
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |10|2018-12-04|  Linked Ancient World Data | Hugh Cayless, Valeria Vitale|
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |11|2018-19-04|  The Classical Language Toolkit (CLTK) | Patrick J. Burns|
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |12|2018-26-04| The Scaife Digital Library Viewer |James Tauber|
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |13|2018-03-05|  Linguistic Annotation | Eleni Bozia and Anise D'Orange Ferreira |
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |14|2018-17-05|  Geo-Annotation [CANCELLED] | Chiara Palladino and Valeria Vitale |
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |15|2018-24-05| Digital Prosopography |Rada Varga and Gabriel Bodard |
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |16|2018-31-05|  Programming Through Latin | Eleni Bozia and Angelos Barmpoutis |
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |17|2018-07-06|   Mastering Sanskrit and Latin words and phrases with Bhagavad Gita as a digital corpus | Neven Jovanović, Mia Stubičar, Ana Vragolović |
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |18|2018-14-06| Open Persian |Maryam Foradi |
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |19|2018-21-06|  Digital Papyrology | Nicola Reggiani and Marja Vierros |
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |20|2018-28-06|  3D Modelling | Valeria Vitale|
+| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |21|2018-05-07| The Digital Rosetta Stone Project | Miriam Amin, Monica Berti, Josephine Hensel, Franziska Naether |
 
 
 ## SunoikisisDC 2018-2019 |PB
