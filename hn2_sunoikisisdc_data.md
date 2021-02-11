@@ -258,27 +258,36 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 
 *Sunoikisis Digital Classics, Fall 2020 programme*
 
-1.	Open Source software, commandline and Git (Monica Berti, Gabriel Bodard & Irene Vagionakis)(Oct 8)
-2.	Introduction to Markup (Jonathan Blaney, Charlotte Tupman, Irene Vagionakis)(Oct 15)
-3.	EpiDoc XML (Gabriel Bodard, Alessio Sopracasa, Irene Vagionakis)(Oct 19)
-4.	Introduction to Computational Linguistics (Alek Keersmaekers, Marton Ribary, Thea Sommerschield)(Oct 29)
-5.	Web Annotation (Monica Berti, Valeria Vitale)(Nov 5)
-6.	Research with Wikimedia Commons (Monica Berti, Gabriel Bodard, Richard Nevell)(Nov 12)
-7.	Using Treebanks (Francesca Dell’Oro, Vanessa Gorman, Marja Vierros, Polina Yordanova)(Nov 19)
-8.	Translation Technologies (Franziska Naether, Chiara Palladino)(Nov 26)
-9.  Visualisation (Aurélien Berra, Gabriel Bodard, Naomi Wells)(Dec 3)
+| Numéro | Année | Saison | Séance | Date | Titre | Contributeurs (+ Institutions) |
+|--------|-------|--------|--------|------|-------|--------------------------------|
+|        |       |        |        |      |       |                                |
+
+|Numéro|2020-2021|Fall|1|2020-10-08|Open Source software, commandline and Git|Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Irene Vagionakis (Bologna)|
+|Numéro|2020-2021|Fall|2|2020-10-15|Introduction to Markup|Jonathan Blaney (University of London) Charlotte Tupman (Exeter), Irene Vagionakis (Bologna)|
+|Numéro|2020-2021|Fall|3|2020-10-19|EpiDoc XML|Gabriel Bodard (University of London), Alessio (Paris Sorbonne), Irene Vagionakis (Bologna)|
+|Numéro|2020-2021|Fall|4|2020-10-29|Introduction to Computational Linguistics|Alek Keersmaekers (KU Leuven), Marton Ribary (Surrey), Thea Sommerschield (Oxford)|
+|Numéro|2020-2021|Fall|5|2020-11-05|Web Annotation|Monica Berti (Universität Leipzig), Valeria Vitale (British Library)|
+|Numéro|2020-2021|Fall|6|2020-11-12|Research with Wikimedia Commons|Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Richard Nevell (Wikimedia UK)|
+|Numéro|2020-2021|Fall|7|2020-11-19|Using Treebanks|Francesca Dell’Oro (University of Lausanne), Vanessa Gorman (University of Nebraska-Lincoln), Marja Vierros (Helsinki), Polina Yordanova (Helsinki)|
+|Numéro|2020-2021|Fall|8|2020-11-26|Translation Technologies|Franziska Naether (Leipzig), Chiara Palladino (Furman)|
+|Numéro|2020-2021|Fall|9|2020-12-03|Visualisation|Aurélien Berra (Paris Nanterre), Gabriel Bodard (University of London), Naomi Wells (University of London)|
 
 
 *Sunoikisis Digital Cultural Heritage, Spring 2021 programme*
 
-1.	3D imaging and scanning (Gabriel Bodard, Kelly McClinton, Alicia Walsh)(Jan 21)
-2.	Community Mapping (James Morley, Valeria Vitale)(Jan 28)
-3.	Wikipedia and cultural knowledge production (Effie Kapsalis, Evelin Heidel, Gabriel Bodard, Andrea Wallace)(Feb 4)
-4.	Linked geographical data and web-mapping (Anne Chen, Rainer Simon, Valeria Vitale)(Feb 11)
-5.	Intangible Cultural Heritage and Indigenous heritage (Brigitte Vézina, Majd Al-shihabi, Andrea Wallace)(Feb 18)
-6.	Geographic Information Systems (Piraye Hacıgüzeller, Rebecca Seifried)(Feb 25)
-7.	Publishing 3D models and intellectual property (Tom Flynn, Dinusha Mendis)(Mar 4)
-8.	Intellectual Property and heritage restitution (Douglas McCarthy, Mathilde Pavis, Andrea Wallace)(Mar 11)
-9.	3D modelling (Vasiliki Lagari, Chiara Piccoli, Alicia Walsh)(Mar 18)
+| Numéro | Année | Saison | Séance | Date | Titre | Contributeurs (+ Institutions) |
+|--------|-------|--------|--------|------|-------|--------------------------------|
+|        |       |        |        |      |       |                                |
+
+|Numéro|2020-2021|Spring|1|2021-01-21|3D imaging and scanning|Gabriel Bodard (University of London), Kelly McClinton (Indiana University), Alicia Walsh (Recollection Heritage)|
+|Numéro|2020-2021|Spring|2|2021-01-28|Community Mapping|James Morley (A Street Near You), Valeria Vitale (british Library)|
+|Numéro|2020-2021|Spring|3|2021-02-04|Wikipedia and cultural knowledge production|Effie Kapsalis (Smithsonian), Evelin Heidel (Creative Commons), Gabriel Bodard (London), Andrea Wallace (Exeter)|
+|Numéro|2020-2021|Spring|4|2021-02-11|Linked geographical data and web-mapping|Anne Chen (Yale), Rainer Simon (Austrian Institute of Technology), Valeria Vitale (British Library)|
+|Numéro|2020-2021|Spring|5|2021-02-18|Intangible Cultural Heritage and Indigenous heritage|Brigitte Vézina (Creative Commons), Majd Al-shihabi (Palestine Open Maps), Andrea Wallace (Exeter)|
+|Numéro|2020-2021|Spring|6|2021-02-25|Geographic Information Systems|Piraye Hacıgüzeller (University of Antwerp), Rebecca Seifried (University of Massachussetts Amherst)|
+|Numéro|2020-2021|Spring|7|2021-03-04|Publishing 3D models and intellectual property|Tom Flynn (SketchFab), Dinusha Mendis (Bournemouth University), Alicia Walsh (Recollection Heritage)|
+|Numéro|2020-2021|Spring|8|2021-03-11|Intellectual Property and heritage restitution|Douglas McCarthy (Europeana), Mathilde Pavis (Exeter), Andrea Wallace (Exeter)|
+|Numéro|2020-2021|Spring|9|2021-03-18|3D modelling|Vasiliki Lagari (Leiden), Chiara Piccoli (Amsterdam), Alicia Walsh (Recollection Heritage)|
+
 
 *Summer 2021 : TBA*
