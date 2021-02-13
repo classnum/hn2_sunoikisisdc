@@ -35,13 +35,12 @@ __Exemple : texte structuré__
 
 __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 
-| Année    | Saison   | Date |
-| -------- | -------- | -------- |
-| 2020     | 1     | 2021-02-05     |
-| 2020     | 1     | 2021-02-06     |
-| 2020     | 2     | 2021-02-07     |
-| 2020     | 2     | 2021-02-08     |
-
+| Année | Saison |    Date    |
+|-------|--------|------------|
+|  2020 |      1 | 2021-02-05 |
+|  2020 |      1 | 2021-02-06 |
+|  2020 |      2 | 2021-02-07 |
+|  2020 |      2 | 2021-02-08 |
 
 ## SunoikisisDC 2015 | AB
 
@@ -63,33 +62,36 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 
 ## SunoikisisDC 2016 | AB
 
-| Numéro |   Année   | Saison | Séance |    Date    |                                           Titre                                            |                                                                          Contributeurs (+ Institutions)                                                                         |   |
-|--------|-----------|--------|--------|------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-|     14 | 2015-2016 | NA     |      1 | 2016-02-03 | Introduction to the Course                                                                 | Monica Berti (University of Leipzig)                                                                                                                                            |   |
-|     15 | 2015-2016 | NA     |      2 | 2016-02-10 | Introduction to Treebanking Part I                                                         | Giuseppe G.A. Celano (University of Leipzig) and Dag Haug (University of Oslo)                                                                                                  |   |
-|     16 | 2015-2016 | NA     |      3 | 2016-02-17 | Introduction to Treebanking Part II                                                        | Giuseppe G.A. Celano (University of Leipzig)                                                                                                                                    |   |
-|     17 | 2015-2016 | NA     |      4 | 2016-02-24 | Named Entity Recognition: SNAP and Recogito                                                | Gabriel Bodard (ICS London) and Chiara Palladino (University of Bari and Leipzig)                                                                                               |   |
-|     18 | 2015-2016 | NA     |      5 | 2016-03-02 | Encoding of Ancient Texts                                                                  | Federico Aurora (University of Oslo), Gabriel Bodard (University of London), and Simona Stoyanova (King's College London)                                                       |   |
-|     19 | 2015-2016 | NA     |      6 | 2016-03-09 | Annotation and Alignment of Texts and Objects                                              | Marie-Claire Beaulieu (Tufts University), Gabriel Bodard (ICS London), Tim Buckingham (Tufts University), and Pietro Liuzzo (University of Heidelberg)                          |   |
-|     20 | 2015-2016 | NA     |      7 | 2016-03-16 | 3D Imaging, Scanning, Printing                                                             | Eleni Bozia (University of Florida), Sara Gonzalez (Florida), Valeria Vitale (King’s College London)                                                                            |   |
-|     21 | 2015-2016 | NA     |      8 | 2016-03-23 | 3D Modelling for Cultural Heritage                                                         | Valeria Vitale (King's College London) and Gabriel Bodard (University of London)                                                                                                |   |
-|     22 | 2015-2016 | NA     |      9 | 2016-03-30 | Teaching Classics in the digital era: pedagogical and logistical issues                    | Ryan Fowler (Franklin & Marshall College), Gwen Gruber (The University of Iowa), J. Matthew Harrington (Tufts University), and Kenny Morrell (Rhodes College and Harvard's CHS) |   |
-|     23 | 2015-2016 | NA     |     10 | 2016-04-06 | Inscriptions in Lucian’s True Stories                                                      | Michèle Brunet (University Lumière Lyon 2) and her Students                                                                                                                     |   |
-|     24 | 2015-2016 | NA     |     11 | 2016-04-13 | Odyssey: Named Entities Annotation, Translation Alignment                                  | Aurélien Berra (Université Paris-Ouest Nanterre La Défense) and 9 students                                                                                                      |   |
-|     25 | 2015-2016 | NA     |     12 | 2016-04-20 | Digital Tools for the Arts and Humanities: students’ presentations (University of Florida) | Eleni Bozia and her students (University of Florida)                                                                                                                            |   |
-|     26 | 2015-2016 | NA     |     13 | 2016-04-27 | Aristotle: Translation Alignment (Greek, Latin, Arabic)                                    | Usama A. Gad (Ain-Shams University (Cairo) and University of Heidelberg), Riccardo Strobino (Tufts University)                                                                  |   |
-|     27 | 2015-2016 | NA     |     14 | 2016-05-04 | Annotation of Geographical Data                                                            | Chiara Palladino (University of Bari and Leipzig) and Maxim Romanov (University of Leipzig)                                                                                     |   |
-|     28 | 2015-2016 | NA     |     15 | 2016-05-11 | Aligned Translations, Treebanking Part I                                                   | Neven Jovanović (University of Zagreb), Petra Šoštarić, Mario Benedik, Dunja Ševerdija (University of Zagreb)                                                                   |   |
-|     29 | 2015-2016 | NA     |     16 | 2016-05-18 | Aligned Translations, Treebanking Part II                                                  | Anise D'Orange Ferreira (UNESP Araraquara)                                                                                                                                      |   |
-|     30 | 2015-2016 | NA     |     17 | 2016-05-27 | Reading Plato with Digital Tools                                                           | Irine Darchia (Associate Professor in Classics, Institute of Classical, Byzantine and Modern Greek Studies, Ivane Javakhishvili Tbilisi State University, Georgia)              |   |
-|     31 | 2015-2016 | NA     |     18 | 2016-06-01 | Text and Digital Editing (Lexicography and Geography)                                      | Stelios Chronopoulos (University of Freiburg), Tariq Yousef (University of Leipzig), Chiara Palladino (University of Bari and Leipzig)                                          |   |
-|     32 | 2015-2016 | NA     |     19 | 2016-06-08 | Annotating Quotations and Text Reuses                                                      | Monica Berti (University of Leipzig) and Stylianos Chronopoulos (University of Freiburg)                                                                                        |   |
-|     33 | 2015-2016 | NA     |     20 | 2016-06-15 | Presenting SunoikisisDC 2016 at the CHS Common Day                                         | Monica Berti (University of Leipzig) and Gregory R. Crane (Tufts University and Leipzig University)                                                                             |   |
-|     34 | 2015-2016 | NA     |     21 | 2016-06-22 | Digitizing Inscriptions from Georgia                                                       | Levan Gordeziani (Professor of Ancient History, Institute of World History, Ivane Javakhishvili Tbilisi State University, Georgia)                                              |   |
-|     35 | 2015-2016 | NA     |     22 | 2016-06-29 | Teaching Greek through (digital) epigraphy, epigraphy through Greek                        | Dimitar Illiev (University of Sofia) and his Students                                                                                                                           |   |
-|     36 | 2015-2016 | NA     |     23 | 2016-07-06 | Open Persian                                                                               | Maryam Foradi (University of Leipzig)                                                                                                                                           |   |
-## SunoikisisDC 2016-2017 |SS
+| Numéro |   Année   | Saison | Séance |    Date    |                                           Titre                                            |                                                                          Contributeurs (+ Institutions)                                                                         |
+|--------|-----------|--------|--------|------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     14 | 2015-2016 | NA     |      1 | 2016-02-03 | Introduction to the Course                                                                 | Monica Berti (University of Leipzig)                                                                                                                                            |
+|     15 | 2015-2016 | NA     |      2 | 2016-02-10 | Introduction to Treebanking Part I                                                         | Giuseppe G.A. Celano (University of Leipzig) and Dag Haug (University of Oslo)                                                                                                  |
+|     16 | 2015-2016 | NA     |      3 | 2016-02-17 | Introduction to Treebanking Part II                                                        | Giuseppe G.A. Celano (University of Leipzig)                                                                                                                                    |
+|     17 | 2015-2016 | NA     |      4 | 2016-02-24 | Named Entity Recognition: SNAP and Recogito                                                | Gabriel Bodard (ICS London) and Chiara Palladino (University of Bari and Leipzig)                                                                                               |
+|     18 | 2015-2016 | NA     |      5 | 2016-03-02 | Encoding of Ancient Texts                                                                  | Federico Aurora (University of Oslo), Gabriel Bodard (University of London), and Simona Stoyanova (King's College London)                                                       |
+|     19 | 2015-2016 | NA     |      6 | 2016-03-09 | Annotation and Alignment of Texts and Objects                                              | Marie-Claire Beaulieu (Tufts University), Gabriel Bodard (ICS London), Tim Buckingham (Tufts University), and Pietro Liuzzo (University of Heidelberg)                          |
+|     20 | 2015-2016 | NA     |      7 | 2016-03-16 | 3D Imaging, Scanning, Printing                                                             | Eleni Bozia (University of Florida), Sara Gonzalez (Florida), Valeria Vitale (King’s College London)                                                                            |
+|     21 | 2015-2016 | NA     |      8 | 2016-03-23 | 3D Modelling for Cultural Heritage                                                         | Valeria Vitale (King's College London) and Gabriel Bodard (University of London)                                                                                                |
+|     22 | 2015-2016 | NA     |      9 | 2016-03-30 | Teaching Classics in the digital era: pedagogical and logistical issues                    | Ryan Fowler (Franklin & Marshall College), Gwen Gruber (The University of Iowa), J. Matthew Harrington (Tufts University), and Kenny Morrell (Rhodes College and Harvard's CHS) |
+|     23 | 2015-2016 | NA     |     10 | 2016-04-06 | Inscriptions in Lucian’s True Stories                                                      | Michèle Brunet (University Lumière Lyon 2) and her Students                                                                                                                     |
+|     24 | 2015-2016 | NA     |     11 | 2016-04-13 | Odyssey: Named Entities Annotation, Translation Alignment                                  | Aurélien Berra (Université Paris-Ouest Nanterre La Défense) and 9 students                                                                                                      |
+|     25 | 2015-2016 | NA     |     12 | 2016-04-20 | Digital Tools for the Arts and Humanities: students’ presentations (University of Florida) | Eleni Bozia and her students (University of Florida)                                                                                                                            |
+|     26 | 2015-2016 | NA     |     13 | 2016-04-27 | Aristotle: Translation Alignment (Greek, Latin, Arabic)                                    | Usama A. Gad (Ain-Shams University (Cairo) and University of Heidelberg), Riccardo Strobino (Tufts University)                                                                  |
+|     27 | 2015-2016 | NA     |     14 | 2016-05-04 | Annotation of Geographical Data                                                            | Chiara Palladino (University of Bari and Leipzig) and Maxim Romanov (University of Leipzig)                                                                                     |
+|     28 | 2015-2016 | NA     |     15 | 2016-05-11 | Aligned Translations, Treebanking Part I                                                   | Neven Jovanović (University of Zagreb), Petra Šoštarić, Mario Benedik, Dunja Ševerdija (University of Zagreb)                                                                   |
+|     29 | 2015-2016 | NA     |     16 | 2016-05-18 | Aligned Translations, Treebanking Part II                                                  | Anise D'Orange Ferreira (UNESP Araraquara)                                                                                                                                      |
+|     30 | 2015-2016 | NA     |     17 | 2016-05-27 | Reading Plato with Digital Tools                                                           | Irine Darchia (Associate Professor in Classics, Institute of Classical, Byzantine and Modern Greek Studies, Ivane Javakhishvili Tbilisi State University, Georgia)              |
+|     31 | 2015-2016 | NA     |     18 | 2016-06-01 | Text and Digital Editing (Lexicography and Geography)                                      | Stelios Chronopoulos (University of Freiburg), Tariq Yousef (University of Leipzig), Chiara Palladino (University of Bari and Leipzig)                                          |
+|     32 | 2015-2016 | NA     |     19 | 2016-06-08 | Annotating Quotations and Text Reuses                                                      | Monica Berti (University of Leipzig) and Stylianos Chronopoulos (University of Freiburg)                                                                                        |
+|     33 | 2015-2016 | NA     |     20 | 2016-06-15 | Presenting SunoikisisDC 2016 at the CHS Common Day                                         | Monica Berti (University of Leipzig) and Gregory R. Crane (Tufts University and Leipzig University)                                                                             |
+|     34 | 2015-2016 | NA     |     21 | 2016-06-22 | Digitizing Inscriptions from Georgia                                                       | Levan Gordeziani (Professor of Ancient History, Institute of World History, Ivane Javakhishvili Tbilisi State University, Georgia)                                              |
+|     35 | 2015-2016 | NA     |     22 | 2016-06-29 | Teaching Greek through (digital) epigraphy, epigraphy through Greek                        | Dimitar Illiev (University of Sofia) and his Students                                                                                                                           |
+|     36 | 2015-2016 | NA     |     23 | 2016-07-06 | Open Persian                                                                               | Maryam Foradi (University of Leipzig)                                                                                                                                           |
+
+## SunoikisisDC 2016-2017 | SS
+
 ### Fall Sunoikisis
+
 1. Sep 29. Introduction: Object artefact script (Gabriel Bodard)
 2. Oct 6. 3D Imaging, Photogrammetry (Sebastian Heath)
 3. Oct 13. Geography 1: Gazetteers (Valeria Vitale, Usama Gad and Gabriel Bodard)
@@ -104,6 +106,7 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 12. Dec 15. Historical sources (Monica Berti)
 
 ### Spring Sunoikisis
+
 1. January 26. Geo-annotation (Chiara Palladino and Valeria Vitale)
 2. February 2. Encoding of ancient texts (Gabriel Bodard & Simona Stoyanova)
 3. February 9. Annotating treebanks (Polina Yordanova and Marja Vierros)
@@ -129,9 +132,10 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 24. July 6. Topic modelling of morphologically complex languages (Thomas Köntges)
 
 
-## SunoikisisDC 2017-2018 |CJG
-### Fall Sunoikisis DCH ###
-1. Sep 14. Overview, cultural heritage and digital humanities (Gabriel Bodard, Tom Elliott, Simona Stoyanova, Rada Varga)
+## SunoikisisDC 2017-2018 | CJG
+
+### Fall Sunoikisis DCH
+ 1. Sep 14. Overview, cultural heritage and digital humanities (Gabriel Bodard, Tom Elliott, Simona Stoyanova, Rada Varga)
 2. Sep 21. Crowdsourcing archaeological data: Portable antiquities scheme (John Pearce)
 3. Oct 5. Geographic annotation and visualisation (Paula Granados García, Valeria Vitale)
 4. Oct 12. Geographic Information Systems I: encoding geographic data (Chiara Palladino, Tom Elliott)
@@ -146,8 +150,8 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 13. Dec 14. Network analysis and visualisation (Yanne Broux, Ryan Horne)
 14. Jan 11. 3D environments and virtual reality (Tom Flynn, Matthew Nicholls, Valeria Vitale)
 
+### Spring - Summer 2018: Sunoikisis Digital Classics
 
-###Spring - Summer 2018: Sunoikisis Digital Classics###
 1. January 25: Translation alignment (Maryam Foradi, Tariq Yousef, Gabriel Bodard)
 2. February 1: Collaborative editing/resources (Gabriel Bodard, Emma Bridges, Lucia Vannini)
 3. February 8: Markup 1 (Monica Berti, Gabriel Bodard, Martina Filosa)
@@ -170,10 +174,10 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 20. June 28: 3D Modelling (Valeria Vitale)
 21. July 5: The Digital Rosetta Stone Project (Miriam Amin, Monica Berti, Josephine Hensel, Franziska Naether)
 
-
-## SunoikisisDC 2018-2019 |PB
+## SunoikisisDC 2018-2019 | PB
 
 ### Fall 2018: Sunoikisis DCH
+
 1. Oct. 3. Historical Digital Gazetteers (Jeffrey Becker, Ruth Mostern, Valeria Vitale)
 2. Oct. 11. Creating and visualising geo-annotations (Elton Barker, Gethin Rees, Valeria Vitale)
 3. Oct. 18. 3D Imaging and Printing: documenting and reproducing cultural heritage artefacts (Gabriel Bodard, Valeria Vitale)
@@ -185,6 +189,7 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 9. Nov. 29. Copyright and Open Access for Digital Cultural Heritage (Gabriel Bodard, Emma Payne, Andrea Wallace)
 
 ### Spring 2019: Sunoikisis Digital Classics
+
 1. Thu, Jan 10 Epigraphic markup: Leiden to EpiDoc (Gabriel Bodard & Elli Mylonas)
 2. Thu, Jan 17 Using online linguistic tools: dictionaries and text corpora (Helma Dik, Bridget Almas and Marja Vierros)
 3. Thu, Jan 24 Geographic annotation of text (Antonis Hadjikyriacou, Sinai Rusinek and Valeria Vitale)
@@ -197,6 +202,7 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 10. Thu, Mar 14 Text analysis, stylometry, visualisation using R (Christopher Ohge, Robert Gorman & Maciej Eder)
 
 ### Summer 2019: Sunoikisis Digital Classics
+
 1. Thu, April 4: Introduction to SunoikisisDC Summer 2019 (Monica Berti)
 2. Thu, April 11: Digital Philology (Federico Boschetti and Angelo Mario Del Grosso)
 3. Thu, April 18: Digital Scholarly Edition: Needs, Experiences, Possibilities (Neven Jovanović)
@@ -213,9 +219,10 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 14. Thu, July 4: The Scaife Viewer Reading Environment (James Tauber)
 15. Thu, July 11: The Coptic Scriptorium Project (Caroline Schröder)
 
-## SunoikisisDC 2019-2020 |OB
+## SunoikisisDC 2019-2020 | OB
 
 ### Fall 2019: Sunoikisis Digital Cultural Heritage
+
 1. Thurs Oct 3: Digital Images and Photography (Rossitza Atanassova, Eugenio Falcioni)
 2. *Thurs Oct 10: 3D Imaging and Photogrammetry (Gabriel Bodard, Emma Payne, Valeria Vitale, Alicia Walsh)
 3. Thurs Oct 17: Decolonization of Cultural Heritage (Usama Gad, Zena Kamash, Patricia Murrieta Flores)
@@ -227,6 +234,7 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 9. *Thurs Nov 28: Crowdsourcing Cultural Heritage (John Pearce, Mia Ridge)
 
 ### Spring 2020: Sunoikisis Digital Classics
+
 1. Thurs Jan 16: Basic tools (Gabriel Bodard, Barbara McGillivray, Katharine Shields)
 2. Thurs Jan 23: Wikimedia sites for research (Gabriel Bodard, Emma Bridges, Pietro Liuzzo, Richard Nevell)
 3. Thurs Jan 30: EpiDoc 1: intro to markup (Gabriel Bodard, Charlotte Tupman)
@@ -238,6 +246,7 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 9. Thurs Mar 12: Data Visualisation (Aurélien Berra, Matteo Romanello)
 
 ### Summer 2020: Sunoikisis Digital Classics
+
 1. Thurs April 9: Introduction to SunikisisDC (Monica Berti and Dimitar Illiev)
 2. Thurs April 16: Digital Classics in Teaching: Before and Now (Dimitar Illiev)
 3. Thurs April 23: Text-Bearing Objects 1 (Monica Berti, Gabriel Bodard, and Dimitar Illiev)
@@ -254,26 +263,23 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 14. Wed July 8: Virtual Rome: A Digital Model of the Ancient City (Matthew Nicholls)
 15. Wed July 22: Digitisation, Intellectual Property, and Restitution: Exploring (more) equitable approaches to [digital] cultural heritage management (Andrea Wallace)
 
-## SunoikisisDC 2020-2021 |MC
+## SunoikisisDC 2020-2021 | MC
 
-*Sunoikisis Digital Classics, Fall 2020 programme*
+### Sunoikisis Digital Classics, Fall 2020 programme
 
-| Numéro | Année | Saison | Séance | Date | Titre | Contributeurs (+ Institutions) |
-|--------|-------|--------|--------|------|-------|--------------------------------|
-|        |       |        |        |      |       |                                |
+| Numéro |   Année   | Saison | Séance |    Date    |                   Titre                   |                                                            Contributeurs (+ Institutions)                                                           |
+|--------|-----------|--------|--------|------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Numéro | 2020-2021 | Fall   |      1 | 2020-10-08 | Open Source software, commandline and Git | Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Irene Vagionakis (Bologna)                                               |
+| Numéro | 2020-2021 | Fall   |      2 | 2020-10-15 | Introduction to Markup                    | Jonathan Blaney (University of London) Charlotte Tupman (Exeter), Irene Vagionakis (Bologna)                                                        |
+| Numéro | 2020-2021 | Fall   |      3 | 2020-10-19 | EpiDoc XML                                | Gabriel Bodard (University of London), Alessio (Paris Sorbonne), Irene Vagionakis (Bologna)                                                         |
+| Numéro | 2020-2021 | Fall   |      4 | 2020-10-29 | Introduction to Computational Linguistics | Alek Keersmaekers (KU Leuven), Marton Ribary (Surrey), Thea Sommerschield (Oxford)                                                                  |
+| Numéro | 2020-2021 | Fall   |      5 | 2020-11-05 | Web Annotation                            | Monica Berti (Universität Leipzig), Valeria Vitale (British Library)                                                                                |
+| Numéro | 2020-2021 | Fall   |      6 | 2020-11-12 | Research with Wikimedia Commons           | Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Richard Nevell (Wikimedia UK)                                            |
+| Numéro | 2020-2021 | Fall   |      7 | 2020-11-19 | Using Treebanks                           | Francesca Dell’Oro (University of Lausanne), Vanessa Gorman (University of Nebraska-Lincoln), Marja Vierros (Helsinki), Polina Yordanova (Helsinki) |
+| Numéro | 2020-2021 | Fall   |      8 | 2020-11-26 | Translation Technologies                  | Franziska Naether (Leipzig), Chiara Palladino (Furman)                                                                                              |
+| Numéro | 2020-2021 | Fall   |      9 | 2020-12-03 | Visualisation                             | Aurélien Berra (Paris Nanterre), Gabriel Bodard (University of London), Naomi Wells (University of London)                                          |
 
-| Numéro | 2020-2021 | Fall | 1 | 2020-10-08 | Open Source software, commandline and Git | Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Irene Vagionakis (Bologna)|  
-| Numéro | 2020-2021 | Fall | 2 | 2020-10-15 | Introduction to Markup|Jonathan Blaney (University of London) Charlotte Tupman (Exeter), Irene Vagionakis (Bologna)|  
-| Numéro | 2020-2021 | Fall | 3 | 2020-10-19 | EpiDoc XML|Gabriel Bodard (University of London), Alessio (Paris Sorbonne), Irene Vagionakis (Bologna)|  
-| Numéro | 2020-2021 | Fall | 4 | 2020-10-29 | Introduction to Computational Linguistics|Alek Keersmaekers (KU Leuven), Marton Ribary (Surrey), Thea Sommerschield (Oxford)|  
-| Numéro | 2020-2021 | Fall | 5 | 2020-11-05 | Web Annotation|Monica Berti (Universität Leipzig), Valeria Vitale (British Library)|  
-| Numéro | 2020-2021 | Fall | 6 | 2020-11-12 | Research with Wikimedia Commons|Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Richard Nevell (Wikimedia UK)| 
-| Numéro | 2020-2021 | Fall | 7 | 2020-11-19 | Using Treebanks|Francesca Dell’Oro (University of Lausanne), Vanessa Gorman (University of Nebraska-Lincoln), Marja Vierros (Helsinki), Polina Yordanova (Helsinki)|  
-| Numéro | 2020-2021 | Fall | 8 | 2020-11-26 | Translation Technologies|Franziska Naether (Leipzig), Chiara Palladino (Furman)|  
-| Numéro | 2020-2021 | Fall | 9 | 2020-12-03 | Visualisation|Aurélien Berra (Paris Nanterre), Gabriel Bodard (University of London), Naomi Wells (University of London)|  
-
-
-*Sunoikisis Digital Cultural Heritage, Spring 2021 programme*
+### Sunoikisis Digital Cultural Heritage, Spring 2021 programme
 
 | Numéro | Année | Saison | Séance | Date | Titre | Contributeurs (+ Institutions) |
 |--------|-------|--------|--------|------|-------|--------------------------------|
@@ -289,6 +295,4 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 | Numéro | 2020-2021 | Spring | 8 | 2021-03-11 | Intellectual Property and heritage restitution|Douglas McCarthy (Europeana), Mathilde Pavis (Exeter), Andrea Wallace (Exeter)|  
 | Numéro | 2020-2021 | Spring | 9 | 2021-03-18 | 3D modelling|Vasiliki Lagari (Leiden), Chiara Piccoli (Amsterdam), Alicia Walsh (Recollection Heritage)|  
 
-
-
-*Summer 2021 : TBA*
+### Summer 2021 : TBA
