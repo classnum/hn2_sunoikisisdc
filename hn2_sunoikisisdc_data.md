@@ -281,18 +281,16 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 
 ### Sunoikisis Digital Cultural Heritage, Spring 2021 programme
 
-| Numéro | Année | Saison | Séance | Date | Titre | Contributeurs (+ Institutions) |
-|--------|-------|--------|--------|------|-------|--------------------------------|
-|        |       |        |        |      |       |                                |
-
-| Numéro | 2020-2021 | Spring | 1 | 2021-01-21 | 3D imaging and scanning|Gabriel Bodard (University of London), Kelly McClinton (Indiana University), Alicia Walsh (Recollection Heritage)|  
-| Numéro | 2020-2021 | Spring | 2 | 2021-01-28 | Community Mapping|James Morley (A Street Near You), Valeria Vitale (british Library)|  
-| Numéro | 2020-2021 | Spring | 3 | 2021-02-04 | Wikipedia and cultural knowledge production|Effie Kapsalis (Smithsonian), Evelin Heidel (Creative Commons), Gabriel Bodard (London), Andrea Wallace (Exeter)|  
-| Numéro | 2020-2021 | Spring | 4 | 2021-02-11 | Linked geographical data and web-mapping|Anne Chen (Yale), Rainer Simon (Austrian Institute of Technology), Valeria Vitale (British Library)|  
-| Numéro | 2020-2021 | Spring | 5 | 2021-02-18 | Intangible Cultural Heritage and Indigenous heritage|Brigitte Vézina (Creative Commons), Majd Al-shihabi (Palestine Open Maps), Andrea Wallace (Exeter)|  
-| Numéro | 2020-2021 | Spring | 6 | 2021-02-25 | Geographic Information Systems|Piraye Hacıgüzeller (University of Antwerp), Rebecca Seifried (University of Massachussetts Amherst)|  
-| Numéro | 2020-2021 | Spring | 7 | 2021-03-04 | Publishing 3D models and intellectual property|Tom Flynn (SketchFab), Dinusha Mendis (Bournemouth University), Alicia Walsh (Recollection Heritage)|  
-| Numéro | 2020-2021 | Spring | 8 | 2021-03-11 | Intellectual Property and heritage restitution|Douglas McCarthy (Europeana), Mathilde Pavis (Exeter), Andrea Wallace (Exeter)|  
-| Numéro | 2020-2021 | Spring | 9 | 2021-03-18 | 3D modelling|Vasiliki Lagari (Leiden), Chiara Piccoli (Amsterdam), Alicia Walsh (Recollection Heritage)|  
+| Numéro | Année     | Saison | Séance | Date       | Titre                                               | Contributeurs (+ Institutions) |
+|--------|-----------|--------|--------|------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Numéro | 2020-2021 | Spring | 1      | 2021-01-21 | 3D imaging and scanning                             |Gabriel Bodard (University of London), Kelly McClinton (Indiana University), Alicia Walsh (Recollection Heritage)|  
+| Numéro | 2020-2021 | Spring | 2      | 2021-01-28 | Community Mapping                                   |James Morley (A Street Near You), Valeria Vitale (british Library)|  
+| Numéro | 2020-2021 | Spring | 3      | 2021-02-04 | Wikipedia and cultural knowledge production         |Effie Kapsalis (Smithsonian), Evelin Heidel (Creative Commons), Gabriel Bodard (London), Andrea Wallace (Exeter)|  
+| Numéro | 2020-2021 | Spring | 4      | 2021-02-11 | Linked geographical data and web-mapping            |Anne Chen (Yale), Rainer Simon (Austrian Institute of Technology), Valeria Vitale (British Library)|  
+| Numéro | 2020-2021 | Spring | 5      | 2021-02-18 | Intangible Cultural Heritage and Indigenous heritage| Brigitte Vézina (Creative Commons), Majd Al-shihabi (Palestine Open Maps), Andrea Wallace (Exeter)|  
+| Numéro | 2020-2021 | Spring | 6      | 2021-02-25 | Geographic Information Systems                      |Piraye Hacıgüzeller (University of Antwerp), Rebecca Seifried (University of Massachussetts Amherst)|  
+| Numéro | 2020-2021 | Spring | 7      | 2021-03-04 | Publishing 3D models and intellectual property      |Tom Flynn (SketchFab), Dinusha Mendis (Bournemouth University), Alicia Walsh (Recollection Heritage)|  
+| Numéro | 2020-2021 | Spring | 8      | 2021-03-11 | Intellectual Property and heritage restitution      |Douglas McCarthy (Europeana), Mathilde Pavis (Exeter), Andrea Wallace (Exeter)|  
+| Numéro | 2020-2021 | Spring | 9      | 2021-03-18 | 3D modelling                                        |Vasiliki Lagari (Leiden), Chiara Piccoli (Amsterdam), Alicia Walsh (Recollection Heritage)|  
 
 ### Summer 2021 : TBA
