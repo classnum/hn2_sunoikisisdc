@@ -136,22 +136,22 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 
 ### Fall Sunoikisis DCH | CJG AC
 
-| Numéro |   Année   |        Saison       | Séance |    Date    |                              Titre                              |                                                 Contributeurs (+ Institutions)                                                |
-|--------|-----------|---------------------|--------|------------|-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| TBA    | 2017-2018 | Fall Sunoikisis DCH |      1 | 2017-14-09 | Overview, cultural heritage and digital humanities              | Gabriel Bodard (Université de Londres), Tom Elliott (NYU), Simona Stoyanova (Université de Londres), Rada Varga (Cluj-Napoca) |
-| TBA    | 2017-2018 | Fall Sunoikisis DCH |      2 | 2017-21-09 | Crowdsourcing archaeological data: Portable antiquities scheme  | John Pearce (King's College London)                                                                                           |
-| TBA    | 2017-2018 | Fall Sunoikisis DCH |      3 | 2017-05-10 | Geographic annotation and visualisation                         | Paula Granados García (Université ouverte), Valeria Vitale (Université de Londres)                                            |
-| TBA    | 2017-2018 | Fall Sunoikisis DCH |      4 | 2017-12-10 | Geographic Information Systems I: encoding geographic data      | Paula Granados García (Université ouverte), Valeria Vitale (Université de Londres)                                            |
-| TBA    | 2017-2018 | Fall Sunoikisis DCH |      5 | 2017-19-10 | Geographic Information Systems II: interpreting geographic data | Chiara Palladino (Leipzig / Bari), Tom Elliott (NYU)                                                                          |
-| TBA    | 2017-2018 | Fall Sunoikisis DCH |      6 | 2017-26-10 | Structuring, querying and visualising data                      | Gabriel Bodard (Université de Londres), Tom Elliott (NYU), Rada Varga (Cluj-Napoca)                                           |
-| TBA    | 2017-2018 | Fall Sunoikisis DCH |      7 | 2017-02-11 | Data transformation with python and regular expressions         | Matteo Romanello (DAI / EPFL), Simona Stoyanova (Université de Londres)                                                       |
-| TBA    | 2017-2018 | Fall Sunoikisis DCH |      8 | 2017-09-11 | Linking text and image                                          | Charlotte Roueché (King's College London), Simona Stoyanova (Université de Londres), Gabriel Bodard (Université de Londres)    |
-| TBA    | 2017-2018 | Fall Sunoikisis DCH |      9 | 2017-16-11 | Prosopography and linked person-data                            | Gabriel Bodard (Université de Londres), Rada Varga (Cluj-Napoca)                                                              |
-| TBA    | 2017-2018 | Fall Sunoikisis DCH |     10 | 2017-23-11 | 3D scanning and imaging                                         | Graeme Earl (King's College London), Sven Gronemeyer (Bonn), Valeria Vitale (University of London)                            |
-| TBA    | 2017-2018 | Fall Sunoikisis DCH |     11 | 2017-30-11 | 3D modelling and design                                         | Graeme Earl (King's College London), Tom Flynn (SketchFab), Valeria Vitale (University of London)                             |
-| TBA    | 2017-2018 | Fall Sunoikisis DCH |     12 | 2017-07-12 | 3D printing                                                     | Gabriel Bodard, Philip Carter (Université de Londres), Tyler Jo Smith (Université de Virginie)                                |
-| TBA    | 2017-2018 | Fall Sunoikisis DCH |     13 | 2017-14-12 | Network analysis and visualisation                              | Yanne Broux (Université de Bordeaux), Ryan Horne (Université de Pittsburgh)                                                   |
-| TBA    | 2017-2018 | Fall Sunoikisis DCH |     14 | 2018-11-01 | 3D environments and virtual reality                             | Valeria Vitale (Université de Londres), Matthew Nicholls (Université de Reading), Tom Flynn (Sketchfab)                       |
+| Numéro |   Année   | Saison | Séance |    Date    |                                           Titre                                            |                                                                          Contributeurs (+ Institutions)                                                                         |   |
+|--------|-----------|--------|--------|------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| 2017-2018 | Fall Sunoikisis DCH |1|2017-14-09| Overview, cultural heritage and digital humanities | Gabriel Bodard (University og London), Tom Elliott (NYU), Simona Stoyanova (University of London), Rada Varga (Cluj-Napoca)|
+| 2017-2018 | Fall Sunoikisis DCH |2|2017-21-09| Crowdsourcing archaeological data: Portable antiquities scheme | John Pearce (King's College London)|
+| 2017-2018 | Fall Sunoikisis DCH |3|2017-05-10| Geographic annotation and visualisation|Paula Granados García (Open University), Valeria Vitale (Paula Granados García) (Open University)|
+| 2017-2018 | Fall Sunoikisis DCH |4|2017-12-10| Geographic Information Systems I: encoding geographic data | Paula Granados García (Open University), Valeria Vitale (University of London)|
+| 2017-2018 | Fall Sunoikisis DCH |5|2017-19-10| Geographic Information Systems II: interpreting geographic data| Chiara Palladino (Leipzig / Bari), Tom Elliott (NYU)|
+| 2017-2018 | Fall Sunoikisis DCH |6|2017-26-10| Structuring, querying and visualising data | Gabriel Bodard (University of London), Tom Elliott (NYU), Rada Varga (Cluj-Napoca)|
+| 2017-2018 | Fall Sunoikisis DCH |7|2017-02-11| Data transformation with python and regular expressions | Matteo Romanello (DAI / EPFL), Simona Stoyanova (University of London) |
+| 2017-2018 | Fall Sunoikisis DCH |8|2017-09-11| Linking text and image | Charlotte Roueché(King's College London), Simona Stoyanova, Gabriel Bodard (University of London) |
+| 2017-2018 | Fall Sunoikisis DCH |9|2017-16-11|  Prosopography and linked person-data | Gabriel Bodard (University of London), Rada Varga (Cluj-Napoca)|
+| 2017-2018 | Fall Sunoikisis DCH |10|2017-23-11| 3D scanning and imaging | Graeme Earl (King's College London), Sven Gronemeyer (Bonn), Valeria Vitale (University of London)|
+| 2017-2018 | Fall Sunoikisis DCH |11|2017-30-11| 3D modelling and design | Graeme Earl (King's College London), Tom Flynn (SketchFab), Valeria Vitale (University of London) |
+| 2017-2018 | Fall Sunoikisis DCH |12|2017-07-12|  3D printing | Gabriel Bodard, Philip Carter (University of London), Tyler Jo Smith (University of Virginia) |
+| 2017-2018 | Fall Sunoikisis DCH |13|2017-14-12| Network analysis and visualisation | Yanne Broux (Université de Bordeaux), Ryan Horne (University of Pittsburgh) |
+| 2017-2018 | Fall Sunoikisis DCH |14|2018-11-01|  3D environments and virtual reality | Valeria Vitale (University of London), Matthew Nicholls (Université of Reading), Tom Flynn (Sketchfab) |
 
 
 ### Spring - Summer 2018: Sunoikisis Digital Classics | CJG
@@ -241,33 +241,33 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 
 ### Spring 2020: Sunoikisis Digital Classics
 
-1. Thurs Jan 16: Basic tools (Gabriel Bodard, Barbara McGillivray, Katharine Shields)
-2. Thurs Jan 23: Wikimedia sites for research (Gabriel Bodard, Emma Bridges, Pietro Liuzzo, Richard Nevell)
-3. Thurs Jan 30: EpiDoc 1: intro to markup (Gabriel Bodard, Charlotte Tupman)
-4. Thurs Feb 6: Introduction to Python (Paula Granados García, Matteo Romanello)
-5. Thurs Feb 13: EpiDoc 2: publishing (Gabriel Bodard, Martina Filosa, Simona Stoyanova)
-6. Thurs Feb 20: Treebanking 1: morphosyntactic annotation (Vanessa Gorman, Polina Yordanova)
-7. Thurs Feb 27: Translation alignment (Chiara Palladino, Tariq Yousef)
-8. Thurs Mar 5: Treebanking 2: querying treebanks (Francesco Mambrini, Toon Van Hal)
-9. Thurs Mar 12: Data Visualisation (Aurélien Berra, Matteo Romanello)
+1. Thurs Jan 16: Basic tools Gabriel Bodard (Institute of Classical Studies), Barbara McGillivray (The Alan Turing Institute / University of Cambridge), Katharine Shields (UCL)
+2. Thurs Jan 23: Wikimedia sites for research Gabriel Bodard, Emma Bridges (Institute of Classical Studies), Pietro Liuzzo (Hambourg), Richard Nevell (Wikimedia Foundation)
+3. Thurs Jan 30: EpiDoc 1: intro to markup, Gabriel Bodard (Institute of Classical Studies), Charlotte Tupman (Exeter)
+4. Thurs Feb 6: Introduction to Python Paula Granados García (Open University & The Watercolour World), Matteo Romanello (École polytechnique fédérale de Lausanne)
+5. Thurs Feb 13: EpiDoc 2: publishing Gabriel Bodard (Institute of Classical Studies), Martina Filosa (Köln), Simona Stoyanova (Nottingham)
+6. Thurs Feb 20: Treebanking 1: morphosyntactic annotation, Vanessa Gorman (University of Nebraska–Lincoln), Polina Yordanova (Helsinki)
+7. Thurs Feb 27: Translation alignment Chiara Palladino (Furman University), Tariq Yousef (Leipzig)
+8. Thurs Mar 5: Treebanking 2: querying treebanks Francesco Mambrini (UCSC Milan), Toon Van Hal (KU Leuven)
+9. Thurs Mar 12: Data Visualisation, Aurélien Berra (Université Paris Nanterre), Matteo Romanello (École polytechnique fédérale de Lausanne)
 
 ### Summer 2020: Sunoikisis Digital Classics
 
-1. Thurs April 9: Introduction to SunikisisDC (Monica Berti and Dimitar Illiev)
-2. Thurs April 16: Digital Classics in Teaching: Before and Now (Dimitar Illiev)
-3. Thurs April 23: Text-Bearing Objects 1 (Monica Berti, Gabriel Bodard, and Dimitar Illiev)
-4. Thurs April 30: Text-Bearing Objects 2 (Lily Grozdanova, Alessio Sopracasa, and Karsten Tolle)
-5. Thurs May 7: Open Access for Digital Classics (Monica Berti and Rada Varga)
-6. Thurs May 14: Digital classics and learning Greek in Iran (Farnoosh Shamsian)
+1. Thurs April 9: Introduction to SunikisisDC, Monica Berti (University of Leipzig) and Dimitar Illiev (University of Sofia)
+2. Thurs April 16: Digital Classics in Teaching: Before and Now Dimitar Illiev, Dimitar Illiev (University of Sofia)
+3. Thurs April 23: Text-Bearing Objects 1, Monica Berti (University of Leipzig), Gabriel Bodard (ICS London), and Dimitar Illiev (University of Sofia)
+4. Thurs April 30: Text-Bearing Objects 2, Lily Grozdanova (University of Sofia), Alessio Sopracasa (Université Paris-Sorbonne), and Karsten Tolle (Frankfurt Bid Data Lab)
+5. Thurs May 7: Open Access for Digital Classics, Monica Berti (University of Leipzig) and Rada Varga (Babes-Bolyai University, Cluj-Napoca)
+6. Thurs May 14: Digital classics and learning Greek in Iran, Farnoosh Shamsian (University of Leipzig)
 7. Thurs May 21: NO SESSION (Ascension Thursday)
-8. Thurs May 28: Named Entities Recognition and Annotation for Ancient Greek (Monica Berti)
-9. Thurs June 4: Making CTS and its application with Greek, Portuguese, and English alignments on Ducat (Daughter of Ugarit Citation Alignment Tool) (Anise d'Orange Ferreira and Christopher W. Blackwell)
-10. Thurs June 11: Cylleneus: Next-gen corpus search for ancient languages (William Michael Short)
-11. Thurs June 18: Textual Analysis (Eleni Bozia)
-12. Thurs June 25: Programming for Humanists (Angelos Barmpoutis and Eleni Bozia)
-13. Thurs July 2: Romans 1 by 1: Classical Prosopography using relational and graph based approaches (Rada Varga and Stefan Bornhofen)
-14. Wed July 8: Virtual Rome: A Digital Model of the Ancient City (Matthew Nicholls)
-15. Wed July 22: Digitisation, Intellectual Property, and Restitution: Exploring (more) equitable approaches to [digital] cultural heritage management (Andrea Wallace)
+8. Thurs May 28: Named Entities Recognition and Annotation for Ancient Greek, Monica Berti (University of Leipzig)
+9. Thurs June 4: Making CTS and its application with Greek, Portuguese, and English alignments on Ducat (Daughter of Ugarit Citation Alignment Tool), Christopher W. Blackwell (Furman University) and Anise d'Orange Ferreira (UNESP, Araraquara)
+10. Thurs June 11: Cylleneus: Next-gen corpus search for ancient languages, William Michael Short (University of Exeter)
+11. Thurs June 18: Textual Analysis, Eleni Bozia (University of Florida)
+12. Thurs June 25: Programming for Humanists,Angelos Barmpoutis and Eleni Bozia (University of Florida)
+13. Thurs July 2: Romans 1 by 1: Classical Prosopography using relational and graph based approaches,Rada Varga (Babes-Bolyai University), Stefan Bornhofen (CY Tech, Université Paris-Seine)
+14. Wed July 8: Virtual Rome: A Digital Model of the Ancient City, Matthew Nicholls (Oxford; University of Reading)
+15. Wed July 22: Digitisation, Intellectual Property, and Restitution: Exploring (more) equitable approaches to [digital] cultural heritage management,Andrea Wallace (Exeter)
 
 ## SunoikisisDC 2020-2021 | MC
 
