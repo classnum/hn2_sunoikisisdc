@@ -134,24 +134,24 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 
 ## SunoikisisDC 2017-2018 |CJG
 
-### Fall Sunoikisis DCH |CJG
+### Fall Sunoikisis DCH |CJG AC
 
 | Numéro |   Année   | Saison | Séance |    Date    |                                           Titre                                            |                                                                          Contributeurs (+ Institutions)                                                                         |   |
 |--------|-----------|--------|--------|------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| 2017-2018 | Fall Sunoikisis DCH |1|2017-14-09| Overview, cultural heritage and digital humanities | Gabriel Bodard, Tom Elliott, Simona Stoyanova, Rada Varga|
-| 2017-2018 | Fall Sunoikisis DCH |2|2017-21-09| Crowdsourcing archaeological data: Portable antiquities scheme | John Pearce |
-| 2017-2018 | Fall Sunoikisis DCH |3|2017-05-10| Geographic annotation and visualisation|Paula Granados García, Valeria Vitale|
-| 2017-2018 | Fall Sunoikisis DCH |4|2017-12-10| Geographic Information Systems I: encoding geographic data | Chiara Palladino, Tom Elliott|
-| 2017-2018 | Fall Sunoikisis DCH |5|2017-19-10| Geographic Information Systems II: interpreting geographic data| Tom Elliott, Chiara Palladino|
-| 2017-2018 | Fall Sunoikisis DCH |6|2017-26-10| Structuring, querying and visualising data | Gabriel Bodard, Tom Elliott, Rada Varga|
-| 2017-2018 | Fall Sunoikisis DCH |7|2017-02-11| Data transformation with python and regular expressions | Matteo Romanello, Simona Stoyanova |
-| 2017-2018 | Fall Sunoikisis DCH |8|2017-09-11| Linking text and image | Charlotte Roueché, Simona Stoyanova, Gabriel Bodard |
-| 2017-2018 | Fall Sunoikisis DCH |9|2017-16-11|  Prosopography and linked person-data | Gabriel Bodard, Rada Varga |
-| 2017-2018 | Fall Sunoikisis DCH |10|2017-23-11| 3D scanning and imaging | Graeme Earl, Christian Prager, Valeria Vitale |
-| 2017-2018 | Fall Sunoikisis DCH |11|2017-30-11|  3D modelling and design | Thomas Flynn, Graeme Earl, Valeria Vitale |
-| 2017-2018 | Fall Sunoikisis DCH |12|2017-07-12|  3D printing | Gabriel Bodard, Philip Carter, Tyler Jo Smith |
-| 2017-2018 | Fall Sunoikisis DCH |13|2017-14-12| Network analysis and visualisation | Yanne Broux, Ryan Horne |
-| 2017-2018 | Fall Sunoikisis DCH |14|2018-11-01|  3D environments and virtual reality | Tom Flynn, Matthew Nicholls, Valeria Vitale |
+| 2017-2018 | Fall Sunoikisis DCH |1|2017-14-09| Overview, cultural heritage and digital humanities | Gabriel Bodard (Université de Londres), Tom Elliott (NYU), Simona Stoyanova (Université de Londres), Rada Varga (Cluj-Napoca)|
+| 2017-2018 | Fall Sunoikisis DCH |2|2017-21-09| Crowdsourcing archaeological data: Portable antiquities scheme | John Pearce (King's College London)|
+| 2017-2018 | Fall Sunoikisis DCH |3|2017-05-10| Geographic annotation and visualisation|Paula Granados García (Université ouverte), Valeria Vitale (Université de Londres)|
+| 2017-2018 | Fall Sunoikisis DCH |4|2017-12-10| Geographic Information Systems I: encoding geographic data | Paula Granados García (Université ouverte), Valeria Vitale (Université de Londres)|
+| 2017-2018 | Fall Sunoikisis DCH |5|2017-19-10| Geographic Information Systems II: interpreting geographic data| Chiara Palladino (Leipzig / Bari), Tom Elliott (NYU)|
+| 2017-2018 | Fall Sunoikisis DCH |6|2017-26-10| Structuring, querying and visualising data | Gabriel Bodard (Université de Londres), Tom Elliott (NYU), Rada Varga (Cluj-Napoca)|
+| 2017-2018 | Fall Sunoikisis DCH |7|2017-02-11| Data transformation with python and regular expressions | Matteo Romanello (DAI / EPFL), Simona Stoyanova (Université de Londres) |
+| 2017-2018 | Fall Sunoikisis DCH |8|2017-09-11| Linking text and image | Charlotte Roueché(King's College London), Simona Stoyanova (Université de Londres), Gabriel Bodard (Université de Londres) |
+| 2017-2018 | Fall Sunoikisis DCH |9|2017-16-11|  Prosopography and linked person-data | Gabriel Bodard (Université de Londres), Rada Varga (Cluj-Napoca)|
+| 2017-2018 | Fall Sunoikisis DCH |10|2017-23-11| 3D scanning and imaging | Graeme Earl (King's College London), Sven Gronemeyer (Bonn), Valeria Vitale (University of London)|
+| 2017-2018 | Fall Sunoikisis DCH |11|2017-30-11| 3D modelling and design | Graeme Earl (King's College London), Tom Flynn (SketchFab), Valeria Vitale (University of London) |
+| 2017-2018 | Fall Sunoikisis DCH |12|2017-07-12|  3D printing | Gabriel Bodard, Philip Carter (Université de Londres), Tyler Jo Smith (Université de Virginie) |
+| 2017-2018 | Fall Sunoikisis DCH |13|2017-14-12| Network analysis and visualisation | Yanne Broux (Université de Bordeaux), Ryan Horne (Université de Pittsburgh) |
+| 2017-2018 | Fall Sunoikisis DCH |14|2018-11-01|  3D environments and virtual reality | Valeria Vitale (Université de Londres), Matthew Nicholls (Université de Reading), Tom Flynn (Sketchfab) |
 
 
 ### Spring - Summer 2018: Sunoikisis Digital Classics |CJG
@@ -225,7 +225,7 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 14. Thu, July 4: The Scaife Viewer Reading Environment (James Tauber)
 15. Thu, July 11: The Coptic Scriptorium Project (Caroline Schröder)
 
-## SunoikisisDC 2019-2020 | OB
+## SunoikisisDC 2019-2020 | OB AC
 
 ### Fall 2019: Sunoikisis Digital Cultural Heritage
 
