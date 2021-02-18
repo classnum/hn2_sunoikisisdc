@@ -132,53 +132,53 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 24. July 6. Topic modelling of morphologically complex languages (Thomas Köntges)
 
 
-## SunoikisisDC 2017-2018 |CJG
+## SunoikisisDC 2017-2018 | CJG
 
-### Fall Sunoikisis DCH |CJG AC
+### Fall Sunoikisis DCH | CJG AC
 
-| Numéro |   Année   | Saison | Séance |    Date    |                                           Titre                                            |                                                                          Contributeurs (+ Institutions)                                                                         |   |
-|--------|-----------|--------|--------|------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| 2017-2018 | Fall Sunoikisis DCH |1|2017-14-09| Overview, cultural heritage and digital humanities | Gabriel Bodard (Université de Londres), Tom Elliott (NYU), Simona Stoyanova (Université de Londres), Rada Varga (Cluj-Napoca)|
-| 2017-2018 | Fall Sunoikisis DCH |2|2017-21-09| Crowdsourcing archaeological data: Portable antiquities scheme | John Pearce (King's College London)|
-| 2017-2018 | Fall Sunoikisis DCH |3|2017-05-10| Geographic annotation and visualisation|Paula Granados García (Université ouverte), Valeria Vitale (Université de Londres)|
-| 2017-2018 | Fall Sunoikisis DCH |4|2017-12-10| Geographic Information Systems I: encoding geographic data | Paula Granados García (Université ouverte), Valeria Vitale (Université de Londres)|
-| 2017-2018 | Fall Sunoikisis DCH |5|2017-19-10| Geographic Information Systems II: interpreting geographic data| Chiara Palladino (Leipzig / Bari), Tom Elliott (NYU)|
-| 2017-2018 | Fall Sunoikisis DCH |6|2017-26-10| Structuring, querying and visualising data | Gabriel Bodard (Université de Londres), Tom Elliott (NYU), Rada Varga (Cluj-Napoca)|
-| 2017-2018 | Fall Sunoikisis DCH |7|2017-02-11| Data transformation with python and regular expressions | Matteo Romanello (DAI / EPFL), Simona Stoyanova (Université de Londres) |
-| 2017-2018 | Fall Sunoikisis DCH |8|2017-09-11| Linking text and image | Charlotte Roueché(King's College London), Simona Stoyanova (Université de Londres), Gabriel Bodard (Université de Londres) |
-| 2017-2018 | Fall Sunoikisis DCH |9|2017-16-11|  Prosopography and linked person-data | Gabriel Bodard (Université de Londres), Rada Varga (Cluj-Napoca)|
-| 2017-2018 | Fall Sunoikisis DCH |10|2017-23-11| 3D scanning and imaging | Graeme Earl (King's College London), Sven Gronemeyer (Bonn), Valeria Vitale (University of London)|
-| 2017-2018 | Fall Sunoikisis DCH |11|2017-30-11| 3D modelling and design | Graeme Earl (King's College London), Tom Flynn (SketchFab), Valeria Vitale (University of London) |
-| 2017-2018 | Fall Sunoikisis DCH |12|2017-07-12|  3D printing | Gabriel Bodard, Philip Carter (Université de Londres), Tyler Jo Smith (Université de Virginie) |
-| 2017-2018 | Fall Sunoikisis DCH |13|2017-14-12| Network analysis and visualisation | Yanne Broux (Université de Bordeaux), Ryan Horne (Université de Pittsburgh) |
-| 2017-2018 | Fall Sunoikisis DCH |14|2018-11-01|  3D environments and virtual reality | Valeria Vitale (Université de Londres), Matthew Nicholls (Université de Reading), Tom Flynn (Sketchfab) |
+| Numéro |   Année   |        Saison       | Séance |    Date    |                              Titre                              |                                                 Contributeurs (+ Institutions)                                                |
+|--------|-----------|---------------------|--------|------------|-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| TBA    | 2017-2018 | Fall Sunoikisis DCH |      1 | 2017-14-09 | Overview, cultural heritage and digital humanities              | Gabriel Bodard (Université de Londres), Tom Elliott (NYU), Simona Stoyanova (Université de Londres), Rada Varga (Cluj-Napoca) |
+| TBA    | 2017-2018 | Fall Sunoikisis DCH |      2 | 2017-21-09 | Crowdsourcing archaeological data: Portable antiquities scheme  | John Pearce (King's College London)                                                                                           |
+| TBA    | 2017-2018 | Fall Sunoikisis DCH |      3 | 2017-05-10 | Geographic annotation and visualisation                         | Paula Granados García (Université ouverte), Valeria Vitale (Université de Londres)                                            |
+| TBA    | 2017-2018 | Fall Sunoikisis DCH |      4 | 2017-12-10 | Geographic Information Systems I: encoding geographic data      | Paula Granados García (Université ouverte), Valeria Vitale (Université de Londres)                                            |
+| TBA    | 2017-2018 | Fall Sunoikisis DCH |      5 | 2017-19-10 | Geographic Information Systems II: interpreting geographic data | Chiara Palladino (Leipzig / Bari), Tom Elliott (NYU)                                                                          |
+| TBA    | 2017-2018 | Fall Sunoikisis DCH |      6 | 2017-26-10 | Structuring, querying and visualising data                      | Gabriel Bodard (Université de Londres), Tom Elliott (NYU), Rada Varga (Cluj-Napoca)                                           |
+| TBA    | 2017-2018 | Fall Sunoikisis DCH |      7 | 2017-02-11 | Data transformation with python and regular expressions         | Matteo Romanello (DAI / EPFL), Simona Stoyanova (Université de Londres)                                                       |
+| TBA    | 2017-2018 | Fall Sunoikisis DCH |      8 | 2017-09-11 | Linking text and image                                          | Charlotte Roueché (King's College London), Simona Stoyanova (Université de Londres), Gabriel Bodard (Université de Londres)    |
+| TBA    | 2017-2018 | Fall Sunoikisis DCH |      9 | 2017-16-11 | Prosopography and linked person-data                            | Gabriel Bodard (Université de Londres), Rada Varga (Cluj-Napoca)                                                              |
+| TBA    | 2017-2018 | Fall Sunoikisis DCH |     10 | 2017-23-11 | 3D scanning and imaging                                         | Graeme Earl (King's College London), Sven Gronemeyer (Bonn), Valeria Vitale (University of London)                            |
+| TBA    | 2017-2018 | Fall Sunoikisis DCH |     11 | 2017-30-11 | 3D modelling and design                                         | Graeme Earl (King's College London), Tom Flynn (SketchFab), Valeria Vitale (University of London)                             |
+| TBA    | 2017-2018 | Fall Sunoikisis DCH |     12 | 2017-07-12 | 3D printing                                                     | Gabriel Bodard, Philip Carter (Université de Londres), Tyler Jo Smith (Université de Virginie)                                |
+| TBA    | 2017-2018 | Fall Sunoikisis DCH |     13 | 2017-14-12 | Network analysis and visualisation                              | Yanne Broux (Université de Bordeaux), Ryan Horne (Université de Pittsburgh)                                                   |
+| TBA    | 2017-2018 | Fall Sunoikisis DCH |     14 | 2018-11-01 | 3D environments and virtual reality                             | Valeria Vitale (Université de Londres), Matthew Nicholls (Université de Reading), Tom Flynn (Sketchfab)                       |
 
 
-### Spring - Summer 2018: Sunoikisis Digital Classics |CJG
+### Spring - Summer 2018: Sunoikisis Digital Classics | CJG
 
-| Numéro |   Année   | Saison | Séance |    Date    |                                           Titre                                            |                                                                          Contributeurs (+ Institutions)                                                                         |   |
-|--------|-----------|--------|--------|------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |1|2018-25-01|  Translation alignment | Maryam Foradi, Tariq Yousef, Gabriel Bodard |
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |2|2018-01-02|  Collaborative editing/resources | Gabriel Bodard, Emma Bridges, Lucia Vannini|
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |3|2018-08-02|  Markup 1 | Monica Berti, Gabriel Bodard, Martina Filosa |
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |4|2018-15-02| Text annotation | Monica Berti, Gabriel Bodard |
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |5|2018-22-02|  Markup 2 | Gabriel Bodard, Simona Stoyanova, Lucia Vannini |
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |6|2018-01-03|  Treebanking 1 | Marja Vierros, Polina Yordanova|
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |7|2018-08-03|  Treebanking 2 | Dag Haug, Francesco Mambrini |
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |8|2018-15-03|  Python 1/NER |Francesco Mambrini, Simona Stoyanova|
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |9|2018-22-03|   Python 2/PoS tagging and lemmatisation | Barbara McGillivray, Matteo Romanello|
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |10|2018-12-04|  Linked Ancient World Data | Hugh Cayless, Valeria Vitale|
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |11|2018-19-04|  The Classical Language Toolkit (CLTK) | Patrick J. Burns|
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |12|2018-26-04| The Scaife Digital Library Viewer |James Tauber|
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |13|2018-03-05|  Linguistic Annotation | Eleni Bozia and Anise D'Orange Ferreira |
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |14|2018-17-05|  Geo-Annotation [CANCELLED] | Chiara Palladino and Valeria Vitale |
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |15|2018-24-05| Digital Prosopography |Rada Varga and Gabriel Bodard |
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |16|2018-31-05|  Programming Through Latin | Eleni Bozia and Angelos Barmpoutis |
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |17|2018-07-06|   Mastering Sanskrit and Latin words and phrases with Bhagavad Gita as a digital corpus | Neven Jovanović, Mia Stubičar, Ana Vragolović |
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |18|2018-14-06| Open Persian |Maryam Foradi |
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |19|2018-21-06|  Digital Papyrology | Nicola Reggiani and Marja Vierros |
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |20|2018-28-06|  3D Modelling | Valeria Vitale|
-| 2017-2018 |Spring - Summer 2018: Sunoikisis Digital Classics |21|2018-05-07| The Digital Rosetta Stone Project | Miriam Amin, Monica Berti, Josephine Hensel, Franziska Naether |
+| Numéro |   Année   |                       Saison                      | Séance |    Date    |                                         Titre                                         |                 Contributeurs (+ Institutions)                 |
+|--------|-----------|---------------------------------------------------|--------|------------|---------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |      1 | 2018-25-01 | Translation alignment                                                                 | Maryam Foradi, Tariq Yousef, Gabriel Bodard                    |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |      2 | 2018-01-02 | Collaborative editing/resources                                                       | Gabriel Bodard, Emma Bridges, Lucia Vannini                    |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |      3 | 2018-08-02 | Markup 1                                                                              | Monica Berti, Gabriel Bodard, Martina Filosa                   |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |      4 | 2018-15-02 | Text annotation                                                                       | Monica Berti, Gabriel Bodard                                   |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |      5 | 2018-22-02 | Markup 2                                                                              | Gabriel Bodard, Simona Stoyanova, Lucia Vannini                |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |      6 | 2018-01-03 | Treebanking 1                                                                         | Marja Vierros, Polina Yordanova                                |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |      7 | 2018-08-03 | Treebanking 2                                                                         | Dag Haug, Francesco Mambrini                                   |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |      8 | 2018-15-03 | Python 1/NER                                                                          | Francesco Mambrini, Simona Stoyanova                           |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |      9 | 2018-22-03 | Python 2/PoS tagging and lemmatisation                                                | Barbara McGillivray, Matteo Romanello                          |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |     10 | 2018-12-04 | Linked Ancient World Data                                                             | Hugh Cayless, Valeria Vitale                                   |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |     11 | 2018-19-04 | The Classical Language Toolkit (CLTK)                                                 | Patrick J. Burns                                               |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |     12 | 2018-26-04 | The Scaife Digital Library Viewer                                                     | James Tauber                                                   |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |     13 | 2018-03-05 | Linguistic Annotation                                                                 | Eleni Bozia and Anise D'Orange Ferreira                        |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |     14 | 2018-17-05 | Geo-Annotation [CANCELLED]                                                            | Chiara Palladino and Valeria Vitale                            |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |     15 | 2018-24-05 | Digital Prosopography                                                                 | Rada Varga and Gabriel Bodard                                  |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |     16 | 2018-31-05 | Programming Through Latin                                                             | Eleni Bozia and Angelos Barmpoutis                             |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |     17 | 2018-07-06 | Mastering Sanskrit and Latin words and phrases with Bhagavad Gita as a digital corpus | Neven Jovanović, Mia Stubičar, Ana Vragolović                  |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |     18 | 2018-14-06 | Open Persian                                                                          | Maryam Foradi                                                  |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |     19 | 2018-21-06 | Digital Papyrology                                                                    | Nicola Reggiani and Marja Vierros                              |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |     20 | 2018-28-06 | 3D Modelling                                                                          | Valeria Vitale                                                 |
+| TBA    | 2017-2018 | Spring - Summer 2018: Sunoikisis Digital Classics |     21 | 2018-05-07 | The Digital Rosetta Stone Project                                                     | Miriam Amin, Monica Berti, Josephine Hensel, Franziska Naether |
 
 ## SunoikisisDC 2018-2019 | PB
 
@@ -275,28 +275,28 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 
 | Numéro |   Année   | Saison | Séance |    Date    |                   Titre                   |                                                            Contributeurs (+ Institutions)                                                           |
 |--------|-----------|--------|--------|------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Numéro | 2020-2021 | Fall   |      1 | 2020-10-08 | Open Source software, commandline and Git | Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Irene Vagionakis (Bologna)                                               |
-| Numéro | 2020-2021 | Fall   |      2 | 2020-10-15 | Introduction to Markup                    | Jonathan Blaney (University of London) Charlotte Tupman (Exeter), Irene Vagionakis (Bologna)                                                        |
-| Numéro | 2020-2021 | Fall   |      3 | 2020-10-19 | EpiDoc XML                                | Gabriel Bodard (University of London), Alessio (Paris Sorbonne), Irene Vagionakis (Bologna)                                                         |
-| Numéro | 2020-2021 | Fall   |      4 | 2020-10-29 | Introduction to Computational Linguistics | Alek Keersmaekers (KU Leuven), Marton Ribary (Surrey), Thea Sommerschield (Oxford)                                                                  |
-| Numéro | 2020-2021 | Fall   |      5 | 2020-11-05 | Web Annotation                            | Monica Berti (Universität Leipzig), Valeria Vitale (British Library)                                                                                |
-| Numéro | 2020-2021 | Fall   |      6 | 2020-11-12 | Research with Wikimedia Commons           | Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Richard Nevell (Wikimedia UK)                                            |
-| Numéro | 2020-2021 | Fall   |      7 | 2020-11-19 | Using Treebanks                           | Francesca Dell’Oro (University of Lausanne), Vanessa Gorman (University of Nebraska-Lincoln), Marja Vierros (Helsinki), Polina Yordanova (Helsinki) |
-| Numéro | 2020-2021 | Fall   |      8 | 2020-11-26 | Translation Technologies                  | Franziska Naether (Leipzig), Chiara Palladino (Furman)                                                                                              |
-| Numéro | 2020-2021 | Fall   |      9 | 2020-12-03 | Visualisation                             | Aurélien Berra (Paris Nanterre), Gabriel Bodard (University of London), Naomi Wells (University of London)                                          |
+| TBA    | 2020-2021 | Fall   |      1 | 2020-10-08 | Open Source software, commandline and Git | Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Irene Vagionakis (Bologna)                                               |
+| TBA    | 2020-2021 | Fall   |      2 | 2020-10-15 | Introduction to Markup                    | Jonathan Blaney (University of London) Charlotte Tupman (Exeter), Irene Vagionakis (Bologna)                                                        |
+| TBA    | 2020-2021 | Fall   |      3 | 2020-10-19 | EpiDoc XML                                | Gabriel Bodard (University of London), Alessio (Paris Sorbonne), Irene Vagionakis (Bologna)                                                         |
+| TBA    | 2020-2021 | Fall   |      4 | 2020-10-29 | Introduction to Computational Linguistics | Alek Keersmaekers (KU Leuven), Marton Ribary (Surrey), Thea Sommerschield (Oxford)                                                                  |
+| TBA    | 2020-2021 | Fall   |      5 | 2020-11-05 | Web Annotation                            | Monica Berti (Universität Leipzig), Valeria Vitale (British Library)                                                                                |
+| TBA    | 2020-2021 | Fall   |      6 | 2020-11-12 | Research with Wikimedia Commons           | Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Richard Nevell (Wikimedia UK)                                            |
+| TBA    | 2020-2021 | Fall   |      7 | 2020-11-19 | Using Treebanks                           | Francesca Dell’Oro (University of Lausanne), Vanessa Gorman (University of Nebraska-Lincoln), Marja Vierros (Helsinki), Polina Yordanova (Helsinki) |
+| TBA    | 2020-2021 | Fall   |      8 | 2020-11-26 | Translation Technologies                  | Franziska Naether (Leipzig), Chiara Palladino (Furman)                                                                                              |
+| TBA    | 2020-2021 | Fall   |      9 | 2020-12-03 | Visualisation                             | Aurélien Berra (Paris Nanterre), Gabriel Bodard (University of London), Naomi Wells (University of London)                                          |
 
 ### Sunoikisis Digital Cultural Heritage, Spring 2021 programme
 
-| Numéro | Année     | Saison | Séance | Date       | Titre                                               | Contributeurs (+ Institutions) |
-|--------|-----------|--------|--------|------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| Numéro | 2020-2021 | Spring | 1      | 2021-01-21 | 3D imaging and scanning                             |Gabriel Bodard (University of London), Kelly McClinton (Indiana University), Alicia Walsh (Recollection Heritage)|
-| Numéro | 2020-2021 | Spring | 2      | 2021-01-28 | Community Mapping                                   |James Morley (A Street Near You), Valeria Vitale (british Library)|
-| Numéro | 2020-2021 | Spring | 3      | 2021-02-04 | Wikipedia and cultural knowledge production         |Effie Kapsalis (Smithsonian), Evelin Heidel (Creative Commons), Gabriel Bodard (London), Andrea Wallace (Exeter)|
-| Numéro | 2020-2021 | Spring | 4      | 2021-02-11 | Linked geographical data and web-mapping            |Anne Chen (Yale), Rainer Simon (Austrian Institute of Technology), Valeria Vitale (British Library)|
-| Numéro | 2020-2021 | Spring | 5      | 2021-02-18 | Intangible Cultural Heritage and Indigenous heritage| Brigitte Vézina (Creative Commons), Majd Al-shihabi (Palestine Open Maps), Andrea Wallace (Exeter)|
-| Numéro | 2020-2021 | Spring | 6      | 2021-02-25 | Geographic Information Systems                      |Piraye Hacıgüzeller (University of Antwerp), Rebecca Seifried (University of Massachussetts Amherst)|
-| Numéro | 2020-2021 | Spring | 7      | 2021-03-04 | Publishing 3D models and intellectual property      |Tom Flynn (SketchFab), Dinusha Mendis (Bournemouth University), Alicia Walsh (Recollection Heritage)|
-| Numéro | 2020-2021 | Spring | 8      | 2021-03-11 | Intellectual Property and heritage restitution      |Douglas McCarthy (Europeana), Mathilde Pavis (Exeter), Andrea Wallace (Exeter)|
-| Numéro | 2020-2021 | Spring | 9      | 2021-03-18 | 3D modelling                                        |Vasiliki Lagari (Leiden), Chiara Piccoli (Amsterdam), Alicia Walsh (Recollection Heritage)|
+| Numéro |   Année   | Saison | Séance |    Date    |                        Titre                         |                                           Contributeurs (+ Institutions)                                          |
+|--------|-----------|--------|--------|------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| TBA    | 2020-2021 | Spring |      1 | 2021-01-21 | 3D imaging and scanning                              | Gabriel Bodard (University of London), Kelly McClinton (Indiana University), Alicia Walsh (Recollection Heritage) |
+| TBA    | 2020-2021 | Spring |      2 | 2021-01-28 | Community Mapping                                    | James Morley (A Street Near You), Valeria Vitale (british Library)                                                |
+| TBA    | 2020-2021 | Spring |      3 | 2021-02-04 | Wikipedia and cultural knowledge production          | Effie Kapsalis (Smithsonian), Evelin Heidel (Creative Commons), Gabriel Bodard (London), Andrea Wallace (Exeter)  |
+| TBA    | 2020-2021 | Spring |      4 | 2021-02-11 | Linked geographical data and web-mapping             | Anne Chen (Yale), Rainer Simon (Austrian Institute of Technology), Valeria Vitale (British Library)               |
+| TBA    | 2020-2021 | Spring |      5 | 2021-02-18 | Intangible Cultural Heritage and Indigenous heritage | Brigitte Vézina (Creative Commons), Majd Al-shihabi (Palestine Open Maps), Andrea Wallace (Exeter)                |
+| TBA    | 2020-2021 | Spring |      6 | 2021-02-25 | Geographic Information Systems                       | Piraye Hacıgüzeller (University of Antwerp), Rebecca Seifried (University of Massachussetts Amherst)              |
+| TBA    | 2020-2021 | Spring |      7 | 2021-03-04 | Publishing 3D models and intellectual property       | Tom Flynn (SketchFab), Dinusha Mendis (Bournemouth University), Alicia Walsh (Recollection Heritage)              |
+| TBA    | 2020-2021 | Spring |      8 | 2021-03-11 | Intellectual Property and heritage restitution       | Douglas McCarthy (Europeana), Mathilde Pavis (Exeter), Andrea Wallace (Exeter)                                    |
+| TBA    | 2020-2021 | Spring |      9 | 2021-03-18 | 3D modelling                                         | Vasiliki Lagari (Leiden), Chiara Piccoli (Amsterdam), Alicia Walsh (Recollection Heritage)                        |
 
 ### Summer 2021 : TBA
