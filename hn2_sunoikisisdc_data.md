@@ -229,15 +229,15 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 
 ### Fall 2019: Sunoikisis Digital Cultural Heritage
 
-1. Thurs Oct 3: Digital Images and Photography (Rossitza Atanassova, Eugenio Falcioni)
-2. *Thurs Oct 10: 3D Imaging and Photogrammetry (Gabriel Bodard, Emma Payne, Valeria Vitale, Alicia Walsh)
-3. Thurs Oct 17: Decolonization of Cultural Heritage (Usama Gad, Zena Kamash, Patricia Murrieta Flores)
-4. Thurs Oct 24: 3D Modelling for Cultural Heritage (Chiara Piccoli, Martina Polig, Valeria Vitale)
-5. Thurs Oct 31: Digital Gazetteers (Johan Åhlfeldt, Tom Elliott, Valeria Vitale)
-6. Thurs Nov 7: Linked Open Data (Gabriel Bodard, Paula Granados García, Matteo Romanello)
-7. Thurs Nov 14: Legal and Ethical Considerations (Gabriel Bodard, Richard Nevell, Andrea Wallace)
-8. Thurs Nov 21: GIS and Geovisualization (Chiara Palladino, Rebecca Seifried)
-9. *Thurs Nov 28: Crowdsourcing Cultural Heritage (John Pearce, Mia Ridge)
+1. Thu Oct 3: Digital Images and Photography, Rossitza Atanassova, Eugenio Falcioni (British Library)
+2. Thu Oct 10: 3D Imaging and Photogrammetry, Gabriel Bodard (ICS), Emma Payne (King's College London), Valeria Vitale (ICS), Alicia Walsh (Leiden)
+3. Thu Oct 17: Decolonization of Cultural Heritage Usama Gad (Université Aim Shams, Egypte et Institut d'études classiques), Zena Kamash (Université Royal Holloway de Londres), Patricia Murrieta Flores (Université de Lancaster)
+4. Thu Oct 24: 3D Modelling for Cultural Heritage Chiara Piccoli (Université d'Amsterdam et Université de Leiden), Martina Polig (Institut de Chypre et Université de Gand), Valeria Vitale (ICS)
+5. Thu Oct 31: Digital Gazetteers Johan Åhlfeldt (Göteborg), Tom Elliott (Université de New York), Valeria Vitale (Institute of Classical Studies)
+6. Thu Nov 7: Linked Open Data Gabriel Bodard (Institut d'études classiques), Paula Granados García (Université ouverte), Matteo Romanello (École polytechnique fédérale de Lausanne)
+7. Thu Nov 14: Legal and Ethical Considerations Gabriel Bodard (Institute of Classical Studies), Richard Nevell (Wikimedia UK), Andrea Wallace (University of Exeter)
+8. Thu Nov 21: GIS and Geovisualization Chiara Palladino (Furman University), Rebecca Seifried (University of Massachusetts Amherst)
+9. Thu Nov 28: Crowdsourcing Cultural Heritage John Pearce (King's College London), Mia Ridge (British Library)
 
 ### Spring 2020: Sunoikisis Digital Classics
 
