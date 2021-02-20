@@ -184,46 +184,53 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 
 ### Fall 2018: Sunoikisis DCH
 
-1. Oct. 3. Historical Digital Gazetteers (Jeffrey Becker, Ruth Mostern, Valeria Vitale)
-2. Oct. 11. Creating and visualising geo-annotations (Elton Barker, Gethin Rees, Valeria Vitale)
-3. Oct. 18. 3D Imaging and Printing: documenting and reproducing cultural heritage artefacts (Gabriel Bodard, Valeria Vitale)
-4. Oct. 25. Geographic Information System: querying geo-data (Leonard Bruckner, Chris Donaldson, Adina Puscasu)
-5. Nov. 1. Digital Cultural Heritage and Public Engagement (Elisa Bonacini, Emma Bridges, Humphrey Southall)
-6. Nov. 8. Linked Open Data for Cultural Heritage (Gabriel Bodard, Hugh Cayless, Tom Elliott, Jonathan Prag, Valeria Vitale)
-7. Nov. 15. 3D Modelling and Texturing (Thomas Flynn, Rachel Opitz, Valeria Vitale)
-8. Nov. 22. Network Analysis (Tom Brughmans)
-9. Nov. 29. Copyright and Open Access for Digital Cultural Heritage (Gabriel Bodard, Emma Payne, Andrea Wallace)
+| Numéro |   Année   | Saison | Séance |    Date    |                                           Titre                                            |                                                                          Contributeurs (+ Institutions)                                                                         |
+|--------|-----------|--------|--------|------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      1 | 2018-2019 |  Fall  |      1 |2018-10-03  |  Historical Digital                                                   Gazetteers                                                     | Jeffrey Becker (Binghamton University), Ruth Mostern (University of Pittsburgh), Valeria Vitale (University of London)                                                                   |
+|      2 | 2018-2019 |  Fall  |      2 | 2018-10-11 | Creating and visualising                                                          geo-annotations                                                | Elton Barker (Open University), Gethin Rees (British Library), Valeria Vitale (Institute of Classical Studies)                                                                              |
+|      3 | 2018-2019 |  Fall  |      3 | 2018-10-18 | 3D Imaging and Printing: documenting and reproducing cultural heritage artefacts                                                      | Gabriel Bodard, Valeria Vitale (University of London)                                                                                                              |
+|      4 | 2018-2019 |  Fall  |      4 | 2018-10-25 | Geographic Information System: querying                                           geo-data                                                       | Leonard Bruckner, Adina Puscasu (Cluj-Napoca), Chris Donaldson (Lancaster)                                                                                                          |
+|      5 | 2018-2019 |  Fall  |      5 | 2018-11-01 |  Digital Cultural Heritage and Public                                Engagement                                                     | Elisa Bonacini (University of South Florida), Emma Bridges (University of London), Humphrey Southall (Portsmouth)                                                                               |
+|      6 | 2018-2019 |  Fall  |      6 | 2018-11-08 |  Linked Open Data for Cultural                                       Heritage                                                       |  Gabriel Bodard, Valeria Vitale (University of London), Hugh Cayless (Duke), Tom Elliott (ISAW), Andrew Meadows, Jonathan Prag (Oxford), Charlotte Tupman (Exeter)                          |
+|      7 | 2018-2019 |  Fall  |      7 | 2018-11-15 |  3D Modelling and                                                         Texturing                                                      |  Thomas Flynn (Sketchfab), Rachel Opitz (Glasgow), Valeria Vitale (University of London)                                                                                                 |
+|      8 | 2018-2019  |  Fall |      8 | 2018-11-22 |  Network                                                                    Analysis                                                       | Tom Brughmans (Oxford)                                  |
+|      9 | 2018-2019  |   Fall |     9 | 2018-11-29 | Copyright and Open Access for Digital Cultural                                    Heritage                                                       | Gabriel Bodard (University of London), Emma Payne (King's College London), Andrea Wallace (Exeter)                                                                                        |
 
 ### Spring 2019: Sunoikisis Digital Classics
 
-1. Thu, Jan 10 Epigraphic markup: Leiden to EpiDoc (Gabriel Bodard & Elli Mylonas)
-2. Thu, Jan 17 Using online linguistic tools: dictionaries and text corpora (Helma Dik, Bridget Almas and Marja Vierros)
-3. Thu, Jan 24 Geographic annotation of text (Antonis Hadjikyriacou, Sinai Rusinek and Valeria Vitale)
-4. Thu, Jan 31 Linking and annotating secondary materials: case study of Wood Diaries and Palmyra (Jen Baird & Gabriel Bodard)
-5. Thu, Feb 7 Introduction to Treebanking (Marja Vierros & Polina Yordanova)
-6. Thu, Feb 14 Translation alignment and language pedagogy (Maryam Foradi & Farnoosh Shamsian)
-7. Thu, Feb 21 Using treebanked corpora: Universal Dependencies (Timo Korkiakangas & Marco Passarotti)
-8. Thu, Feb 28 Introduction to programming through R (Christopher Ohge & Gabriel Bodard)
-9. Thu, Mar 7 Digital methods in ancient palaeography (Yasmine Amory, Isabelle Marthot-Santaniello & Simona Stoyanova)
-10. Thu, Mar 14 Text analysis, stylometry, visualisation using R (Christopher Ohge, Robert Gorman & Maciej Eder)
+| Numéro |   Année   | Saison | Séance |    Date    |                                           Titre                                            |                                                                          Contributeurs (+ Institutions)                                                                         |
+|--------|-----------|--------|--------|------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+|     10 | 2018-2019 | Spring |     1 | 2019-01-10 | Epigraphic markup: Leiden to                                                    EpiDoc                                                          |  Gabriel Bodard (University of London) and Elli Mylonas (Brown University)                                                                                                                  |
+|     11 | 2018-2019 | Spring |     2 | 2019-01-17 | Using online linguistic tools: dictionaries and text                          corpora                                                         |  Helma Dik (Chicago), Bridget Almas (Alpheios) and Marja Vierros (Helsinki)                                                                                                                   |
+|     12 | 2018-2019 | Spring |     3 | 2019-01-24 | Geographic annotation of                                                         text                                                            | Antonis Hadjikyriacou (Boğaziçi University), Sinai Rusinek (Haifa University) and Valeria Vitale (Institute of Classical Studies)                                                            |
+|     13 | 2018-2019 | Spring |     4 | 2019-01-31 | Linking and annotating secondary materials: case study of Wood Diaries and    Palmyra                                                         | Jen Baird (Birkbeck) & Gabriel Bodard (Institute of Classical Studies)                                                                                                                   |
+|     14 | 2018-2019 | Spring |     5 | 2019-02-07 | Introduction to                                                           Treebanking                                                     |   Marja Vierros & Polina Yordanova (Helsinki)             |
+|     15 | 2018-2019 | Spring |     6 | 2019-02-14 | Translation alignment and language                                           pedagogy                                                        |   Maryam Foradi (Leipzig) & Farnoosh Shamsian (University of Tehran)                                                                                                                     |
+|     16 | 2018-2019 | Spring |     7 | 2019-02-21 | Using treebanked corpora: Universal                                      Dependencies                                                    | Timo Korkiakangas (Helsinki) & Marco Passarotti (UCSC, Milan)                                                                                                                     |
+|     17 | 2018-2019 | Spring |     8 | 2019-02-28 | Introduction to programming through                             R                                                               | Christopher Ohge & Gabriel Bodard (University of London)                                                                                                                    |
+|     18 | 2018-2019 | Spring |     9 | 2019-03-07 | Digital methods in ancient                                                 palaeography                                                    | Yasmine Amory (Ghent), Isabelle Marthot-Santaniello (Basel) & Simona Stoyanova (King's College London)                                                                                           |
+|     19 | 2018-2019 | Spring |    10 | 2019-03-14 | Text analysis, stylometry, visualisation using                                  R                                                               | Maciej Eder (Kraków), Robert Gorman (University of Nebraska–Lincoln) & Christopher Ohge (University of London)                                                                                      |
 
 ### Summer 2019: Sunoikisis Digital Classics
 
-1. Thu, April 4: Introduction to SunoikisisDC Summer 2019 (Monica Berti)
-2. Thu, April 11: Digital Philology (Federico Boschetti and Angelo Mario Del Grosso)
-3. Thu, April 18: Digital Scholarly Edition: Needs, Experiences, Possibilities (Neven Jovanović)
-4. Thu, April 25: NO SESSION
-5. Thu, May 2: Programming for Humanists (Angelos Barmpoutis and Eleni Bozia)
-6. Thu, May 9: Stylometric Analysis of Greek, Using Vocabulary, Grammar, and Syntax (Eleni Bozia)
-7. Thu, May 16: Servius: An Object-Oriented Approach (Katy K. Felkner)
-8. Thu, May 23: Peripleo and Linked Open Data (OAD) for Archaeology (Chiara Palladino)
-9. Thu, May 30: NO SESSION (Ascension Thursday)
-10. Thu, June 6: Digital Representations of Ancient Dates (Monica Berti, Gabriel Bodard, Frank Grieshaber, Tamara Kalkhitashvili)
-11. Thu, June 13: From Annotated Text to Vocabulary Exercises (Neven Jovanović and the University of Zagreb Sunoikisis Class)
-12. Thu, June 20: Digital Methods and Ancient Magic (Gabriel Bodard and Franziska Naether)
-13. Thu, June 27: Diverse Comparative Studies and the Digital Classicist Work: Greek/grc, Portuguese/por and Brazilian Sign Language/bzs (LIBRAS) (Anise Ferreira, Caio Camargo & Michel Reis, UNESP)
-14. Thu, July 4: The Scaife Viewer Reading Environment (James Tauber)
-15. Thu, July 11: The Coptic Scriptorium Project (Caroline Schröder)
+| Numéro |   Année   | Saison | Séance |    Date    |                                           Titre                                            |                                                                          Contributeurs (+ Institutions)                                                                         |
+|--------|-----------|--------|--------|------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     20 | 2018-2019 | Summer |      1 | 2019-04-04 | Introduction to SunoikisisDC Summer                                            2019                                                            |    Monica Berti (Universität Leipzig)                         |
+|     21 | 2018-2019 | Summer |      2 | 2019-04-11 | Digital                                                                     Philology                                                       |Federico Boschetti & Angelo Mario Del Grosso (Istituto di Linguistica Computazionale «A. Zampolli» - CNR - Pisa)                                                                                   |
+|     22 | 2018-2019 | Summer |      3 | 2019-04-18 | Digital Scholarly Edition: Needs, Experiences,                               Possibilities                                                   |   Neven Jovanović (University of Zagreb, Faculty of Humanities and Social Sciences, Department of Classical Philology)                                                                         |
+[4. Thu, April 25: NO SESSION]
+|     23 | 2018-2019 | Summer |      5 | 2019-05-02 | Programming for                                                             Humanists                                                       |  Angelos Barmpoutis & Eleni Bozia (University of Florida)       |
+|     24 | 2018-2019 | Summer |      6 | 2019-05-09 | Stylometric Analysis of Greek, Using Vocabulary, Grammar, and                  Syntax                                                          | Eleni Bozia (University of Florida)                             |
+|     25 | 2018-2019 | Summer |      7 | 2019-05-16 | Servius: An Object-Oriented                                                     Approach                                                        | Katy Felkner (University of Oklahoma)                           |
+|     26 | 2018-2019 | Summer |      8 | 2019-05-23 | Peripleo and Linked Open Data (OAD) for                                    Archaeology                                                     |  Chiara Palladino (Furman University)                           |
+[9. Thu, May 30: NO SESSION (Ascension Thursday]
+|     27 | 2018-2019 | Summer |     10 | 2019-06-06 | Digital Representations of Ancient                                              Dates                                                           |  Monica Berti (Universität Leipzig), Gabriel Bodard (Institute of Classical Studies London), Frank Grieshaber (Heidelberg Academy of Sciences and Humanities), Tamara Kalkhitashvili (Ilia State University)                                                                                                                      |
+|     28 | 2018-2019 | Summer |     11 | 2019-06-13 | From Annotated Text to Vocabulary                                           Exercises                                                       |  Neven Jovanović and the Sunoikisis Summer 2019 Class of the University of Zagreb, Faculty of Humanities and Social Sciences                                                                    |
+|     29 | 2018-2019 | Summer |     12 | 2019-06-20 | Digital Methods and Ancient                                                     Magic                                                           | Gabriel Bodard (Institute of Classical Studies London) & Franziska Naether (Universität Leipzig/Stellenbosch University)                                                                    |
+|     30 | 2018-2019 |Summer |      13 | 2019-06-27 | Diverse Comparative Studies and the Digital Classicist Work: Greek/grc, Portuguese/por and Brazilian Sign Language/bzs (LIBRAS)                    |   Anise Ferreira, Caio Camargo and Michel Reis (Universidade Estadual Paulista - Araraquara)                                                                                                   |
+|     31 | 2018-2019 | Summer |     14 | 2019-07-04 | The Scaife Viewer Reading                                                  Environment                                                     |  James Tauber (Eldarion)                                   |
+|     32 | 2018-2019 | Summmer|     15 | 2019-07-11 | The Coptic Scriptorium                                                           Project                                             |  Caroline Schroeder (University of the Pacific)                         |
 
 ## SunoikisisDC 2019-2020 | OB AC
 
