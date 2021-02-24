@@ -46,19 +46,19 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 
 | Numéro |   Année   | Saison | Séance |    Date    |                                                                                                          Titre                                                                                                           |         Contributeurs (+ Institutions)        |
 |--------|-----------|--------|--------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-|      1 | 2014-2015 | NA     |      1 | 2015-04-07 | Introduction to the Course                                                                                                                                                                                               | Monica Berti                                  |
-|      2 | 2014-2015 | NA     |      2 | 2015-04-14 | Ancient Named Entities in the Digital Age (common session from the Universidade Estadual Paulista at Araraquara, São Paulo, Brasil) [Introduction to onomastics, prosopography, and geography]                           | Monica Berti                                  |
-|      3 | 2014-2015 | NA     |      3 | 2015-04-21 | The Big Families [Examples of marked-up inscriptions, names, families, locations]                                                                                                                                        | Kenny Morrell                                 |
-|      4 | 2014-2015 | NA     |      4 | 2015-04-28 | Colonies and politics [Smith’s Dictionaries (translate and annotate entries), updating Wikipedia entries, SNAP ontology]                                                                                                 | Irine Darchia and Levan Gordeziani            |
-|      5 | 2014-2015 | NA     |      5 | 2015-05-05 | Who are the actors? Study in the language of Thuc. 1.89-118[Ask students to mark up passages, annotate place names, etc. (using Perseids and Pelagios)]                                                                  | Francesco Mambrini                            |
-|      6 | 2014-2015 | NA     |      6 | 2015-05-12 | Thucydides and the revolt of Thasos (common session from Thasos) [Source analysis on Thasos]                                                                                                                             | Michèle Brunet and Marie-Claire Beaulieu      |
-|      7 | 2014-2015 | NA     |      7 | 2015-05-19 | What does Thucydides say about Thasos in his book? Can we see ruins that can be linked with the text? Thasian walls (common session from Thasos) [Funerary monuments (list of casualties) linking with literary sources] | Michèle Brunet                                |
-|      8 | 2014-2015 | NA     |      8 | 2015-05-26 | The revolt of Samos in the ancient sources [Non verbal objects (read them, how are they described?)]                                                                                                                     | Monica Berti                                  |
-|      9 | 2014-2015 | NA     |      9 | 2015-06-02 | Thucydides and Thrace: linking texts, objects, and places [Annotating inscriptions with EpiDoc, translating inscriptions through EAGLE Europeana, annotating inscriptions in the Louvre (see Michèle’s database), coins] | Dimitar Illiev and Mirena Slavova             |
-|     10 | 2014-2015 | NA     |     10 | 2015-06-09 | Keywords of war? Follow the words in Thucydides [Morphological annotations]                                                                                                                                              | Anise Ferreira                                |
-|     11 | 2014-2015 | NA     |     11 | 2015-06-16 | Treebanking texts and translations [Bare trees]                                                                                                                                                                          | Neven Jovanović                               |
-|     12 | 2014-2015 | NA     |     12 | 2015-06-23 | Comparing trees: an introduction to treebanking evaluation [Annotating trees]                                                                                                                                            | Giuseppe Celano                               |
-|     13 | 2014-2015 | NA     |     13 | 2015-07-10 | Sunoikisis DC - An International Consortium of Digital Classics Programs, [Digital Classicist Seminar Series 2015](http://www.digitalclassicist.org/wip/wip2015-06mb.html)                                               | Monica Berti, Gregory R. Crane, Kenny Morrell |
+|      1 | 2014-2015 | NA     |      1 | 2015-04-07 | Introduction to the Course                                                                                                                                                                                               | Monica Berti (University of Leipzig)                                  |
+|      2 | 2014-2015 | NA     |      2 | 2015-04-14 | Ancient Named Entities in the Digital Age (common session from the Universidade Estadual Paulista at Araraquara, São Paulo, Brasil) [Introduction to onomastics, prosopography, and geography]                           | Monica Berti (University of Leipzig)                                  |
+|      3 | 2014-2015 | NA     |      3 | 2015-04-21 | The Big Families [Examples of marked-up inscriptions, names, families, locations]                                                                                                                                        | Kenny Morrell (CHS)                                |
+|      4 | 2014-2015 | NA     |      4 | 2015-04-28 | Colonies and politics [Smith’s Dictionaries (translate and annotate entries), updating Wikipedia entries, SNAP ontology]                                                                                                 | Irine Darchia (Tbilisi State University) and Levan Gordeziani (Tbilisi State University)           |
+|      5 | 2014-2015 | NA     |      5 | 2015-05-05 | Who are the actors? Study in the language of Thuc. 1.89-118[Ask students to mark up passages, annotate place names, etc. (using Perseids and Pelagios)]                                                                  | Francesco Mambrini (DAI)                           |
+|      6 | 2014-2015 | NA     |      6 | 2015-05-12 | Thucydides and the revolt of Thasos (common session from Thasos) [Source analysis on Thasos]                                                                                                                             | Michèle Brunet (Université Lyon 2) and Marie-Claire Beaulieu (Tufts University)     |
+|      7 | 2014-2015 | NA     |      7 | 2015-05-19 | What does Thucydides say about Thasos in his book? Can we see ruins that can be linked with the text? Thasian walls (common session from Thasos) [Funerary monuments (list of casualties) linking with literary sources] | Michèle Brunet (Université Lyon 2)                               |
+|      8 | 2014-2015 | NA     |      8 | 2015-05-26 | The revolt of Samos in the ancient sources [Non verbal objects (read them, how are they described?)]                                                                                                                     | Monica Berti (University of Leipzig)                                 |
+|      9 | 2014-2015 | NA     |      9 | 2015-06-02 | Thucydides and Thrace: linking texts, objects, and places [Annotating inscriptions with EpiDoc, translating inscriptions through EAGLE Europeana, annotating inscriptions in the Louvre (see Michèle’s database), coins] | Dimitar Illiev (University of Sofia) and Mirena Slavova (University of Sofia)            |
+|     10 | 2014-2015 | NA     |     10 | 2015-06-09 | Keywords of war? Follow the words in Thucydides [Morphological annotations]                                                                                                                                              | Anise Ferreira (UNESP, São Paulo)                               |
+|     11 | 2014-2015 | NA     |     11 | 2015-06-16 | Treebanking texts and translations [Bare trees]                                                                                                                                                                          | Neven Jovanović (University of Zagreb)                               |
+|     12 | 2014-2015 | NA     |     12 | 2015-06-23 | Comparing trees: an introduction to treebanking evaluation [Annotating trees]                                                                                                                                            | Giuseppe Celano (University of Leipzig)                              |
+|     13 | 2014-2015 | NA     |     13 | 2015-07-10 | Sunoikisis DC - An International Consortium of Digital Classics Programs, [Digital Classicist Seminar Series 2015](http://www.digitalclassicist.org/wip/wip2015-06mb.html)                                               | Monica Berti (University of Leipzig), Gregory R. Crane (Tufts University and University of Leipzig), Kenny Morrell (CHS) |
 
 ## SunoikisisDC 2016 | AB
 
@@ -92,44 +92,44 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 
 ### Fall Sunoikisis
 
-1. Sep 29. Introduction: Object artefact script (Gabriel Bodard)
-2. Oct 6. 3D Imaging, Photogrammetry (Sebastian Heath)
-3. Oct 13. Geography 1: Gazetteers (Valeria Vitale, Usama Gad and Gabriel Bodard)
-4. Oct 20. 3D Modelling, Computer Aided Design (Valeria Vitale)
-5. Oct 27. Geography 2: CartoDB (Tom Elliott)
-6. Nov 3. Geography 3: GIS (Leif Isaksen)
-7. Nov 10. Ontologies and Data Modelling (Arianna Ciula and Charlotte Tupman)
-8. Nov 17. Data Structuring and Querying (Tom Elliott and Sebastian Heath)
-9. Nov 24. Data Visualization (Jonathan Blaney, Sarah Milligan, Jane Winters)
-10. Dec 1. Network Analysis (Silke Vanbeselaere and Greg Woolf)
-11. Dec 8. Crowdsourcing Heritage and Conservation (John Pearce)
-12. Dec 15. Historical sources (Monica Berti)
+1. Sep 29. Introduction: Object artefact script (Gabriel Bodard ICS London)
+2. Oct 6. 3D Imaging, Photogrammetry (Sebastian Heath Institute for the Study of the Ancient World, NYU)
+3. Oct 13. Geography 1: Gazetteers (Valeria Vitale King's College London, Usama Gad Ain Shams and Heidelberg, and Gabriel Bodard ICS London)
+4. Oct 20. 3D Modelling, Computer Aided Design (Valeria Vitale King's College London)
+5. Oct 27. Geography 2: CartoDB (Tom Elliott Institute for the Study of the Ancient World, NYU)
+6. Nov 3. Geography 3: GIS (Leif Isaksen Lancaster University)
+7. Nov 10. Ontologies and Data Modelling (Arianna Ciula Roehampton University, and Charlotte Tupman University of Exeter)
+8. Nov 17. Data Structuring and Querying (Tom Elliott Institute for the Study of the Ancient World, NYU, and Sebastian Heath Institute for the Study of the Ancient World, NYU)
+9. Nov 24. Data Visualization (Jonathan Blaney Institute of Historical Research, Sarah Milligan Institute of Historical Research, Jane Winters School of Advanced Study)
+10. Dec 1. Network Analysis (Silke Vanbeselaere KU Leuven, and Greg Woolf ICS London)
+11. Dec 8. Crowdsourcing Heritage and Conservation (John Pearce King's College London)
+12. Dec 15. Historical sources (Monica Berti University of Leipzig)
 
 ### Spring Sunoikisis
 
-1. January 26. Geo-annotation (Chiara Palladino and Valeria Vitale)
-2. February 2. Encoding of ancient texts (Gabriel Bodard & Simona Stoyanova)
-3. February 9. Annotating treebanks (Polina Yordanova and Marja Vierros)
-4. February 16. Querying treebanks / INESS / Regex (Dag Haug)
-5. February 23. Querying treebanks / XML / XQuery / XPath (Giuseppe G.A. Celano)
-6. March 2. Translation alignment: Herodotus in Greek, English and Arabic (Usama A. Gad)
-7. March 9. Prosopography (Rada Varga and Gabriel Bodard)
-8. March 16. Computational Morphology (Dag Haug and Barbara McGillivray)
-9. March 23. Named entity extraction I (Matteo Romanello and Francesco Mambrini)
-10. March 30. Developing linguistic metrics for the analysis of Ancient Greek (Eleni Bozia and Anise D'Orange Ferreira)
-11. April 6. Reading Herodotus in Tbilisi (Levan Gordeziani)
-12. April 13. Reading Herodotus in Teheran (Arash Keramati and Maryam Foradi)
-13. April 20. Named entity extraction II (Matteo Romanello and Francesco Mambrini)
-14. April 27. Digital Mycenology (Federico Aurora)
-15. May 11. Digital Papyrology: documentary papyri (Nadine Quenouille, Gabriel Bodard and Lucia Vannini)
-16. May 18. Digital Papyrology: literary and paraliterary texts and linguistic annotation of documentary papyri (Marja Vierros, 17. Nicola Reggiani and Lucia Vannini)
-18. May 25. Translation Alignment: Possibilities of Language Learning and Vocabulary Training (Maryam Foradi and Farnoosh Shamsian)
-19. June 1. Digital Egyptology (Franziska Naether)
-20. June 8. Annotating people and places in Aristophanes and Ovid using Recogito (Neven Jovanović)
-21. June 15. Annotating and representing ancient lexicographical texts and similes (Stylianos Chronopoulos)
-22. June 23. Historical GIS of South-Estern Europe - Joint session with the Digital Classicist Seminar London (Dimitar Iliev, Maria Baramova and Grigor Boykov)
-23. June 29. Reading and visualizing geo-annotated data (Chiara Palladino, Valeria Vitale, and Marcel Mernitz)
-24. July 6. Topic modelling of morphologically complex languages (Thomas Köntges)
+1. January 26. Geo-annotation (Chiara Palladino University of Leipzig / University of Bari, and Valeria Vitale King's College London)
+2. February 2. Encoding of ancient texts (Gabriel Bodard ICS London, and Simona Stoyanova King's College London)
+3. February 9. Annotating treebanks (Polina Yordanova University of Sofia, and Marja Vierros University of Helsinki)
+4. February 16. Querying treebanks / INESS / Regex (Dag Haug University of Oslo)
+5. February 23. Querying treebanks / XML / XQuery / XPath (Giuseppe G.A. Celano University of Leipzig)
+6. March 2. Translation alignment: Herodotus in Greek, English and Arabic (Usama A. Gad Ain-Shams University, Cairo)
+7. March 9. Prosopography (Rada Varga Babeș-Bolyai University, Cluj-Napoca, and Gabriel Bodard ICS London)
+8. March 16. Computational Morphology (Dag Haug University of Oslo, and Barbara McGillivray Alan Turing Institute)
+9. March 23. Named entity extraction I (Matteo Romanello Deutsches Archäologisches Institut, Berlin, and Francesco Mambrini Deutsches Archäologisches Institut, Berlin)
+10. March 30. Developing linguistic metrics for the analysis of Ancient Greek (Eleni Bozia University of Florida, and Anise D'Orange Ferreira UNESP)
+11. April 6. Reading Herodotus in Tbilisi (Levan Gordeziani University of Tbilisi)
+12. April 13. Reading Herodotus in Tehran (Arash Keramati and Maryam Foradi, University of Tehran)
+13. April 20. Named entity extraction II (Matteo Romanello Deutsches Archäologisches Institut, Berlin, and Francesco Mambrini Deutsches Archäologisches Institut, Berlin)
+14. April 27. Digital Mycenology (Federico Aurora University of Oslo)
+15. May 11. Digital Papyrology: documentary papyri (Nadine Quenouille University of Leipzig, Gabriel Bodard ICS London, and Lucia Vannini ICS London)
+16. May 18. Digital Papyrology: literary and paraliterary texts and linguistic annotation of documentary papyri (Marja Vierros University of Parma/University of Trier, Nicola Reggiani University of Helsinki, and Lucia Vannini ICS London)
+18. May 25. Translation Alignment: Possibilities of Language Learning and Vocabulary Training (Maryam Foradi University of Leipzig, and Farnoosh Shamsian University of Tehran)
+19. June 1. Digital Egyptology (Franziska Naether, University of Leipzig)
+20. June 8. Annotating people and places in Aristophanes and Ovid using Recogito (Neven Jovanović, University of Zagreb)
+21. June 15. Annotating and representing ancient lexicographical texts and similes (Stylianos Chronopoulos, University of Freiburg)
+22. June 23. Historical GIS of South-Estern Europe - Joint session with the Digital Classicist Seminar London (Dimitar Iliev University of Sofia, Maria Baramova University of Sofia, and Grigor Boykov University of Sofia)
+23. June 29. Reading and visualizing geo-annotated data (Chiara Palladino University of Leipzig/University of Bari, Valeria Vitale ICS London, and Marcel Mernitz University of Leipzig)
+24. July 6. Topic modelling of morphologically complex languages (Thomas Köntges, University of Leipzig)
 
 
 ## SunoikisisDC 2017-2018 | CJG
