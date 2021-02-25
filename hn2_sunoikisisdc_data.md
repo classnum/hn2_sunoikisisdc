@@ -304,3 +304,229 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 | TBA    | 2020-2021 | Spring |      9 | 2021-03-18 | 3D modelling                                         | Vasiliki Lagari (Leiden), Chiara Piccoli (Amsterdam), Alicia Walsh (Recollection Heritage)                        |
 
 ### Summer 2021 : TBA
+
+
+
+## titres 2015-spring 2021 | TM
+
+**SunoikisisDC 2015**
+
+- Ancient Named Entities in the Digital Age : \
+      [Introduction to onomastics, prosopography, and geography]
+- The Big Families :\
+      [Examples of marked-up inscriptions, names, families, locations]
+- Colonies and politic :\
+      [Smith's Dictionaries (translate and annotate entries), updating Wikipedia entries, SNAP ontology]
+- Who are the actors? Study in the language of Thuc. 1.89-118 :\
+      [Ask students to mark up passages, annotate place names, etc. (using Perseids and Pelagios)]
+- Thucydides and the revolt of Thasos :\
+      [Source analysis on Thasos]
+- What does Thucydides say about Thasos in his book? Can we see ruins that can be linked with the text? Thasian walls :\
+      [Funerary monuments (list of casualties) linking with literary sources]
+- The revolt of Samos in the ancient sources :\
+      [Non verbal objects (read them, how are they described?)]
+- Thucydides and Thrace: linking texts, objects, and places :\
+      [Annotating inscriptions with EpiDoc, translating inscriptions through EAGLE Europeana, annotating inscriptions in the Louvre, coins]
+- Keywords of war? Follow the words in Thucydides :\
+      [Morphological annotations]
+- Treebanking texts and translations :\
+      [Bare trees]
+- Comparing trees: an introduction to treebanking evaluation :\
+      [Annotating trees]
+
+**SunoikisisDC 2016**
+
+- Introduction to the Course
+- Introduction to Treebanking Part I
+- Introduction to Treebanking Part II
+- Named Entity Recognition: SNAP and Recogito
+- Encoding of Ancient Texts
+- Annotation and Alignment of Texts and Objects
+- 3D Imaging, Scanning, Printing
+- 3D Modelling for Cultural Heritage
+- Teaching Classics in the digital era:\
+      [pedagogical and logistical issues]
+- Inscriptions in Lucian's True Stories
+- Odyssey:\
+      [Named Entities Annotation, Translation Alignment]
+- Digital Tools for the Arts and Humanities
+- Aristotle:\
+      [Translation Alignment (Greek, Latin, Arabic)]
+- Annotation of Geographical Data
+- Aligned Translations, Treebanking Part I
+- Aligned Translations, Treebanking Part II
+- Reading Plato with Digital Tools
+- Text and Digital Editing :\
+      [(Lexicography and Geography)]
+- Annotating Quotations and Text Reuses
+- Presenting SunoikisisDC 2016 at the CHS Common Day
+- Digitizing Inscriptions from Georgia
+- Teaching Greek :\
+      [through (digital) epigraphy, epigraphy through Greek]
+- Open Persian
+
+**SunoikisisDC 2016-2017**
+
+- Overview, cultural heritage and digital humanities
+- Crowdsourcing archaeological data: Portable antiquities scheme
+- Geographic annotation and visualisation
+- Geographic Information Systems I: encoding geographic data
+- Geographic Information Systems II: interpreting geographic data
+- Structuring, querying and visualising
+- Data transformation with python and regular expressions
+- Linking text and image
+- Prosopography and linked person-data
+- 3D scanning and imaging
+- 3D modelling and design
+- 3D printing
+- Network analysis and visualisation
+- 3D environments and virtual reality
+
+**Spring - Summer 2018: Sunoikisis DCH**
+
+- Translation
+- Collaborative editing/resources
+- Markup 1
+- Text annotation
+- Markup
+- Treebanking 1
+- Treebanking 2
+- Python 1/NER
+- Python 2/PoS :\
+      [tagging and lemmatisation]
+- Linked Ancient World Data
+- The Classical Language Toolkit (CLTK)
+- The Scaife Digital Library Viewer
+- Linguistic Annotation
+- Geo-Annotation
+- Digital Prosopography
+- Programming Through Latin
+- Mastering Sanskrit and Latin words and phrases with Bhagavad Gita as a digital corpus
+- Open Persian
+- Digital Papyrology
+- 3D Modelling
+- The Digital Rosetta Stone Project
+
+**SunoikisisDC 2018-2019; Fall 2018: Sunoikisis DCH**
+
+- Historical Digital Gazetteers
+- Creating and visualising geo-annotations
+- 3D Imaging and Printing :\
+      [documenting and reproducing cultural heritage artefacts]
+- Geographic Information System :\
+      [querying geo-data]
+- Digital Cultural Heritage and Public Engagement
+- Linked Open Data for Cultural Heritage
+- 3D Modelling and Texturing
+- Network Analysis
+- Copyright and Open Access for Digital Cultural Heritage
+
+**Spring 2019: Sunoikisis Digital Classics**
+
+- Epigraphic markup :\
+      [Leiden to EpiDoc]
+- Using online linguistic tools :\
+      [dictionaries and text corpora]
+- Geographic annotation of text
+- Linking and annotating secondary materials :\
+      [case study of Wood Diaries and Palmyra]
+- Introduction to Treebanking
+- Translation alignment and language pedagogy
+- Using treebanked corpora :\
+      [Universal Dependencies]
+- Introduction to programming through R
+- Digital methods in ancient palaeography
+- Text analysis, stylometry, visualisation using R
+
+**Summer 2019: Sunoikisis Digital Classics**
+
+- Introduction to SunoikisisDC Summer 2019
+- Digital Philology
+- Digital Scholarly Edition :\
+      [Needs, Experiences, Possibilities]
+- Programming for Humanists
+- Stylometric Analysis of Greek, Using Vocabulary, Grammar, and Syntax
+- Servius :\
+      [An Object-Oriented Approach]
+- Peripleo and Linked Open Data (OAD) for Archaeology
+- Digital Representations of Ancient Dates
+- From Annotated Text to Vocabulary Exercises
+- Digital Methods and Ancient Magic
+- Diverse Comparative Studies and the Digital Classicist Work :\
+      [Greek/grc, Portuguese/por and Brazilian Sign Language/bzs (LIBRAS)]
+- The Scaife Viewer Reading Environment
+- The Coptic Scriptorium Project
+
+**SunoikisisDC 2019-2020; Fall 2019: Sunoikisis DCH**
+
+- Digital Images and Photography,
+- 3D Imaging and Photogrammetry,
+- Decolonization of Cultural Heritage
+- 3D Modelling for Cultural Heritage
+- Digital Gazetteers
+- Linked Open Data
+- Legal and Ethical Considerations
+- GIS and Geovisualization
+- Crowdsourcing Cultural Heritage
+
+**Spring 2020: Sunoikisis Digital Classics**
+
+- Basic tools
+- Wikimedia sites for research
+- EpiDoc 1 :\
+      [intro to markup]
+- Introduction to Python
+- EpiDoc 2 :\
+      [publishing]
+- Treebanking 1 :\
+      [morphosyntactic annotation]
+- Translation alignment
+- Treebanking 2 :\
+      [querying treebanks]
+- Data Visualisation
+
+**Summer 2020: Sunoikisis Digital Classics**
+
+- Introduction to SunikisisDC
+- Digital Classics in Teaching
+- Text-Bearing Objects 1
+- Text-Bearing Objects 2
+- Open Access for Digital Classics
+- Digital classics and learning Greek in Iran
+- Named Entities Recognition and Annotation for Ancient Greek
+- Making CTS and its application with Greek, Portuguese, and English
+- alignments on Ducat (Daughter of Ugarit Citation Alignment Tool),
+- Cylleneus :\
+      [Next-gen corpus search for ancient languages]
+- Textual Analysis
+- Programming for Humanists
+- Romans 1 by 1 :\
+      [Classical Prosopography using relational and graph based approaches]
+- Virtual Rome :\
+      [A Digital Model of the Ancient City]
+- Digitisation, Intellectual Property, and Restitution :\
+      [Exploring (more equitable approaches to digital cultural heritage management]
+
+**SunoikisisDC 2020-2021; Fall 2020: Sunoikisis DCH**
+
+- Open Source software, commandline and Git
+- Introduction to Markup
+- EpiDoc XML
+- Introduction to Computational Linguistics
+- Web Annotation
+- Research with Wikimedia Commons
+- Using Treebanks
+- Translation Technologies
+- Visualisation
+
+**Sunoikisis DCH, Spring 2021**
+
+- 3D imaging and scanning
+- Community Mapping
+- Wikipedia and cultural knowledge production
+- Linked geographical data and web-mapping
+- Intangible Cultural Heritage and Indigenous heritage
+- Geographic Information Systems
+- Publishing 3D models and intellectual property
+- Intellectual Property and heritage restitution
+- 3D modelling
