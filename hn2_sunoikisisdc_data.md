@@ -92,45 +92,48 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 
 ### Fall Sunoikisis
 
-1. Sep 29. Introduction: Object artefact script (Gabriel Bodard ICS London)
-2. Oct 6. 3D Imaging, Photogrammetry (Sebastian Heath Institute for the Study of the Ancient World, NYU)
-3. Oct 13. Geography 1: Gazetteers (Valeria Vitale King's College London, Usama Gad Ain Shams and Heidelberg, and Gabriel Bodard ICS London)
-4. Oct 20. 3D Modelling, Computer Aided Design (Valeria Vitale King's College London)
-5. Oct 27. Geography 2: CartoDB (Tom Elliott Institute for the Study of the Ancient World, NYU)
-6. Nov 3. Geography 3: GIS (Leif Isaksen Lancaster University)
-7. Nov 10. Ontologies and Data Modelling (Arianna Ciula Roehampton University, and Charlotte Tupman University of Exeter)
-8. Nov 17. Data Structuring and Querying (Tom Elliott Institute for the Study of the Ancient World, NYU, and Sebastian Heath Institute for the Study of the Ancient World, NYU)
-9. Nov 24. Data Visualization (Jonathan Blaney Institute of Historical Research, Sarah Milligan Institute of Historical Research, Jane Winters School of Advanced Study)
-10. Dec 1. Network Analysis (Silke Vanbeselaere KU Leuven, and Greg Woolf ICS London)
-11. Dec 8. Crowdsourcing Heritage and Conservation (John Pearce King's College London)
-12. Dec 15. Historical sources (Monica Berti University of Leipzig)
+| Numéro |   Année   | Saison| Séance  |    Date    |                              Titre                              |                                                Contributeurs (+ Institutions)                                                                  |   |
+|--------|-----------|-------|---------|------------|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+|     1 | 2016-2017 | Fall   |       1 | 2016-29-09 | Introduction: Object artefact script                            | Gabriel Bodard (ICS London)                                                                                                                               |   |
+|     2 | 2016-2017 | Fall   |       2 | 2016-06-10 | 3D Imaging, Photogrammetry                                      | Sebastian Heath Institute for the Study of the Ancient World, NYU)                                                                                     |   |
+|     3 | 2016-2017 | Fall   |       3 | 2016-13-10 | Geography 1: Gazetteers                                         | Valeria Vitale (King's College London), Usama Gad Ain Shams and Heidelberg, and Gabriel Bodard (ICS London)                                           |   |
+|     4 | 2016-2017 | Fall   |       4 | 2016-20-10 | 3D Modelling, Computer Aided Design                             | Valeria Vitale (King's College London)                                                                                                                   |   |
+|     5 | 2016-2017 | Fall   |       5 | 2016-27-10 | Geography 2: CartoDB                                            | Tom Elliott (Institute for the Study of the Ancient World, NYU)                                                                                     |   |
+|     6 | 2016-2017 | Fall   |       6 | 2016-03-11 | Geography 3: GIS                                                | Leif Isaksen (Lancaster University)                                                                                                                       |   |
+|     7 | 2016-2017 | Fall   |       7 | 2016-10-11 | Ontologies and Data Modelling                                   | Arianna Ciula (Roehampton University) and Charlotte Tupman (University of Exeter)                                                                   |   |
+|     8 | 2016-2017 | Fall   |       8 | 2016-17-11 | Data Structuring and Querying                                   | Tom Elliott (Institute for the Study of the Ancient World, NYU) and Sebastian Heath (Institute for the Study of the Ancient World, NYU)             |   |
+|     9 | 2016-2017 | Fall   |       9 | 2016-24-11 | Data Visualization                                              | Jonathan Blaney (Institute of Historical Research), Sarah Milligan (Institute of Historical Research) and Jane Winters (School of Advanced Study)         |   |
+|    10 | 2016-2017 | Fall   |      10 | 2016-01-12 | Network Analysis                                                | Silke Vanbeselaere (KU Leuven) and Greg Woolf (ICS London)                                                                                         |   |
+|    11 | 2016-2017 | Fall   |      11 | 2016-08-12 | Crowdsourcing Heritage and Conservation                         | John Pearce (King's College London)                                                                                                                       |   |
+|    12 | 2016-2017 | Fall   |      12 | 2016-15-12 | Historical sources                                              | Monica Berti (University of Leipzig)                                                                                                                     |   |
 
 ### Spring Sunoikisis
 
-1. January 26. Geo-annotation (Chiara Palladino University of Leipzig / University of Bari, and Valeria Vitale King's College London)
-2. February 2. Encoding of ancient texts (Gabriel Bodard ICS London, and Simona Stoyanova King's College London)
-3. February 9. Annotating treebanks (Polina Yordanova University of Sofia, and Marja Vierros University of Helsinki)
-4. February 16. Querying treebanks / INESS / Regex (Dag Haug University of Oslo)
-5. February 23. Querying treebanks / XML / XQuery / XPath (Giuseppe G.A. Celano University of Leipzig)
-6. March 2. Translation alignment: Herodotus in Greek, English and Arabic (Usama A. Gad Ain-Shams University, Cairo)
-7. March 9. Prosopography (Rada Varga Babeș-Bolyai University, Cluj-Napoca, and Gabriel Bodard ICS London)
-8. March 16. Computational Morphology (Dag Haug University of Oslo, and Barbara McGillivray Alan Turing Institute)
-9. March 23. Named entity extraction I (Matteo Romanello Deutsches Archäologisches Institut, Berlin, and Francesco Mambrini Deutsches Archäologisches Institut, Berlin)
-10. March 30. Developing linguistic metrics for the analysis of Ancient Greek (Eleni Bozia University of Florida, and Anise D'Orange Ferreira UNESP)
-11. April 6. Reading Herodotus in Tbilisi (Levan Gordeziani University of Tbilisi)
-12. April 13. Reading Herodotus in Tehran (Arash Keramati and Maryam Foradi, University of Tehran)
-13. April 20. Named entity extraction II (Matteo Romanello Deutsches Archäologisches Institut, Berlin, and Francesco Mambrini Deutsches Archäologisches Institut, Berlin)
-14. April 27. Digital Mycenology (Federico Aurora University of Oslo)
-15. May 11. Digital Papyrology: documentary papyri (Nadine Quenouille University of Leipzig, Gabriel Bodard ICS London, and Lucia Vannini ICS London)
-16. May 18. Digital Papyrology: literary and paraliterary texts and linguistic annotation of documentary papyri (Marja Vierros University of Parma/University of Trier, Nicola Reggiani University of Helsinki, and Lucia Vannini ICS London)
-18. May 25. Translation Alignment: Possibilities of Language Learning and Vocabulary Training (Maryam Foradi University of Leipzig, and Farnoosh Shamsian University of Tehran)
-19. June 1. Digital Egyptology (Franziska Naether, University of Leipzig)
-20. June 8. Annotating people and places in Aristophanes and Ovid using Recogito (Neven Jovanović, University of Zagreb)
-21. June 15. Annotating and representing ancient lexicographical texts and similes (Stylianos Chronopoulos, University of Freiburg)
-22. June 23. Historical GIS of South-Estern Europe - Joint session with the Digital Classicist Seminar London (Dimitar Iliev University of Sofia, Maria Baramova University of Sofia, and Grigor Boykov University of Sofia)
-23. June 29. Reading and visualizing geo-annotated data (Chiara Palladino University of Leipzig/University of Bari, Valeria Vitale ICS London, and Marcel Mernitz University of Leipzig)
-24. July 6. Topic modelling of morphologically complex languages (Thomas Köntges, University of Leipzig)
-
+| Numéro |   Année   | Saison| Séance  |    Date    |                              Titre                                                                  |                                                Contributeurs (+ Institutions)                                                                             |   |
+|--------|-----------|-------|---------|------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+|  1     | 2016-2017 | Spring|       1 |2017-26-01  | Geo-annotation                                                                                      |Chiara Palladino (University of Leipzig / University of Bari) and Valeria Vitale (King's College London)                                             |   |
+|  2     | 2016-2017 | Spring|       2 |2017-26-01  | Encoding of ancient texts                                                                           |Gabriel Bodard (ICS London) and Simona Stoyanova (King's College London)                                                                                |   |
+|  3     | 2016-2017 | Spring|       3 |2017-09-02  | Annotating treebanks                                                                                |Polina Yordanova (University of Sofia) and Marja Vierros (University of Helsinki)                                                                    |   |
+|  4     | 2016-2017 | Spring|       4 |2017-16-02  | Querying treebanks / INESS / Regex                                                                  |Dag Haug (University of Oslo)                                                                                                                            |   |
+|  5     | 2016-2017 | Spring|       5 |2017-23-02  | Querying treebanks / XML / XQuery / XPath                                                           |Giuseppe G.A. Celano (University of Leipzig)                                                                                                             |   |
+|  6     | 2016-2017 | Spring|       6 |2017-02-03  | Translation alignment: Herodotus in Greek, English and Arabic                                       |Usama A. Gad (Ain-Shams University, Cairo)                                                                                                            |   |
+|  7     | 2016-2017 | Spring|       7 |2017-09-03  | Prosopography                                                                                       |Rada Varga (Babeș-Bolyai University, Cluj-Napoca) and Gabriel Bodard (ICS London)                                                                     |   |
+|  8     | 2016-2017 | Spring|       8 |2017-16-03  | Computational Morphology                                                                            |Dag Haug (University of Oslo) and Barbara McGillivray (Alan Turing Institute)                                                                            |   |
+|  9     | 2016-2017 | Spring|       9 |2017-23-03  | Named entity extraction I                                                                           |Matteo Romanello (Deutsches Archäologisches Institut, Berlin) and Francesco Mambrini (Deutsches Archäologisches Institut, Berlin)                    |   |
+| 10     | 2016-2017 | Spring|      10 |2017-30-03  | Developing linguistic metrics for the analysis of Ancient Greek                                     |Eleni Bozia (University of Florida) and Anise D'Orange Ferreira (UNESP)                                                                         |   |
+| 11     | 2016-2017 | Spring|      11 |2017-06-04  | Reading Herodotus in Tbilisi                                                                        |Levan Gordeziani (University of Tbilisi)                                                                                                             |   |
+| 12     | 2016-2017 | Spring|      12 |2017-13-04  | Reading Herodotus in Tehran                                                                         |Arash Keramati and Maryam Foradi, University of Tehran)                                                                                                |   |
+| 13     | 2016-2017 | Spring|      13 |2017-20-04  | Named entity extraction II                                                                          |Matteo Romanello Deutsches Archäologisches Institut, Berlin, and Francesco Mambrini Deutsches Archäologisches Institut, Berlin)                      |   |
+| 14     | 2016-2017 | Spring|      14 |2017-27-04  | Digital Mycenology                                                                                  |Federico Aurora University of Oslo)                                                                                                                 |   |
+| 15     | 2016-2017 | Spring|      15 |2017-11-05  | Digital Papyrology: documentary papyri                                                              |Nadine Quenouille (University of Leipzig), Gabriel Bodard (ICS London) and Lucia Vannini (ICS London)                                                 |   |
+| 16     | 2016-2017 | Spring|      16 |2017-18-05  | Digital Papyrology: literary and paraliterary texts and linguistic annotation of documentary papyri |Marja Vierros (University of Parma/University of Trier), Nicola Reggiani (University of Helsinki) and Lucia Vannini (ICS London)                  |   |
+| 17     | 2016-2017 | Spring|      17 |2017-25-05  | Translation Alignment: Possibilities of Language Learning and Vocabulary Training                   |Maryam Foradi (University of Leipzig) and Farnoosh Shamsian (University of Tehran)                                                                |   |
+| 18     | 2016-2017 | Spring|      18 |2017-01-06  | Digital Egyptology                                                                                  |Franziska Naether (University of Leipzig)                                                                                                             |   |
+| 19     | 2016-2017 | Spring|      19 |2017-08-06  | Annotating people and places in Aristophanes and Ovid using Recogito                                |Neven Jovanović (University of Zagreb)                                                                                                              |   |
+| 20     | 2016-2017 | Spring|      20 |2017-15-06  | Annotating and representing ancient lexicographical texts and similes                               |Stylianos Chronopoulos (University of Freiburg)                                                                                                            |   |
+| 21     | 2016-2017 | Spring|      21 |2017-23-06  | Historical GIS of South-Estern Europe - Joint session with the Digital Classicist Seminar London    |Dimitar Iliev (University of Sofia), Maria Baramova (University of Sofia) and Grigor Boykov (University of Sofia)                                 |   |
+| 22     | 2016-2017 | Spring|      22 |2017-29-06  | Reading and visualizing geo-annotated data                                                          |Chiara Palladino (University of Leipzig/University of Bari), Valeria Vitale (ICS London) and Marcel Mernitz (University of Leipzig)                  |   |
+| 23     | 2016-2017 | Spring|      23 |2017-06-07  | Topic modelling of morphologically complex languages                                                |Thomas Köntges (University of Leipzig)                                                                                                             |   |
 
 ## SunoikisisDC 2017-2018 | CJG
 
