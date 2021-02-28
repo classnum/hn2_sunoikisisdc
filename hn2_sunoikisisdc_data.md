@@ -233,15 +233,18 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 
 ### Fall 2019: Sunoikisis Digital Cultural Heritage
 
-1. Thu Oct 3: Digital Images and Photography, Rossitza Atanassova, Eugenio Falcioni (British Library)
-2. Thu Oct 10: 3D Imaging and Photogrammetry, Gabriel Bodard (ICS), Emma Payne (King's College London), Valeria Vitale (ICS), Alicia Walsh (Leiden)
-3. Thu Oct 17: Decolonization of Cultural Heritage Usama Gad (Université Aim Shams, Egypte et Institut d'études classiques), Zena Kamash (Université Royal Holloway de Londres), Patricia Murrieta Flores (Université de Lancaster)
-4. Thu Oct 24: 3D Modelling for Cultural Heritage Chiara Piccoli (Université d'Amsterdam et Université de Leiden), Martina Polig (Institut de Chypre et Université de Gand), Valeria Vitale (ICS)
-5. Thu Oct 31: Digital Gazetteers Johan Åhlfeldt (Göteborg), Tom Elliott (Université de New York), Valeria Vitale (Institute of Classical Studies)
-6. Thu Nov 7: Linked Open Data Gabriel Bodard (Institut d'études classiques), Paula Granados García (Université ouverte), Matteo Romanello (École polytechnique fédérale de Lausanne)
-7. Thu Nov 14: Legal and Ethical Considerations Gabriel Bodard (Institute of Classical Studies), Richard Nevell (Wikimedia UK), Andrea Wallace (University of Exeter)
-8. Thu Nov 21: GIS and Geovisualization Chiara Palladino (Furman University), Rebecca Seifried (University of Massachusetts Amherst)
-9. Thu Nov 28: Crowdsourcing Cultural Heritage John Pearce (King's College London), Mia Ridge (British Library)
+| Numéro |   Année   | Saison | Séance |    Date    |                                                                                                          Titre                                                                                                           |         Contributeurs (+ Institutions)        |
+|--------|-----------|--------|--------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+|-----131|-2019-2020-|Fall2019|-------1|-2019-10-03-|Digital Images and Photography|Rossitza Atanassova, Eugenio Falcioni (British Library)|
+|-----132|-2019-2020-|Fall2019|-------2|-2019-10-10-|3D Imaging and Photogrammetry|Gabriel Bodard (ICS), Emma Payne (King's College London), Valeria Vitale (ICS), Alicia Walsh (Leiden)|
+|-----133|-2019-2020-|Fall2019|-------3|-2019-10-17-|Decolonization of Cultural Heritage|Usama Gad (Université Aim Shams, Egypte et Institut d'études classiques), Zena Kamash (Université Royal Holloway de Londres), Patricia Murrieta Flores (Université de Lancaster)|
+|-----134|-2019-2020-|Fall2019|-------4|-2019-10-24-|3D Modelling for Cultural Heritage|Chiara Piccoli (Université d'Amsterdam et Université de Leiden), Martina Polig (Institut de Chypre et Université de Gand), Valeria Vitale (ICS)|
+|-----135|-2019-2020-|Fall2019|-------5|-2019-10-31-|Digital Gazetteers|Johan Åhlfeldt (Göteborg), Tom Elliott (Université de New York), Valeria Vitale (Institute of Classical Studies)|
+|-----136|-2019-2020-|Fall2019|-------6|-2019-11-07-|Linked Open Data|Gabriel Bodard (Institut d'études classiques), Paula Granados García (Université ouverte), Matteo Romanello (École polytechnique fédérale de Lausanne)|
+|-----137|-2019-2020-|Fall2019|-------7|-2019-11-14-|Legal and Ethical Considerations   |Gabriel Bodard (Institute of Classical Studies), Richard Nevell (Wikimedia UK), Andrea Wallace (University of Exeter)|
+|-----138|-2019-2020-|Fall2019|-------8|-2019-11-21-|GIS and Geovisualization|Chiara Palladino (Furman University), Rebecca Seifried (University of Massachusetts Amherst)|
+|-----139|-2019-2020-|Fall2019|-------9|-2019-11-28-|Crowdsourcing Cultural Heritage|John Pearce (King's College London), Mia Ridge (British Library)|
+
 
 ### Spring 2020: Sunoikisis Digital Classics
 
