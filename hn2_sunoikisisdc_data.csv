@@ -104,26 +104,26 @@ Jérôme,102,2017-2018,Spring-Summer,17,2018-07-06,Mastering Sanskrit and Latin 
 Jérôme,103,2017-2018,Spring-Summer,18,2018-14-06,Open Persian,"Maryam Foradi (University of Leipzig), Arash Keramati (University of Tehran), Farnoosh Shamsian (University of Tehran)",
 Jérôme,104,2017-2018,Spring-Summer,19,2018-21-06,Digital Papyrology,Nicola Reggiani (University of Parma) and Marja Vierros (University of Helsinki),
 Jérôme,105,2017-2018,Spring-Summer,20,2018-28-06,3D Modelling,Valeria Vitale (ICS London),
-Thierry,106,2017-2018,Spring-Summer,21,2018-05-07,The Digital Rosetta Stone Project,"Miriam Amin (University of Leipzig), Monica Berti (University of Leipzig), Josephine Hensel (University of Leipzig), Franziska Naether (University of Leipzig)",
-Thierry,107,2018-2019,Fall,1,2018-10-03,Historical Digital Gazetteers,"Jeffrey Becker (Binghamton University), Ruth Mostern (University of Pittsburgh), Valeria Vitale (University of London)",
-Thierry,108,2018-2019,Fall,2,2018-10-11,Creating and visualising geo-annotations,"Elton Barker (Open University), Gethin Rees (British Library), Valeria Vitale (Institute of Classical Studies)",
-Thierry,109,2018-2019,Fall,3,2018-10-18,3D Imaging and Printing: documenting and reproducing cultural heritage artefacts,"Gabriel Bodard, Valeria Vitale (University of London)",
-Thierry,110,2018-2019,Fall,4,2018-10-25,Geographic Information System: querying geo-data,"Leonard Bruckner, Adina Puscasu (Cluj-Napoca), Chris Donaldson (Lancaster)",
-Thierry,111,2018-2019,Fall,5,2018-11-01,Digital Cultural Heritage and Public Engagement,"Elisa Bonacini (University of South Florida), Emma Bridges (University of London), Humphrey Southall (Portsmouth)",
-Thierry,112,2018-2019,Fall,6,2018-11-08,Linked Open Data for Cultural Heritage,"Gabriel Bodard, Valeria Vitale (University of London), Hugh Cayless (Duke), Tom Elliott (ISAW), Andrew Meadows, Jonathan Prag (Oxford), Charlotte Tupman (Exeter)",
-Thierry,113,2018-2019,Fall,7,2018-11-15,3D Modelling and Texturing,"Thomas Flynn (Sketchfab), Rachel Opitz (Glasgow), Valeria Vitale (University of London)",
-Thierry,114,2018-2019,Fall,8,2018-11-22,Network Analysis,Tom Brughmans (Oxford),
-Thierry,115,2018-2019,Fall,9,2018-11-29,Copyright and Open Access for Digital Cultural Heritage,"Gabriel Bodard (University of London), Emma Payne (King's College London), Andrea Wallace (Exeter)",
-Thierry,116,2018-2019,Spring,1,2019-01-10,Epigraphic markup: Leiden to EpiDoc,Gabriel Bodard (University of London) and Elli Mylonas (Brown University),
-Thierry,117,2018-2019,Spring,2,2019-01-17,Using online linguistic tools: dictionaries and text corpora,"Helma Dik (Chicago), Bridget Almas (Alpheios) and Marja Vierros (Helsinki)",
-Thierry,118,2018-2019,Spring,3,2019-01-24,Geographic annotation of text,"Antonis Hadjikyriacou (Boğaziçi University), Sinai Rusinek (Haifa University) and Valeria Vitale (Institute of Classical Studies)",
-Thierry,119,2018-2019,Spring,4,2019-01-31,Linking and annotating secondary materials: case study of Wood Diaries and Palmyra,Jen Baird (Birkbeck) & Gabriel Bodard (Institute of Classical Studies),
-Thierry,120,2018-2019,Spring,5,2019-02-07,Introduction to Treebanking,Marja Vierros & Polina Yordanova (Helsinki),
-Thierry,121,2018-2019,Spring,6,2019-02-14,Translation alignment and language pedagogy,Maryam Foradi (Leipzig) & Farnoosh Shamsian (University of Tehran),
-Thierry,122,2018-2019,Spring,7,2019-02-21,Using treebanked corpora: Universal Dependencies,"Timo Korkiakangas (Helsinki) & Marco Passarotti (UCSC, Milan)",
-Thierry,123,2018-2019,Spring,8,2019-02-28,Introduction to programming through R,Christopher Ohge & Gabriel Bodard (University of London),
-Thierry,124,2018-2019,Spring,9,2019-03-07,Digital methods in ancient palaeography,"Yasmine Amory (Ghent), Isabelle Marthot-Santaniello (Basel) & Simona Stoyanova (King's College London)",
-Thierry,125,2018-2019,Spring,10,2019-03-14,"Text analysis, stylometry, visualisation using R","Maciej Eder (Kraków), Robert Gorman (University of Nebraska–Lincoln) & Christopher Ohge (University of London)",
+Thierry,106,2017-2018,Spring-Summer,21,2018-05-07,The Digital Rosetta Stone Project,"Miriam Amin (University of Leipzig), Monica Berti (University of Leipzig), Josephine Hensel (University of Leipzig), Franziska Naether (University of Leipzig)","Language, Manuscript, Projects, Visualization, Encoding"
+Thierry,107,2018-2019,Fall,1,2018-10-03,Historical Digital Gazetteers,"Jeffrey Becker (Binghamton University), Ruth Mostern (University of Pittsburgh), Valeria Vitale (University of London)","Data, Link, Map, Projects, Mapping"
+Thierry,108,2018-2019,Fall,2,2018-10-11,Creating and visualising geo-annotations,"Elton Barker (Open University), Gethin Rees (British Library), Valeria Vitale (Institute of Classical Studies)","Creation, Map, Visualization, Mapping, Topic Modeling"
+Thierry,109,2018-2019,Fall,3,2018-10-18,3D Imaging and Printing: documenting and reproducing cultural heritage artefacts,"Gabriel Bodard, Valeria Vitale (University of London)","Creation, Images 3D, Distance Measures, Scanning, Photography"
+Thierry,110,2018-2019,Fall,4,2018-10-25,Geographic Information System: querying geo-data,"Leonard Bruckner, Adina Puscasu (Cluj-Napoca), Chris Donaldson (Lancaster)","Analysis, Storage, Data, Map, Georeferencing"
+Thierry,111,2018-2019,Fall,5,2018-11-01,Digital Cultural Heritage and Public Engagement,"Elisa Bonacini (University of South Florida), Emma Bridges (University of London), Humphrey Southall (Portsmouth)","Creation, Enrichment,Methods,Interaction, Linked"
+Thierry,112,2018-2019,Fall,6,2018-11-08,Linked Open Data for Cultural Heritage,"Gabriel Bodard, Valeria Vitale (University of London), Hugh Cayless (Duke), Tom Elliott (ISAW), Andrew Meadows, Jonathan Prag (Oxford), Charlotte Tupman (Exeter)","Data, Methods, Standards, Tools, Linked Open Data"
+Thierry,113,2018-2019,Fall,7,2018-11-15,3D Modelling and Texturing,"Thomas Flynn (Sketchfab), Rachel Opitz (Glasgow), Valeria Vitale (University of London)","Creation, Images 3D, Visualization, Software, Topic Modeling"
+Thierry,114,2018-2019,Fall,8,2018-11-22,Network Analysis,Tom Brughmans (Oxford),"Analysis, Digital Humanities, Methods, Named Entities, Mapping"
+Thierry,115,2018-2019,Fall,9,2018-11-29,Copyright and Open Access for Digital Cultural Heritage,"Gabriel Bodard (University of London), Emma Payne (King's College London), Andrea Wallace (Exeter)","Data, Sofware, Methods, Information retrieval, Linked Open Data"
+Thierry,116,2018-2019,Spring,1,2019-01-10,Epigraphic markup: Leiden to EpiDoc,Gabriel Bodard (University of London) and Elli Mylonas (Brown University),"Analysis, Language, Text Bearing Objects, Software, Encoding"
+Thierry,117,2018-2019,Spring,2,2019-01-17,Using online linguistic tools: dictionaries and text corpora,"Helma Dik (Chicago), Bridget Almas (Alpheios) and Marja Vierros (Helsinki)","Research, Research Process, Language, Tools, Searching"
+Thierry,118,2018-2019,Spring,3,2019-01-24,Geographic annotation of text,"Antonis Hadjikyriacou (Boğaziçi University), Sinai Rusinek (Haifa University) and Valeria Vitale (Institute of Classical Studies)","Analysis, Map, Images, Text, Visualization"
+Thierry,119,2018-2019,Spring,4,2019-01-31,Linking and annotating secondary materials: case study of Wood Diaries and Palmyra,Jen Baird (Birkbeck) & Gabriel Bodard (Institute of Classical Studies),"Images, Map, Metadata, Projects, Text"
+Thierry,120,2018-2019,Spring,5,2019-02-07,Introduction to Treebanking,Marja Vierros & Polina Yordanova (Helsinki),"Analysis, Digital Humanities, Language, Metadata, Text"
+Thierry,121,2018-2019,Spring,6,2019-02-14,Translation alignment and language pedagogy,Maryam Foradi (Leipzig) & Farnoosh Shamsian (University of Tehran),"Meta-activities, Language, Methods, Text"
+Thierry,122,2018-2019,Spring,7,2019-02-21,Using treebanked corpora: Universal Dependencies,"Timo Korkiakangas (Helsinki) & Marco Passarotti (UCSC, Milan)","Interpretation, Language, Metadata, Projects, Research"
+Thierry,123,2018-2019,Spring,8,2019-02-28,Introduction to programming through R,Christopher Ohge & Gabriel Bodard (University of London),"Creation, Interaction, Language, Software, Visualization"
+Thierry,124,2018-2019,Spring,9,2019-03-07,Digital methods in ancient palaeography,"Yasmine Amory (Ghent), Isabelle Marthot-Santaniello (Basel) & Simona Stoyanova (King's College London)","Interpretation, Methods, Manuscript, Text, Tools"
+Thierry,125,2018-2019,Spring,10,2019-03-14,"Text analysis, stylometry, visualisation using R","Maciej Eder (Kraków), Robert Gorman (University of Nebraska–Lincoln) & Christopher Ohge (University of London)","Analysis, Data, Text, Visualization, Encoding"
 Thierry,126,2018-2019,Summer,1,2019-04-04,Introduction to SunoikisisDC Summer 2019,Monica Berti (Universität Leipzig),
 Penda,127,2018-2019,Summer,2,2019-04-11,Digital Philology,Federico Boschetti & Angelo Mario Del Grosso (Istituto di Linguistica Computazionale «A. Zampolli» - CNR - Pisa),
 Penda,128,2018-2019,Summer,3,2019-04-18,"Digital Scholarly Edition: Needs, Experiences, Possibilities","Neven Jovanović (University of Zagreb, Faculty of Humanities and Social Sciences, Department of Classical Philology)",
