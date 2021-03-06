@@ -258,8 +258,8 @@ __Exemple : tableau__ (en Multimarkdown, directement reconnu par GitHub)
 |    144 | 2019-2020 | Spring   |     14 | 2020-02-13 | EpiDoc 2: publishing                | Gabriel Bodard (Institute of Classical Studies), Martina Filosa (Köln), Simona Stoyanova (Nottingham)                                                                                  |
 |    145 | 2019-2020 | Spring   |     15 | 2020-02-20 | Treebanking 1: morphosyntactic annotation | Vanessa Gorman (University of Nebraska–Lincoln), Polina Yordanova (Helsinki)                                                                                                         |
 |    146 | 2019-2020 | Spring   |     16 | 2020-02-27 | Translation alignment               | Chiara Palladino (Furman University), Tariq Yousef (Leipzig)                                                                                                                               |
-|    147 | 2019-2020 | Spring |     17 | 2020-03-05 | Treebanking 2: querying treebanks     | Francesco Mambrini (UCSC Milan), Toon Van Hal (KU Leuven)                                                                                                                                   |
-|    148 | 2019-2020 | Spring |     18 | 2020-03-12 | Data Visualisation                    | Aurélien Berra (Université Paris Nanterre), Matteo Romanello (École polytechnique fédérale de Lausanne)                                                                                   |
+|    147 | 2019-2020 | Spring   |     17 | 2020-03-05 | Treebanking 2: querying treebanks     | Francesco Mambrini (UCSC Milan), Toon Van Hal (KU Leuven)                                                                                                                                   |
+|    148 | 2019-2020 | Spring   |     18 | 2020-03-12 | Data Visualisation                    | Aurélien Berra (Université Paris Nanterre), Matteo Romanello (École polytechnique fédérale de Lausanne)                                                                                   |
 
 ### Summer 2020: Sunoikisis Digital Classics
 
