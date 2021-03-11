@@ -62,27 +62,27 @@ Shubert,60,2016-2017,Spring,12,2017-13-04,Reading Herodotus in Tehran,"Arash Ker
 Shubert,61,2016-2017,Spring,13,2017-20-04,Named entity extraction II,"Matteo Romanello Deutsches Archäologisches Institut, Berlin, and Francesco Mambrini Deutsches Archäologisches Institut, Berlin)",
 Shubert,62,2016-2017,Spring,14,2017-27-04,Digital Mycenology,Federico Aurora University of Oslo),
 Shubert,63,2016-2017,Spring,15,2017-11-05,Digital Papyrology: documentary papyri,"Nadine Quenouille (University of Leipzig), Gabriel Bodard (ICS London) and Lucia Vannini (ICS London)",
-Chloé,64,2016-2017,Spring,16,2017-18-05,Digital Papyrology: literary and paraliterary texts and linguistic annotation of documentary papyri,"Marja Vierros (University of Parma/University of Trier), Nicola Reggiani (University of Helsinki) and Lucia Vannini (ICS London)",
-Chloé,65,2016-2017,Spring,17,2017-25-05,Translation Alignment: Possibilities of Language Learning and Vocabulary Training,Maryam Foradi (University of Leipzig) and Farnoosh Shamsian (University of Tehran),
-Chloé,66,2016-2017,Spring,18,2017-01-06,Digital Egyptology,Franziska Naether (University of Leipzig),
-Chloé,67,2016-2017,Spring,19,2017-08-06,Annotating people and places in Aristophanes and Ovid using Recogito,Neven Jovanović (University of Zagreb),
-Chloé,68,2016-2017,Spring,20,2017-15-06,Annotating and representing ancient lexicographical texts and similes,Stylianos Chronopoulos (University of Freiburg),
-Chloé,69,2016-2017,Spring,21,2017-23-06,Historical GIS of South-Estern Europe - Joint session with the Digital Classicist Seminar London,"Dimitar Iliev (University of Sofia), Maria Baramova (University of Sofia) and Grigor Boykov (University of Sofia)",
-Chloé,70,2016-2017,Spring,22,2017-29-06,Reading and visualizing geo-annotated data,"Chiara Palladino (University of Leipzig/University of Bari), Valeria Vitale (ICS London) and Marcel Mernitz (University of Leipzig)",
-Chloé,71,2016-2017,Spring,23,2017-06-07,Topic modelling of morphologically complex languages,Thomas Köntges (University of Leipzig),
-Chloé,72,2017-2018,Fall,1,2017-14-09,"Overview, cultural heritage and digital humanities","Gabriel Bodard (University of London), Tom Elliott (NYU), Simona Stoyanova (University of London), Rada Varga (Cluj-Napoca)",
-Chloé,73,2017-2018,Fall,2,2017-21-09,Crowdsourcing archaeological data: Portable antiquities scheme,John Pearce (King's College London),
-Chloé,74,2017-2018,Fall,3,2017-05-10,Geographic annotation and visualisation,"Paula Granados García (Open University), Valeria Vitale (Paula Granados García) (Open University)",
-Chloé,75,2017-2018,Fall,4,2017-12-10,Geographic Information Systems I: encoding geographic data,"Paula Granados García (Open University), Valeria Vitale (University of London)",
-Chloé,76,2017-2018,Fall,5,2017-19-10,Geographic Information Systems II: interpreting geographic data,"Chiara Palladino (Leipzig / Bari), Tom Elliott (NYU)",
-Chloé,77,2017-2018,Fall,6,2017-26-10,"Structuring, querying and visualising data","Gabriel Bodard (University of London), Tom Elliott (NYU), Rada Varga (Cluj-Napoca)",
-Chloé,78,2017-2018,Fall,7,2017-02-11,Data transformation with python and regular expressions,"Matteo Romanello (DAI / EPFL), Simona Stoyanova (University of London)",
-Chloé,79,2017-2018,Fall,8,2017-09-11,Linking text and image,"Charlotte Roueché(King's College London), Simona Stoyanova, Gabriel Bodard (University of London)",
-Chloé,80,2017-2018,Fall,9,2017-16-11,Prosopography and linked person-data,"Gabriel Bodard (University of London), Rada Varga (Cluj-Napoca)",
-Chloé,81,2017-2018,Fall,10,2017-23-11,3D scanning and imaging,"Graeme Earl (King's College London), Sven Gronemeyer (Bonn), Valeria Vitale (University of London)",
-Chloé,82,2017-2018,Fall,11,2017-30-11,3D modelling and design,"Graeme Earl (King's College London), Tom Flynn (SketchFab), Valeria Vitale (University of London)",
-Chloé,83,2017-2018,Fall,12,2017-07-12,3D printing,"Gabriel Bodard, Philip Carter (University of London), Tyler Jo Smith (University of Virginia)",
-Chloé,84,2017-2018,Fall,13,2017-14-12,Network analysis and visualisation,"Yanne Broux (Université de Bordeaux), Ryan Horne (University of Pittsburgh)",
+Chloé,64,2016-2017,Spring,16,2017-18-05,Digital Papyrology: literary and paraliterary texts and linguistic annotation of documentary papyri,"Marja Vierros (University of Parma/University of Trier), Nicola Reggiani (University of Helsinki) and Lucia Vannini (ICS London)", ""Text Bearing Objects, Manuscript, Digital Humanities, Scanning"
+Chloé,65,2016-2017,Spring,17,2017-25-05,Translation Alignment: Possibilities of Language Learning and Vocabulary Training,Maryam Foradi (University of Leipzig) and Farnoosh Shamsian (University of Tehran), "Language, Sequence Alignment, Concordancing"
+Chloé,66,2016-2017,Spring,18,2017-01-06,Digital Egyptology,Franziska Naether (University of Leipzig),"Digital Humanities, Language, Pattern Recognition ?"
+Chloé,67,2016-2017,Spring,19,2017-08-06,Annotating people and places in Aristophanes and Ovid using Recogito,Neven Jovanović (University of Zagreb), "Literature, Named Entity Recognition, Georeferencing, Annotation"
+Chloé,68,2016-2017,Spring,20,2017-15-06,Annotating and representing ancient lexicographical texts and similes,Stylianos Chronopoulos (University of Freiburg),"Text, Commenting, Annotation"
+Chloé,69,2016-2017,Spring,21,2017-23-06,Historical GIS of South-Estern Europe - Joint session with the Digital Classicist Seminar London,"Dimitar Iliev (University of Sofia), Maria Baramova (University of Sofia) and Grigor Boykov (University of Sofia)", "Research, Visualisation, Topic Modeling"
+Chloé,70,2016-2017,Spring,22,2017-29-06,Reading and visualizing geo-annotated data,"Chiara Palladino (University of Leipzig/University of Bari), Valeria Vitale (ICS London) and Marcel Mernitz (University of Leipzig)", "Resaerch, Visualisation, Topic Modeling"
+Chloé,71,2016-2017,Spring,23,2017-06-07,Topic modelling of morphologically complex languages,Thomas Köntges (University of Leipzig),"Topic Modelling, Language"
+Chloé,72,2017-2018,Fall,1,2017-14-09,"Overview, cultural heritage and digital humanities","Gabriel Bodard (University of London), Tom Elliott (NYU), Simona Stoyanova (University of London), Rada Varga (Cluj-Napoca)","Digital Humanities"
+Chloé,73,2017-2018,Fall,2,2017-21-09,Crowdsourcing archaeological data: Portable antiquities scheme,John Pearce (King's College London), "Data, Multimodal"
+Chloé,74,2017-2018,Fall,3,2017-05-10,Geographic annotation and visualisation,"Paula Granados García (Open University), Valeria Vitale (Paula Granados García) (Open University)", "Annotation, Visualisation, Georeferencing, Linked Open Data"
+Chloé,75,2017-2018,Fall,4,2017-12-10,Geographic Information Systems I: encoding geographic data,"Paula Granados García (Open University), Valeria Vitale (University of London)", "Data, Encoding, Georeferencing"
+Chloé,76,2017-2018,Fall,5,2017-19-10,Geographic Information Systems II: interpreting geographic data,"Chiara Palladino (Leipzig / Bari), Tom Elliott (NYU)", "Data, Mutimodal, Visualisation, Mapping"
+Chloé,77,2017-2018,Fall,6,2017-26-10,"Structuring, querying and visualising data","Gabriel Bodard (University of London), Tom Elliott (NYU), Rada Varga (Cluj-Napoca)", "Visualisation, Data"
+Chloé,78,2017-2018,Fall,7,2017-02-11,Data transformation with python and regular expressions,"Matteo Romanello (DAI / EPFL), Simona Stoyanova (University of London)", "Data, Language"
+Chloé,79,2017-2018,Fall,8,2017-09-11,Linking text and image,"Charlotte Roueché(King's College London), Simona Stoyanova, Gabriel Bodard (University of London)",  "Image, Text, Link"
+Chloé,80,2017-2018,Fall,9,2017-16-11,Prosopography and linked person-data,"Gabriel Bodard (University of London), Rada Varga (Cluj-Napoca)","Data, Link"
+Chloé,81,2017-2018,Fall,10,2017-23-11,3D scanning and imaging,"Graeme Earl (King's College London), Sven Gronemeyer (Bonn), Valeria Vitale (University of London)", "Images(3D), Scanning"
+Chloé,82,2017-2018,Fall,11,2017-30-11,3D modelling and design,"Graeme Earl (King's College London), Tom Flynn (SketchFab), Valeria Vitale (University of London)", "Images(3D), Topic Modeling"
+Chloé,83,2017-2018,Fall,12,2017-07-12,3D printing,"Gabriel Bodard, Philip Carter (University of London), Tyler Jo Smith (University of Virginia)", "Images(3D)"
+Chloé,84,2017-2018,Fall,13,2017-14-12,Network analysis and visualisation,"Yanne Broux (Université de Bordeaux), Ryan Horne (University of Pittsburgh)", "Visualisation"
 Jérôme,85,2017-2018,Fall,14,2018-11-01,3D environments and virtual reality,"Valeria Vitale (University of London), Matthew Nicholls (Université of Reading), Tom Flynn (Sketchfab)",
 Jérôme,86,2017-2018,Spring-Summer,1,2018-25-01,Translation alignment,"Maryam Foradi (University of Leipzig), Tariq Yousef (University of Leipzig), Saman Rezaie (University of Tehran), Gabriel Bodard (ICS London)",
 Jérôme,87,2017-2018,Spring-Summer,2,2018-01-02,Collaborative editing/resources,"Gabriel Bodard (ICS London), Emma Bridges (ICS London), Lucia Vannini (ICS London)",
