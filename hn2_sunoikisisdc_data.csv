@@ -41,27 +41,27 @@ Aurélia,39,2016-2017,Fall,3,2016-13-10,Geography 1: Gazetteers,"Valeria Vitale 
 Aurélia,40,2016-2017,Fall,4,2016-20-10,"3D Modelling, Computer Aided Design",Valeria Vitale (King's College London),
 Aurélia,41,2016-2017,Fall,5,2016-27-10,Geography 2: CartoDB,"Tom Elliott (Institute for the Study of the Ancient World, NYU)",
 Aurélia,42,2016-2017,Fall,6,2016-03-11,Geography 3: GIS,Leif Isaksen (Lancaster University),
-Shubert,43,2016-2017,Fall,7,2016-10-11,Ontologies and Data Modelling,Arianna Ciula (Roehampton University) and Charlotte Tupman (University of Exeter),
-Shubert,44,2016-2017,Fall,8,2016-17-11,Data Structuring and Querying,"Tom Elliott (Institute for the Study of the Ancient World, NYU) and Sebastian Heath (Institute for the Study of the Ancient World, NYU)",
-Shubert,45,2016-2017,Fall,9,2016-24-11,Data Visualization,"Jonathan Blaney (Institute of Historical Research), Sarah Milligan (Institute of Historical Research) and Jane Winters (School of Advanced Study)",
-Shubert,46,2016-2017,Fall,10,2016-01-12,Network Analysis,Silke Vanbeselaere (KU Leuven) and Greg Woolf (ICS London),
-Shubert,47,2016-2017,Fall,11,2016-08-12,Crowdsourcing Heritage and Conservation,John Pearce (King's College London),
-Shubert,48,2016-2017,Fall,12,2016-15-12,Historical sources,Monica Berti (University of Leipzig),
-Shubert,49,2016-2017,Spring,1,2017-26-01,Geo-annotation,Chiara Palladino (University of Leipzig / University of Bari) and Valeria Vitale (King's College London),
-Shubert,50,2016-2017,Spring,2,2017-26-01,Encoding of ancient texts,Gabriel Bodard (ICS London) and Simona Stoyanova (King's College London),
-Shubert,51,2016-2017,Spring,3,2017-09-02,Annotating treebanks,Polina Yordanova (University of Sofia) and Marja Vierros (University of Helsinki),
-Shubert,52,2016-2017,Spring,4,2017-16-02,Querying treebanks / INESS / Regex,Dag Haug (University of Oslo),
-Shubert,53,2016-2017,Spring,5,2017-23-02,Querying treebanks / XML / XQuery / XPath,Giuseppe G.A. Celano (University of Leipzig),
-Shubert,54,2016-2017,Spring,6,2017-02-03,"Translation alignment: Herodotus in Greek, English and Arabic","Usama A. Gad (Ain-Shams University, Cairo)",
-Shubert,55,2016-2017,Spring,7,2017-09-03,Prosopography,"Rada Varga (Babeș-Bolyai University, Cluj-Napoca) and Gabriel Bodard (ICS London)",
-Shubert,56,2016-2017,Spring,8,2017-16-03,Computational Morphology,Dag Haug (University of Oslo) and Barbara McGillivray (Alan Turing Institute),
-Shubert,57,2016-2017,Spring,9,2017-23-03,Named entity extraction I,"Matteo Romanello (Deutsches Archäologisches Institut, Berlin) and Francesco Mambrini (Deutsches Archäologisches Institut, Berlin)",
-Shubert,58,2016-2017,Spring,10,2017-30-03,Developing linguistic metrics for the analysis of Ancient Greek,Eleni Bozia (University of Florida) and Anise D'Orange Ferreira (UNESP),
-Shubert,59,2016-2017,Spring,11,2017-06-04,Reading Herodotus in Tbilisi,Levan Gordeziani (University of Tbilisi),
-Shubert,60,2016-2017,Spring,12,2017-13-04,Reading Herodotus in Tehran,"Arash Keramati and Maryam Foradi, University of Tehran)",
-Shubert,61,2016-2017,Spring,13,2017-20-04,Named entity extraction II,"Matteo Romanello Deutsches Archäologisches Institut, Berlin, and Francesco Mambrini Deutsches Archäologisches Institut, Berlin)",
-Shubert,62,2016-2017,Spring,14,2017-27-04,Digital Mycenology,Federico Aurora University of Oslo),
-Shubert,63,2016-2017,Spring,15,2017-11-05,Digital Papyrology: documentary papyri,"Nadine Quenouille (University of Leipzig), Gabriel Bodard (ICS London) and Lucia Vannini (ICS London)",
+Shubert,43,2016-2017,Fall,7,2016-10-11,Ontologies and Data Modelling,Arianna Ciula (Roehampton University) and Charlotte Tupman (University of Exeter), "Data, Digital Humanities"
+Shubert,44,2016-2017,Fall,8,2016-17-11,Data Structuring and Querying,"Tom Elliott (Institute for the Study of the Ancient World, NYU) and Sebastian Heath (Institute for the Study of the Ancient World, NYU)", "Data, Digital Humanities"
+Shubert,45,2016-2017,Fall,9,2016-24-11,Data Visualization,"Jonathan Blaney (Institute of Historical Research), Sarah Milligan (Institute of Historical Research) and Jane Winters (School of Advanced Study)", "Data, Visualization "
+Shubert,46,2016-2017,Fall,10,2016-01-12,Network Analysis,Silke Vanbeselaere (KU Leuven) and Greg Woolf (ICS London), "Digital Humanities, Tools"
+Shubert,47,2016-2017,Fall,11,2016-08-12,Crowdsourcing Heritage and Conservation,John Pearce (King's College London), "Infrastructure"
+Shubert,48,2016-2017,Fall,12,2016-15-12,Historical sources,Monica Berti (University of Leipzig), "Methods, Text"
+Shubert,49,2016-2017,Spring,1,2017-26-01,Geo-annotation,Chiara Palladino (University of Leipzig / University of Bari) and Valeria Vitale (King's College London), "Map, Digital Humanities"
+Shubert,50,2016-2017,Spring,2,2017-26-01,Encoding of ancient texts,Gabriel Bodard (ICS London) and Simona Stoyanova (King's College London), "Manuscript, Digital Humanities"
+Shubert,51,2016-2017,Spring,3,2017-09-02,Annotating treebanks,Polina Yordanova (University of Sofia) and Marja Vierros (University of Helsinki), "Digital Humanities, Tools"
+Shubert,52,2016-2017,Spring,4,2017-16-02,Querying treebanks / INESS / Regex,Dag Haug (University of Oslo), "Software, Text"
+Shubert,53,2016-2017,Spring,5,2017-23-02,Querying treebanks / XML / XQuery / XPath,Giuseppe G.A. Celano (University of Leipzig), "Software, Text"  
+Shubert,54,2016-2017,Spring,6,2017-02-03,"Translation alignment: Herodotus in Greek, English and Arabic","Usama A. Gad (Ain-Shams University, Cairo)", "Text"
+Shubert,55,2016-2017,Spring,7,2017-09-03,Prosopography,"Rada Varga (Babeș-Bolyai University, Cluj-Napoca) and Gabriel Bodard (ICS London)", "Literature"
+Shubert,56,2016-2017,Spring,8,2017-16-03,Computational Morphology,Dag Haug (University of Oslo) and Barbara McGillivray (Alan Turing Institute), "Software, Tools"
+Shubert,57,2016-2017,Spring,9,2017-23-03,Named entity extraction I,"Matteo Romanello (Deutsches Archäologisches Institut, Berlin) and Francesco Mambrini (Deutsches Archäologisches Institut, Berlin)", "Named Entities "
+Shubert,58,2016-2017,Spring,10,2017-30-03,Developing linguistic metrics for the analysis of Ancient Greek,Eleni Bozia (University of Florida) and Anise D'Orange Ferreira (UNESP), "Text"
+Shubert,59,2016-2017,Spring,11,2017-06-04,Reading Herodotus in Tbilisi,Levan Gordeziani (University of Tbilisi), "Text"
+Shubert,60,2016-2017,Spring,12,2017-13-04,Reading Herodotus in Tehran,"Arash Keramati and Maryam Foradi, University of Tehran)", "Text"
+Shubert,61,2016-2017,Spring,13,2017-20-04,Named entity extraction II,"Matteo Romanello Deutsches Archäologisches Institut, Berlin, and Francesco Mambrini Deutsches Archäologisches Institut, Berlin)", "Named Entities" 
+Shubert,62,2016-2017,Spring,14,2017-27-04,Digital Mycenology,Federico Aurora University of Oslo), "Digital Humanities, Tools"
+Shubert,63,2016-2017,Spring,15,2017-11-05,Digital Papyrology: documentary papyri,"Nadine Quenouille (University of Leipzig), Gabriel Bodard (ICS London) and Lucia Vannini (ICS London)", "Manuscript, Text"
 Chloé,64,2016-2017,Spring,16,2017-18-05,Digital Papyrology: literary and paraliterary texts and linguistic annotation of documentary papyri,"Marja Vierros (University of Parma/University of Trier), Nicola Reggiani (University of Helsinki) and Lucia Vannini (ICS London)", ""Text Bearing Objects, Manuscript, Digital Humanities, Scanning"
 Chloé,65,2016-2017,Spring,17,2017-25-05,Translation Alignment: Possibilities of Language Learning and Vocabulary Training,Maryam Foradi (University of Leipzig) and Farnoosh Shamsian (University of Tehran), "Language, Sequence Alignment, Concordancing"
 Chloé,66,2016-2017,Spring,18,2017-01-06,Digital Egyptology,Franziska Naether (University of Leipzig),"Digital Humanities, Language, Pattern Recognition ?"
