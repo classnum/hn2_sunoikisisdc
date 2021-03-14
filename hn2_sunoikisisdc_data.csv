@@ -167,24 +167,24 @@ Olivier,165,2019-2020,Summer,27,2020-06-04,"Making CTS and its application with 
 Olivier,166,2019-2020,Summer,28,2020-06-11,Cylleneus: Next-gen corpus search for ancient languages,William Michael Short (University of Exeter),
 Olivier,167,2019-2020,Summer,29,2020-06-18,Textual Analysis,Eleni Bozia (University of Florida),
 Olivier,168,2019-2020,Summer,30,2020-06-25,Programming for Humanists,Angelos Barmpoutis and Eleni Bozia (University of Florida),
-Maria,169,2019-2020,Summer,31,2020-07-02,Romans 1 by 1: Classical Prosopography using relational and graph based approaches,"Rada Varga (Babes-Bolyai University), Stefan Bornhofen (CY Tech, Université Paris-Seine)",
-Maria,170,2019-2020,Summer,32,2020-07-08,Virtual Rome: A Digital Model of the Ancient City,Matthew Nicholls (Oxford; University of Reading),
-Maria,171,2019-2020,Summer,33,2020-07-22,"Digitisation, Intellectual Property, and Restitution: Exploring (more) equitable approaches to [digital] cultural heritage management",Andrea Wallace (Exeter),
-Maria,172,2020-2021,Fall,1,2020-10-08,"Open Source software, commandline and Git","Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Irene Vagionakis (Bologna)",
-Maria,173,2020-2021,Fall,2,2020-10-15,Introduction to Markup,"Jonathan Blaney (University of London) Charlotte Tupman (Exeter), Irene Vagionakis (Bologna)",
-Maria,174,2020-2021,Fall,3,2020-10-19,EpiDoc XML,"Gabriel Bodard (University of London), Alessio (Paris Sorbonne), Irene Vagionakis (Bologna)",
-Maria,175,2020-2021,Fall,4,2020-10-29,Introduction to Computational Linguistics,"Alek Keersmaekers (KU Leuven), Marton Ribary (Surrey), Thea Sommerschield (Oxford)",
-Maria,176,2020-2021,Fall,5,2020-11-05,Web Annotation,"Monica Berti (Universität Leipzig), Valeria Vitale (British Library)",
-Maria,177,2020-2021,Fall,6,2020-11-12,Research with Wikimedia Commons,"Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Richard Nevell (Wikimedia UK)",
-Maria,178,2020-2021,Fall,7,2020-11-19,Using Treebanks,"Francesca Dell’Oro (University of Lausanne), Vanessa Gorman (University of Nebraska-Lincoln), Marja Vierros (Helsinki), Polina Yordanova (Helsinki)",
-Maria,179,2020-2021,Fall,8,2020-11-26,Translation Technologies,"Franziska Naether (Leipzig), Chiara Palladino (Furman)",
-Maria,180,2020-2021,Fall,9,2020-12-03,Visualisation,"Aurélien Berra (Paris Nanterre), Gabriel Bodard (University of London), Naomi Wells (University of London)",
-Maria,181,2020-2021,Spring,1,2021-01-21,3D imaging and scanning,"Gabriel Bodard (University of London), Kelly McClinton (Indiana University), Alicia Walsh (Recollection Heritage)",
-Maria,182,2020-2021,Spring,2,2021-01-28,Community Mapping,"James Morley (A Street Near You), Valeria Vitale (british Library)",
-Maria,183,2020-2021,Spring,3,2021-02-04,Wikipedia and cultural knowledge production,"Effie Kapsalis (Smithsonian), Evelin Heidel (Creative Commons), Gabriel Bodard (London), Andrea Wallace (Exeter)",
-Maria,184,2020-2021,Spring,4,2021-02-11,Linked geographical data and web-mapping,"Anne Chen (Yale), Rainer Simon (Austrian Institute of Technology), Valeria Vitale (British Library)",
-Maria,185,2020-2021,Spring,5,2021-02-18,Intangible Cultural Heritage and Indigenous heritage,"Brigitte Vézina (Creative Commons), Majd Al-shihabi (Palestine Open Maps), Andrea Wallace (Exeter)",
-Maria,186,2020-2021,Spring,6,2021-02-25,Geographic Information Systems,"Piraye Hacıgüzeller (University of Antwerp), Rebecca Seifried (University of Massachussetts Amherst)",
-Maria,187,2020-2021,Spring,7,2021-03-04,Publishing 3D models and intellectual property,"Tom Flynn (SketchFab), Dinusha Mendis (Bournemouth University), Alicia Walsh (Recollection Heritage)",
-Maria,188,2020-2021,Spring,8,2021-03-11,Intellectual Property and heritage restitution,"Douglas McCarthy (Europeana), Mathilde Pavis (Exeter), Andrea Wallace (Exeter)",
-Maria,189,2020-2021,Spring,9,2021-03-18,3D modelling,"Vasiliki Lagari (Leiden), Chiara Piccoli (Amsterdam), Alicia Walsh (Recollection Heritage)",
+Maria,169,2019-2020,Summer,31,2020-07-02,Romans 1 by 1: Classical Prosopography using relational and graph based approaches,"Rada Varga (Babes-Bolyai University), Stefan Bornhofen (CY Tech, Université Paris-Seine)","Data, Persons, Tools, Visualization, information Retrieval"
+Maria,170,2019-2020,Summer,32,2020-07-08,Virtual Rome: A Digital Model of the Ancient City,Matthew Nicholls (Oxford; University of Reading),"Creation, Images (3D), Methods, Projects, Software"
+Maria,171,2019-2020,Summer,33,2020-07-22,"Digitisation, Intellectual Property, and Restitution: Exploring (more) equitable approaches to [digital] cultural heritage management",Andrea Wallace (Exeter),"Analysis, Digital Humanities, Interaction"
+Maria,172,2020-2021,Fall,1,2020-10-08,"Open Source software, commandline and Git","Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Irene Vagionakis (Bologna)","Storage, Digital Humanities, Interaction, Methods, Software, Tools, Versioning"
+Maria,173,2020-2021,Fall,2,2020-10-15,Introduction to Markup,"Jonathan Blaney (University of London) Charlotte Tupman (Exeter), Irene Vagionakis (Bologna)","Enrichment, Digital Humanities, Encoding, Methods, Text"
+Maria,174,2020-2021,Fall,3,2020-10-19,EpiDoc XML,"Gabriel Bodard (University of London), Alessio (Paris Sorbonne), Irene Vagionakis (Bologna)","Meta-Activities, File, Manuscript, Text, Encoding"
+Maria,175,2020-2021,Fall,4,2020-10-29,Introduction to Computational Linguistics,"Alek Keersmaekers (KU Leuven), Marton Ribary (Surrey), Thea Sommerschield (Oxford)","Analysis, Computers, Language, Manuscript, Projects"
+Maria,176,2020-2021,Fall,5,2020-11-05,Web Annotation,"Monica Berti (Universität Leipzig), Valeria Vitale (British Library)","Research, Tools, Linked Open Data, Web Crawling"
+Maria,177,2020-2021,Fall,6,2020-11-12,Research with Wikimedia Commons,"Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Richard Nevell (Wikimedia UK)","Projects, Tools, Linked Open Data, Digital Humanities "
+Maria,178,2020-2021,Fall,7,2020-11-19,Using Treebanks,"Francesca Dell’Oro (University of Lausanne), Vanessa Gorman (University of Nebraska-Lincoln), Marja Vierros (Helsinki), Polina Yordanova (Helsinki)","Enrichment, Language, Literature, Manuscript, Methods, POS-Tagging"
+Maria,179,2020-2021,Fall,8,2020-11-26,Translation Technologies,"Franziska Naether (Leipzig), Chiara Palladino (Furman)","Language, Text, Tools, Project"
+Maria,180,2020-2021,Fall,9,2020-12-03,Visualisation,"Aurélien Berra (Paris Nanterre), Gabriel Bodard (University of London), Naomi Wells (University of London)","Analysis, Language, Text, Tools, Visualization, Data"
+Maria,181,2020-2021,Spring,1,2021-01-21,3D imaging and scanning,"Gabriel Bodard (University of London), Kelly McClinton (Indiana University), Alicia Walsh (Recollection Heritage)","Images (3D), Scanning, Methods, Research, Photography, Software"
+Maria,182,2020-2021,Spring,2,2021-01-28,Community Mapping,"James Morley (A Street Near You), Valeria Vitale (british Library)","Mapping, Map, Persons, Sentiment Analysis"
+Maria,183,2020-2021,Spring,3,2021-02-04,Wikipedia and cultural knowledge production,"Effie Kapsalis (Smithsonian), Evelin Heidel (Creative Commons), Gabriel Bodard (London), Andrea Wallace (Exeter)","Analysis, Interpretation, Information Retrieval"
+Maria,184,2020-2021,Spring,4,2021-02-11,Linked geographical data and web-mapping,"Anne Chen (Yale), Rainer Simon (Austrian Institute of Technology), Valeria Vitale (British Library)","Linked Open Data, Map, Mapping, Georeferencing"
+Maria,185,2020-2021,Spring,5,2021-02-18,Intangible Cultural Heritage and Indigenous heritage,"Brigitte Vézina (Creative Commons), Majd Al-shihabi (Palestine Open Maps), Andrea Wallace (Exeter)","Analysis, Persons, Sentiment Analysis"
+Maria,186,2020-2021,Spring,6,2021-02-25,Geographic Information Systems,"Piraye Hacıgüzeller (University of Antwerp), Rebecca Seifried (University of Massachussetts Amherst)","Analysis, Tools, Georeferening, Distance Measures "
+Maria,187,2020-2021,Spring,7,2021-03-04,Publishing 3D models and intellectual property,"Tom Flynn (SketchFab), Dinusha Mendis (Bournemouth University), Alicia Walsh (Recollection Heritage)","Images (3D), File, Scanning"
+Maria,188,2020-2021,Spring,8,2021-03-11,Intellectual Property and heritage restitution,"Douglas McCarthy (Europeana), Mathilde Pavis (Exeter), Andrea Wallace (Exeter)","Analysis, Interpretation, Interaction"
+Maria,189,2020-2021,Spring,9,2021-03-18,3D modelling,"Vasiliki Lagari (Leiden), Chiara Piccoli (Amsterdam), Alicia Walsh (Recollection Heritage)","Images (3D), Visualization, Software, Project, Research Process, Tools"
