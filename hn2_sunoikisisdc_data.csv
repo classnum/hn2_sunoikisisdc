@@ -41,48 +41,48 @@ Aurélia,39,2016-2017,Fall,3,2016-13-10,Geography 1: Gazetteers,"Valeria Vitale 
 Aurélia,40,2016-2017,Fall,4,2016-20-10,"3D Modelling, Computer Aided Design",Valeria Vitale (King's College London),
 Aurélia,41,2016-2017,Fall,5,2016-27-10,Geography 2: CartoDB,"Tom Elliott (Institute for the Study of the Ancient World, NYU)",
 Aurélia,42,2016-2017,Fall,6,2016-03-11,Geography 3: GIS,Leif Isaksen (Lancaster University),
-Shubert,43,2016-2017,Fall,7,2016-10-11,Ontologies and Data Modelling,Arianna Ciula (Roehampton University) and Charlotte Tupman (University of Exeter), "Data, Digital Humanities"
-Shubert,44,2016-2017,Fall,8,2016-17-11,Data Structuring and Querying,"Tom Elliott (Institute for the Study of the Ancient World, NYU) and Sebastian Heath (Institute for the Study of the Ancient World, NYU)", "Data, Digital Humanities"
-Shubert,45,2016-2017,Fall,9,2016-24-11,Data Visualization,"Jonathan Blaney (Institute of Historical Research), Sarah Milligan (Institute of Historical Research) and Jane Winters (School of Advanced Study)", "Data, Visualization "
-Shubert,46,2016-2017,Fall,10,2016-01-12,Network Analysis,Silke Vanbeselaere (KU Leuven) and Greg Woolf (ICS London), "Digital Humanities, Tools"
-Shubert,47,2016-2017,Fall,11,2016-08-12,Crowdsourcing Heritage and Conservation,John Pearce (King's College London), "Infrastructure"
-Shubert,48,2016-2017,Fall,12,2016-15-12,Historical sources,Monica Berti (University of Leipzig), "Methods, Text"
-Shubert,49,2016-2017,Spring,1,2017-26-01,Geo-annotation,Chiara Palladino (University of Leipzig / University of Bari) and Valeria Vitale (King's College London), "Map, Digital Humanities"
-Shubert,50,2016-2017,Spring,2,2017-26-01,Encoding of ancient texts,Gabriel Bodard (ICS London) and Simona Stoyanova (King's College London), "Manuscript, Digital Humanities"
-Shubert,51,2016-2017,Spring,3,2017-09-02,Annotating treebanks,Polina Yordanova (University of Sofia) and Marja Vierros (University of Helsinki), "Digital Humanities, Tools"
-Shubert,52,2016-2017,Spring,4,2017-16-02,"Querying treebanks / INESS / Regex",Dag Haug (University of Oslo), "Software, Text"
-Shubert,53,2016-2017,Spring,5,2017-23-02,"Querying treebanks / XML / XQuery / XPath",Giuseppe G.A. Celano (University of Leipzig), "Software, Text"  
-Shubert,54,2016-2017,Spring,6,2017-02-03,"Translation alignment: Herodotus in Greek, English and Arabic","Usama A. Gad (Ain-Shams University, Cairo)", "Text"
-Shubert,55,2016-2017,Spring,7,2017-09-03,Prosopography,"Rada Varga (Babeș-Bolyai University, Cluj-Napoca) and Gabriel Bodard (ICS London)", "Literature"
-Shubert,56,2016-2017,Spring,8,2017-16-03,Computational Morphology,Dag Haug (University of Oslo) and Barbara McGillivray (Alan Turing Institute), "Software, Tools"
-Shubert,57,2016-2017,Spring,9,2017-23-03,Named entity extraction I,"Matteo Romanello (Deutsches Archäologisches Institut, Berlin) and Francesco Mambrini (Deutsches Archäologisches Institut, Berlin)", "Named Entities "
-Shubert,58,2016-2017,Spring,10,2017-30-03,Developing linguistic metrics for the analysis of Ancient Greek,Eleni Bozia (University of Florida) and Anise D'Orange Ferreira (UNESP), "Text"
-Shubert,59,2016-2017,Spring,11,2017-06-04,Reading Herodotus in Tbilisi,Levan Gordeziani (University of Tbilisi), "Text"
-Shubert,60,2016-2017,Spring,12,2017-13-04,Reading Herodotus in Tehran,"Arash Keramati and Maryam Foradi, University of Tehran)", "Text"
-Shubert,61,2016-2017,Spring,13,2017-20-04,Named entity extraction II,"Matteo Romanello Deutsches Archäologisches Institut, Berlin, and Francesco Mambrini Deutsches Archäologisches Institut, Berlin)", "Named Entities" 
-Shubert,62,2016-2017,Spring,14,2017-27-04,Digital Mycenology,Federico Aurora University of Oslo), "Digital Humanities, Tools"
-Shubert,63,2016-2017,Spring,15,2017-11-05,Digital Papyrology: documentary papyri,"Nadine Quenouille (University of Leipzig), Gabriel Bodard (ICS London) and Lucia Vannini (ICS London)", "Manuscript, Text"
-Chloé,64,2016-2017,Spring,16,2017-18-05,Digital Papyrology: literary and paraliterary texts and linguistic annotation of documentary papyri,"Marja Vierros (University of Parma/University of Trier), Nicola Reggiani (University of Helsinki) and Lucia Vannini (ICS London)", "Text Bearing Objects, Manuscript, Digital Humanities, Scanning"
-Chloé,65,2016-2017,Spring,17,2017-25-05,Translation Alignment: Possibilities of Language Learning and Vocabulary Training,Maryam Foradi (University of Leipzig) and Farnoosh Shamsian (University of Tehran), "Language, Sequence Alignment, Concordancing"
+Shubert,43,2016-2017,Fall,7,2016-10-11,Ontologies and Data Modelling,Arianna Ciula (Roehampton University) and Charlotte Tupman (University of Exeter),"Data, Digital Humanities"
+Shubert,44,2016-2017,Fall,8,2016-17-11,Data Structuring and Querying,"Tom Elliott (Institute for the Study of the Ancient World, NYU) and Sebastian Heath (Institute for the Study of the Ancient World, NYU)","Data, Digital Humanities"
+Shubert,45,2016-2017,Fall,9,2016-24-11,Data Visualization,"Jonathan Blaney (Institute of Historical Research), Sarah Milligan (Institute of Historical Research) and Jane Winters (School of Advanced Study)","Data, Visualization"
+Shubert,46,2016-2017,Fall,10,2016-01-12,Network Analysis,Silke Vanbeselaere (KU Leuven) and Greg Woolf (ICS London),"Digital Humanities, Tools"
+Shubert,47,2016-2017,Fall,11,2016-08-12,Crowdsourcing Heritage and Conservation,John Pearce (King's College London),Infrastructure
+Shubert,48,2016-2017,Fall,12,2016-15-12,Historical sources,Monica Berti (University of Leipzig),"Methods, Text"
+Shubert,49,2016-2017,Spring,1,2017-26-01,Geo-annotation,Chiara Palladino (University of Leipzig / University of Bari) and Valeria Vitale (King's College London),"Map, Digital Humanities"
+Shubert,50,2016-2017,Spring,2,2017-26-01,Encoding of ancient texts,Gabriel Bodard (ICS London) and Simona Stoyanova (King's College London),"Manuscript, Digital Humanities"
+Shubert,51,2016-2017,Spring,3,2017-09-02,Annotating treebanks,Polina Yordanova (University of Sofia) and Marja Vierros (University of Helsinki),"Digital Humanities, Tools"
+Shubert,52,2016-2017,Spring,4,2017-16-02,Querying treebanks / INESS / Regex,Dag Haug (University of Oslo),"Software, Text"
+Shubert,53,2016-2017,Spring,5,2017-23-02,Querying treebanks / XML / XQuery / XPath,Giuseppe G.A. Celano (University of Leipzig),"Software, Text"
+Shubert,54,2016-2017,Spring,6,2017-02-03,"Translation alignment: Herodotus in Greek, English and Arabic","Usama A. Gad (Ain-Shams University, Cairo)",Text
+Shubert,55,2016-2017,Spring,7,2017-09-03,Prosopography,"Rada Varga (Babeș-Bolyai University, Cluj-Napoca) and Gabriel Bodard (ICS London)",Literature
+Shubert,56,2016-2017,Spring,8,2017-16-03,Computational Morphology,Dag Haug (University of Oslo) and Barbara McGillivray (Alan Turing Institute),"Software, Tools"
+Shubert,57,2016-2017,Spring,9,2017-23-03,Named entity extraction I,"Matteo Romanello (Deutsches Archäologisches Institut, Berlin) and Francesco Mambrini (Deutsches Archäologisches Institut, Berlin)",Named Entities
+Shubert,58,2016-2017,Spring,10,2017-30-03,Developing linguistic metrics for the analysis of Ancient Greek,Eleni Bozia (University of Florida) and Anise D'Orange Ferreira (UNESP),Text
+Shubert,59,2016-2017,Spring,11,2017-06-04,Reading Herodotus in Tbilisi,Levan Gordeziani (University of Tbilisi),Text
+Shubert,60,2016-2017,Spring,12,2017-13-04,Reading Herodotus in Tehran,"Arash Keramati and Maryam Foradi, University of Tehran)",Text
+Shubert,61,2016-2017,Spring,13,2017-20-04,Named entity extraction II,"Matteo Romanello Deutsches Archäologisches Institut, Berlin, and Francesco Mambrini Deutsches Archäologisches Institut, Berlin)",Named Entities
+Shubert,62,2016-2017,Spring,14,2017-27-04,Digital Mycenology,Federico Aurora University of Oslo),"Digital Humanities, Tools"
+Shubert,63,2016-2017,Spring,15,2017-11-05,Digital Papyrology: documentary papyri,"Nadine Quenouille (University of Leipzig), Gabriel Bodard (ICS London) and Lucia Vannini (ICS London)","Manuscript, Text"
+Chloé,64,2016-2017,Spring,16,2017-18-05,Digital Papyrology: literary and paraliterary texts and linguistic annotation of documentary papyri,"Marja Vierros (University of Parma/University of Trier), Nicola Reggiani (University of Helsinki) and Lucia Vannini (ICS London)","Text Bearing Objects, Manuscript, Digital Humanities, Scanning"
+Chloé,65,2016-2017,Spring,17,2017-25-05,Translation Alignment: Possibilities of Language Learning and Vocabulary Training,Maryam Foradi (University of Leipzig) and Farnoosh Shamsian (University of Tehran),"Language, Sequence Alignment, Concordancing"
 Chloé,66,2016-2017,Spring,18,2017-01-06,Digital Egyptology,Franziska Naether (University of Leipzig),"Digital Humanities, Language, Pattern Recognition ?"
-Chloé,67,2016-2017,Spring,19,2017-08-06,Annotating people and places in Aristophanes and Ovid using Recogito,Neven Jovanović (University of Zagreb), "Literature, Named Entity Recognition, Georeferencing, Annotation"
+Chloé,67,2016-2017,Spring,19,2017-08-06,Annotating people and places in Aristophanes and Ovid using Recogito,Neven Jovanović (University of Zagreb),"Literature, Named Entity Recognition, Georeferencing, Annotation"
 Chloé,68,2016-2017,Spring,20,2017-15-06,Annotating and representing ancient lexicographical texts and similes,Stylianos Chronopoulos (University of Freiburg),"Text, Commenting, Annotation"
-Chloé,69,2016-2017,Spring,21,2017-23-06,Historical GIS of South-Estern Europe - Joint session with the Digital Classicist Seminar London,"Dimitar Iliev (University of Sofia), Maria Baramova (University of Sofia) and Grigor Boykov (University of Sofia)", "Research, Visualisation, Topic Modeling"
-Chloé,70,2016-2017,Spring,22,2017-29-06,Reading and visualizing geo-annotated data,"Chiara Palladino (University of Leipzig/University of Bari), Valeria Vitale (ICS London) and Marcel Mernitz (University of Leipzig)", "Resaerch, Visualisation, Topic Modeling"
+Chloé,69,2016-2017,Spring,21,2017-23-06,Historical GIS of South-Estern Europe - Joint session with the Digital Classicist Seminar London,"Dimitar Iliev (University of Sofia), Maria Baramova (University of Sofia) and Grigor Boykov (University of Sofia)","Research, Visualisation, Topic Modeling"
+Chloé,70,2016-2017,Spring,22,2017-29-06,Reading and visualizing geo-annotated data,"Chiara Palladino (University of Leipzig/University of Bari), Valeria Vitale (ICS London) and Marcel Mernitz (University of Leipzig)","Resaerch, Visualisation, Topic Modeling"
 Chloé,71,2016-2017,Spring,23,2017-06-07,Topic modelling of morphologically complex languages,Thomas Köntges (University of Leipzig),"Topic Modelling, Language"
-Chloé,72,2017-2018,Fall,1,2017-14-09,"Overview, cultural heritage and digital humanities","Gabriel Bodard (University of London), Tom Elliott (NYU), Simona Stoyanova (University of London), Rada Varga (Cluj-Napoca)","Digital Humanities"
-Chloé,73,2017-2018,Fall,2,2017-21-09,Crowdsourcing archaeological data: Portable antiquities scheme,John Pearce (King's College London), "Data, Multimodal"
-Chloé,74,2017-2018,Fall,3,2017-05-10,Geographic annotation and visualisation,"Paula Granados García (Open University), Valeria Vitale (Paula Granados García) (Open University)", "Annotation, Visualisation, Georeferencing, Linked Open Data"
-Chloé,75,2017-2018,Fall,4,2017-12-10,Geographic Information Systems I: encoding geographic data,"Paula Granados García (Open University), Valeria Vitale (University of London)", "Data, Encoding, Georeferencing"
-Chloé,76,2017-2018,Fall,5,2017-19-10,Geographic Information Systems II: interpreting geographic data,"Chiara Palladino (Leipzig / Bari), Tom Elliott (NYU)", "Data, Mutimodal, Visualisation, Mapping"
-Chloé,77,2017-2018,Fall,6,2017-26-10,"Structuring, querying and visualising data","Gabriel Bodard (University of London), Tom Elliott (NYU), Rada Varga (Cluj-Napoca)", "Visualisation, Data"
-Chloé,78,2017-2018,Fall,7,2017-02-11,Data transformation with python and regular expressions,"Matteo Romanello (DAI / EPFL), Simona Stoyanova (University of London)", "Data, Language"
-Chloé,79,2017-2018,Fall,8,2017-09-11,Linking text and image,"Charlotte Roueché(King's College London), Simona Stoyanova, Gabriel Bodard (University of London)",  "Image, Text, Link"
+Chloé,72,2017-2018,Fall,1,2017-14-09,"Overview, cultural heritage and digital humanities","Gabriel Bodard (University of London), Tom Elliott (NYU), Simona Stoyanova (University of London), Rada Varga (Cluj-Napoca)",Digital Humanities
+Chloé,73,2017-2018,Fall,2,2017-21-09,Crowdsourcing archaeological data: Portable antiquities scheme,John Pearce (King's College London),"Data, Multimodal"
+Chloé,74,2017-2018,Fall,3,2017-05-10,Geographic annotation and visualisation,"Paula Granados García (Open University), Valeria Vitale (Paula Granados García) (Open University)","Annotation, Visualisation, Georeferencing, Linked Open Data"
+Chloé,75,2017-2018,Fall,4,2017-12-10,Geographic Information Systems I: encoding geographic data,"Paula Granados García (Open University), Valeria Vitale (University of London)","Data, Encoding, Georeferencing"
+Chloé,76,2017-2018,Fall,5,2017-19-10,Geographic Information Systems II: interpreting geographic data,"Chiara Palladino (Leipzig / Bari), Tom Elliott (NYU)","Data, Mutimodal, Visualisation, Mapping"
+Chloé,77,2017-2018,Fall,6,2017-26-10,"Structuring, querying and visualising data","Gabriel Bodard (University of London), Tom Elliott (NYU), Rada Varga (Cluj-Napoca)","Visualisation, Data"
+Chloé,78,2017-2018,Fall,7,2017-02-11,Data transformation with python and regular expressions,"Matteo Romanello (DAI / EPFL), Simona Stoyanova (University of London)","Data, Language"
+Chloé,79,2017-2018,Fall,8,2017-09-11,Linking text and image,"Charlotte Roueché(King's College London), Simona Stoyanova, Gabriel Bodard (University of London)","Image, Text, Link"
 Chloé,80,2017-2018,Fall,9,2017-16-11,Prosopography and linked person-data,"Gabriel Bodard (University of London), Rada Varga (Cluj-Napoca)","Data, Link"
-Chloé,81,2017-2018,Fall,10,2017-23-11,3D scanning and imaging,"Graeme Earl (King's College London), Sven Gronemeyer (Bonn), Valeria Vitale (University of London)", "Images(3D), Scanning"
-Chloé,82,2017-2018,Fall,11,2017-30-11,3D modelling and design,"Graeme Earl (King's College London), Tom Flynn (SketchFab), Valeria Vitale (University of London)", "Images(3D), Topic Modeling"
-Chloé,83,2017-2018,Fall,12,2017-07-12,3D printing,"Gabriel Bodard, Philip Carter (University of London), Tyler Jo Smith (University of Virginia)", "Images(3D)"
-Chloé,84,2017-2018,Fall,13,2017-14-12,Network analysis and visualisation,"Yanne Broux (Université de Bordeaux), Ryan Horne (University of Pittsburgh)", "Visualisation"
+Chloé,81,2017-2018,Fall,10,2017-23-11,3D scanning and imaging,"Graeme Earl (King's College London), Sven Gronemeyer (Bonn), Valeria Vitale (University of London)","Images(3D), Scanning"
+Chloé,82,2017-2018,Fall,11,2017-30-11,3D modelling and design,"Graeme Earl (King's College London), Tom Flynn (SketchFab), Valeria Vitale (University of London)","Images(3D), Topic Modeling"
+Chloé,83,2017-2018,Fall,12,2017-07-12,3D printing,"Gabriel Bodard, Philip Carter (University of London), Tyler Jo Smith (University of Virginia)",Images(3D)
+Chloé,84,2017-2018,Fall,13,2017-14-12,Network analysis and visualisation,"Yanne Broux (Université de Bordeaux), Ryan Horne (University of Pittsburgh)",Visualisation
 Jérôme,85,2017-2018,Fall,14,2018-11-01,3D environments and virtual reality,"Valeria Vitale (University of London), Matthew Nicholls (Université of Reading), Tom Flynn (Sketchfab)",
 Jérôme,86,2017-2018,Spring-Summer,1,2018-25-01,Translation alignment,"Maryam Foradi (University of Leipzig), Tariq Yousef (University of Leipzig), Saman Rezaie (University of Tehran), Gabriel Bodard (ICS London)",
 Jérôme,87,2017-2018,Spring-Summer,2,2018-01-02,Collaborative editing/resources,"Gabriel Bodard (ICS London), Emma Bridges (ICS London), Lucia Vannini (ICS London)",
@@ -146,7 +146,7 @@ Penda,144,2019-2020,Fall2019,6,2019-11-07,Linked Open Data,"Gabriel Bodard (Inst
 Penda,145,2019-2020,Fall2019,7,2019-11-14,Legal and Ethical Considerations,"Gabriel Bodard (Institute of Classical Studies), Richard Nevell (Wikimedia UK), Andrea Wallace (University of Exeter)",
 Penda,146,2019-2020,Fall2019,8,2019-11-21,GIS and Geovisualization,"Chiara Palladino (Furman University), Rebecca Seifried (University of Massachusetts Amherst)",
 Penda,147,2019-2020,Fall2019,9,2019-11-28,Crowdsourcing Cultural Heritage,"John Pearce (King's College London), Mia Ridge (British Library)",
-Olivier,148,2019-2020,Spring,10,2020-01-16,Basic tools,"Gabriel Bodard (Institute of Classical Studies), Barbara McGillivray (The Alan Turing Institute / University of Cambridge), Katharine Shields (UCL)","Tools"
+Olivier,148,2019-2020,Spring,10,2020-01-16,Basic tools,"Gabriel Bodard (Institute of Classical Studies), Barbara McGillivray (The Alan Turing Institute / University of Cambridge), Katharine Shields (UCL)",Tools
 Olivier,149,2019-2020,Spring,11,2020-01-23,Wikimedia sites for research,"Gabriel Bodard, Emma Bridges (Institute of Classical Studies), Pietro Liuzzo (Hambourg), Richard Nevell (Wikimedia Foundation)","Storage, Projects, Research Process"
 Olivier,150,2019-2020,Spring,12,2020-01-30,EpiDoc 1: intro to markup,"Gabriel Bodard (Institute of Classical Studies), Charlotte Tupman (Exeter)","Tools, Language"
 Olivier,151,2019-2020,Spring,13,2020-02-06,Introduction to Python,"Paula Granados García (Open University & The Watercolour World), Matteo Romanello (École polytechnique fédérale de Lausanne)","Tools, Language"
@@ -156,17 +156,17 @@ Olivier,154,2019-2020,Spring,16,2020-02-27,Translation alignment,"Chiara Palladi
 Olivier,155,2019-2020,Spring,17,2020-03-05,Treebanking 2: querying treebanks,"Francesco Mambrini (UCSC Milan), Toon Van Hal (KU Leuven)","Analysis, Images"
 Olivier,156,2019-2020,Spring,18,2020-03-12,Data Visualisation,"Aurélien Berra (Université Paris Nanterre), Matteo Romanello (École polytechnique fédérale de Lausanne)","Dissemination, Analysis"
 Olivier,157,2019-2020,Summer,19,2020-04-09,Introduction to SunikisisDC,Monica Berti (University of Leipzig) and Dimitar Illiev (University of Sofia),"Projects, Research Process"
-Olivier,158,2019-2020,Summer,20,2020-04-16,Digital Classics in Teaching: Before and Now,Dimitar Illiev (University of Sofia,"Analysis"
-Olivier,159,2019-2020,Summer,21,2020-04-23,Text-Bearing Objects 1,Monica Berti (University of Leipzig) and Dimitar Illiev (University of Sofia),"Text Bearing Objects"
-Olivier,160,2019-2020,Summer,22,2020-04-30,Text-Bearing Objects 2,"Lily Grozdanova (University of Sofia), Alessio Sopracasa (Université Paris-Sorbonne), and Karsten Tolle (Frankfurt Bid Data Lab",Text Bearing Objects"
+Olivier,158,2019-2020,Summer,20,2020-04-16,Digital Classics in Teaching: Before and Now,Dimitar Illiev (University of Sofia,Analysis
+Olivier,159,2019-2020,Summer,21,2020-04-23,Text-Bearing Objects 1,Monica Berti (University of Leipzig) and Dimitar Illiev (University of Sofia),Text Bearing Objects
+Olivier,160,2019-2020,Summer,22,2020-04-30,Text-Bearing Objects 2,"Lily Grozdanova (University of Sofia), Alessio Sopracasa (Université Paris-Sorbonne), and Karsten Tolle (Frankfurt Bid Data Lab)",Text Bearing Objects
 Olivier,161,2019-2020,Summer,23,2020-05-07,Introduction to SunikisisDC,Monica Berti (University of Leipzig) and Dimitar Illiev (University of Sofia),"Projects, Research Process"
-Olivier,162,2019-2020,Summer,24,2020-05-07,Open Access for Digital Classics,"Monica Berti (University of Leipzig) and Rada Varga (Babes-Bolyai University, Cluj-Napoca)","Open Archival Information Systems"
+Olivier,162,2019-2020,Summer,24,2020-05-07,Open Access for Digital Classics,"Monica Berti (University of Leipzig) and Rada Varga (Babes-Bolyai University, Cluj-Napoca)",Open Archival Information Systems
 Olivier,163,2019-2020,Summer,25,2020-05-14,"Digital classics and learning Greek in Iran,",Farnoosh Shamsian (University of Leipzig),"Georeferencing, Digital Humanities"
 Olivier,164,2019-2020,Summer,26,2020-05-28,Named Entities Recognition and Annotation for Ancient Greek,Monica Berti (University of Leipzig),"Named Entities, Named Entity Recognition"
 Olivier,165,2019-2020,Summer,27,2020-06-04,"Making CTS and its application with Greek, Portuguese, and English alignments on Ducat (Daughter of Ugarit Citation Alignment Tool)","Christopher W. Blackwell (Furman University) and Anise d'Orange Ferreira (UNESP, Araraquara)","Language, Visualisation"
 Olivier,166,2019-2020,Summer,28,2020-06-11,Cylleneus: Next-gen corpus search for ancient languages,William Michael Short (University of Exeter),"Storage, Tools"
-Olivier,167,2019-2020,Summer,29,2020-06-18,Textual Analysis,Eleni Bozia (University of Florida),"Text"
-Olivier,168,2019-2020,Summer,30,2020-06-25,Programming for Humanists,Angelos Barmpoutis and Eleni Bozia (University of Florida),"Digital Humanities"
+Olivier,167,2019-2020,Summer,29,2020-06-18,Textual Analysis,Eleni Bozia (University of Florida),Text
+Olivier,168,2019-2020,Summer,30,2020-06-25,Programming for Humanists,Angelos Barmpoutis and Eleni Bozia (University of Florida),Digital Humanities
 Maria,169,2019-2020,Summer,31,2020-07-02,Romans 1 by 1: Classical Prosopography using relational and graph based approaches,"Rada Varga (Babes-Bolyai University), Stefan Bornhofen (CY Tech, Université Paris-Seine)","Data, Persons, Tools, Visualization, information Retrieval"
 Maria,170,2019-2020,Summer,32,2020-07-08,Virtual Rome: A Digital Model of the Ancient City,Matthew Nicholls (Oxford; University of Reading),"Creation, Images (3D), Methods, Projects, Software"
 Maria,171,2019-2020,Summer,33,2020-07-22,"Digitisation, Intellectual Property, and Restitution: Exploring (more) equitable approaches to [digital] cultural heritage management",Andrea Wallace (Exeter),"Analysis, Digital Humanities, Interaction"
@@ -175,7 +175,7 @@ Maria,173,2020-2021,Fall,2,2020-10-15,Introduction to Markup,"Jonathan Blaney (U
 Maria,174,2020-2021,Fall,3,2020-10-19,EpiDoc XML,"Gabriel Bodard (University of London), Alessio (Paris Sorbonne), Irene Vagionakis (Bologna)","Meta-Activities, File, Manuscript, Text, Encoding"
 Maria,175,2020-2021,Fall,4,2020-10-29,Introduction to Computational Linguistics,"Alek Keersmaekers (KU Leuven), Marton Ribary (Surrey), Thea Sommerschield (Oxford)","Analysis, Computers, Language, Manuscript, Projects"
 Maria,176,2020-2021,Fall,5,2020-11-05,Web Annotation,"Monica Berti (Universität Leipzig), Valeria Vitale (British Library)","Research, Tools, Linked Open Data, Web Crawling"
-Maria,177,2020-2021,Fall,6,2020-11-12,Research with Wikimedia Commons,"Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Richard Nevell (Wikimedia UK)","Projects, Tools, Linked Open Data, Digital Humanities "
+Maria,177,2020-2021,Fall,6,2020-11-12,Research with Wikimedia Commons,"Monica Berti (Universität Leipzig), Gabriel Bodard (University of London), Richard Nevell (Wikimedia UK)","Projects, Tools, Linked Open Data, Digital Humanities"
 Maria,178,2020-2021,Fall,7,2020-11-19,Using Treebanks,"Francesca Dell’Oro (University of Lausanne), Vanessa Gorman (University of Nebraska-Lincoln), Marja Vierros (Helsinki), Polina Yordanova (Helsinki)","Enrichment, Language, Literature, Manuscript, Methods, POS-Tagging"
 Maria,179,2020-2021,Fall,8,2020-11-26,Translation Technologies,"Franziska Naether (Leipzig), Chiara Palladino (Furman)","Language, Text, Tools, Project"
 Maria,180,2020-2021,Fall,9,2020-12-03,Visualisation,"Aurélien Berra (Paris Nanterre), Gabriel Bodard (University of London), Naomi Wells (University of London)","Analysis, Language, Text, Tools, Visualization, Data"
@@ -184,7 +184,7 @@ Maria,182,2020-2021,Spring,2,2021-01-28,Community Mapping,"James Morley (A Stree
 Maria,183,2020-2021,Spring,3,2021-02-04,Wikipedia and cultural knowledge production,"Effie Kapsalis (Smithsonian), Evelin Heidel (Creative Commons), Gabriel Bodard (London), Andrea Wallace (Exeter)","Analysis, Interpretation, Information Retrieval"
 Maria,184,2020-2021,Spring,4,2021-02-11,Linked geographical data and web-mapping,"Anne Chen (Yale), Rainer Simon (Austrian Institute of Technology), Valeria Vitale (British Library)","Linked Open Data, Map, Mapping, Georeferencing"
 Maria,185,2020-2021,Spring,5,2021-02-18,Intangible Cultural Heritage and Indigenous heritage,"Brigitte Vézina (Creative Commons), Majd Al-shihabi (Palestine Open Maps), Andrea Wallace (Exeter)","Analysis, Persons, Sentiment Analysis"
-Maria,186,2020-2021,Spring,6,2021-02-25,Geographic Information Systems,"Piraye Hacıgüzeller (University of Antwerp), Rebecca Seifried (University of Massachussetts Amherst)","Analysis, Tools, Georeferening, Distance Measures "
+Maria,186,2020-2021,Spring,6,2021-02-25,Geographic Information Systems,"Piraye Hacıgüzeller (University of Antwerp), Rebecca Seifried (University of Massachussetts Amherst)","Analysis, Tools, Georeferening, Distance Measures"
 Maria,187,2020-2021,Spring,7,2021-03-04,Publishing 3D models and intellectual property,"Tom Flynn (SketchFab), Dinusha Mendis (Bournemouth University), Alicia Walsh (Recollection Heritage)","Images (3D), File, Scanning"
 Maria,188,2020-2021,Spring,8,2021-03-11,Intellectual Property and heritage restitution,"Douglas McCarthy (Europeana), Mathilde Pavis (Exeter), Andrea Wallace (Exeter)","Analysis, Interpretation, Interaction"
 Maria,189,2020-2021,Spring,9,2021-03-18,3D modelling,"Vasiliki Lagari (Leiden), Chiara Piccoli (Amsterdam), Alicia Walsh (Recollection Heritage)","Images (3D), Visualization, Software, Project, Research Process, Tools"
