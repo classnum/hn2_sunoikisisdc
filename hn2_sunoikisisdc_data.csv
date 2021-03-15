@@ -146,15 +146,15 @@ Penda,144,2019-2020,Fall2019,6,2019-11-07,Linked Open Data,"Gabriel Bodard (Inst
 Penda,145,2019-2020,Fall2019,7,2019-11-14,Legal and Ethical Considerations,"Gabriel Bodard (Institute of Classical Studies), Richard Nevell (Wikimedia UK), Andrea Wallace (University of Exeter)",
 Penda,146,2019-2020,Fall2019,8,2019-11-21,GIS and Geovisualization,"Chiara Palladino (Furman University), Rebecca Seifried (University of Massachusetts Amherst)",
 Penda,147,2019-2020,Fall2019,9,2019-11-28,Crowdsourcing Cultural Heritage,"John Pearce (King's College London), Mia Ridge (British Library)",
-Olivier,148,2019-2020,Spring,10,2020-01-16,Basic tools,"Gabriel Bodard (Institute of Classical Studies), Barbara McGillivray (The Alan Turing Institute / University of Cambridge), Katharine Shields (UCL)",
-Olivier,149,2019-2020,Spring,11,2020-01-23,Wikimedia sites for research,"Gabriel Bodard, Emma Bridges (Institute of Classical Studies), Pietro Liuzzo (Hambourg), Richard Nevell (Wikimedia Foundation)",
-Olivier,150,2019-2020,Spring,12,2020-01-30,EpiDoc 1: intro to markup,"Gabriel Bodard (Institute of Classical Studies), Charlotte Tupman (Exeter)",
-Olivier,151,2019-2020,Spring,13,2020-02-06,Introduction to Python,"Paula Granados García (Open University & The Watercolour World), Matteo Romanello (École polytechnique fédérale de Lausanne)",
-Olivier,152,2019-2020,Spring,14,2020-02-13,EpiDoc 2: publishing,"Gabriel Bodard (Institute of Classical Studies), Martina Filosa (Köln), Simona Stoyanova (Nottingham)",
-Olivier,153,2019-2020,Spring,15,2020-02-20,Treebanking 1: morphosyntactic annotation,"Vanessa Gorman (University of Nebraska–Lincoln), Polina Yordanova (Helsinki)",
-Olivier,154,2019-2020,Spring,16,2020-02-27,Translation alignment,"Chiara Palladino (Furman University), Tariq Yousef (Leipzig)",
-Olivier,155,2019-2020,Spring,17,2020-03-05,Treebanking 2: querying treebanks,"Francesco Mambrini (UCSC Milan), Toon Van Hal (KU Leuven)",
-Olivier,156,2019-2020,Spring,18,2020-03-12,Data Visualisation,"Aurélien Berra (Université Paris Nanterre), Matteo Romanello (École polytechnique fédérale de Lausanne)",
+Olivier,148,2019-2020,Spring,10,2020-01-16,Basic tools,"Gabriel Bodard (Institute of Classical Studies), Barbara McGillivray (The Alan Turing Institute / University of Cambridge), Katharine Shields (UCL)","Tools"
+Olivier,149,2019-2020,Spring,11,2020-01-23,Wikimedia sites for research,"Gabriel Bodard, Emma Bridges (Institute of Classical Studies), Pietro Liuzzo (Hambourg), Richard Nevell (Wikimedia Foundation)","Storage"
+Olivier,150,2019-2020,Spring,12,2020-01-30,EpiDoc 1: intro to markup,"Gabriel Bodard (Institute of Classical Studies), Charlotte Tupman (Exeter)","Tools, Software"
+Olivier,151,2019-2020,Spring,13,2020-02-06,Introduction to Python,"Paula Granados García (Open University & The Watercolour World), Matteo Romanello (École polytechnique fédérale de Lausanne)","Tools, Language"
+Olivier,152,2019-2020,Spring,14,2020-02-13,EpiDoc 2: publishing,"Gabriel Bodard (Institute of Classical Studies), Martina Filosa (Köln), Simona Stoyanova (Nottingham)","Tools, Dissemination"
+Olivier,153,2019-2020,Spring,15,2020-02-20,Treebanking 1: morphosyntactic annotation,"Vanessa Gorman (University of Nebraska–Lincoln), Polina Yordanova (Helsinki)","Images, Enrichment"
+Olivier,154,2019-2020,Spring,16,2020-02-27,Translation alignment,"Chiara Palladino (Furman University), Tariq Yousef (Leipzig)","Language, Dissemination"
+Olivier,155,2019-2020,Spring,17,2020-03-05,Treebanking 2: querying treebanks,"Francesco Mambrini (UCSC Milan), Toon Van Hal (KU Leuven)","Analysis, Images"
+Olivier,156,2019-2020,Spring,18,2020-03-12,Data Visualisation,"Aurélien Berra (Université Paris Nanterre), Matteo Romanello (École polytechnique fédérale de Lausanne)","Dissemination"
 Olivier,157,2019-2020,Summer,19,2020-04-09,Introduction to SunikisisDC,Monica Berti (University of Leipzig) and Dimitar Illiev (University of Sofia),
 Olivier,158,2019-2020,Summer,20,2020-04-16,Digital Classics in Teaching: Before and Now,Dimitar Illiev (University of Sofia,
 Olivier,159,2019-2020,Summer,21,2020-04-23,Text-Bearing Objects 1,Monica Berti (University of Leipzig) and Dimitar Illiev (University of Sofia),
