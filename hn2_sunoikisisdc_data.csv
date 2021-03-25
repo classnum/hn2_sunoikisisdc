@@ -20,27 +20,27 @@ Zacharie,18,2015-2016,NA,5,2016-03-02,Encoding of Ancient Texts,"Federico Aurora
 Zacharie,19,2015-2016,NA,6,2016-03-09,Annotation and Alignment of Texts and Objects,"Marie-Claire Beaulieu (Tufts University), Gabriel Bodard (ICS London), Tim Buckingham (Tufts University), and Pietro Liuzzo (University of Heidelberg)",
 Zacharie,20,2015-2016,NA,7,2016-03-16,"3D Imaging, Scanning, Printing","Eleni Bozia (University of Florida), Sara Gonzalez (Florida), Valeria Vitale (King’s College London)",
 Zacharie,21,2015-2016,NA,8,2016-03-23,3D Modelling for Cultural Heritage,Valeria Vitale (King's College London) and Gabriel Bodard (University of London),
-Aurélia,22,2015-2016,NA,9,2016-03-30,Teaching Classics in the digital era: pedagogical and logistical issues,"Ryan Fowler (Franklin & Marshall College), Gwen Gruber (The University of Iowa), J. Matthew Harrington (Tufts University), and Kenny Morrell (Rhodes College and Harvard's CHS)",
-Aurélia,23,2015-2016,NA,10,2016-04-06,Inscriptions in Lucian’s True Stories,Michèle Brunet (University Lumière Lyon 2) and her Students,
-Aurélia,24,2015-2016,NA,11,2016-04-13,"Odyssey: Named Entities Annotation, Translation Alignment",Aurélien Berra (Université Paris-Ouest Nanterre La Défense) and 9 students,
-Aurélia,25,2015-2016,NA,12,2016-04-20,Digital Tools for the Arts and Humanities: students’ presentations (University of Florida),Eleni Bozia and her students (University of Florida),
-Aurélia,26,2015-2016,NA,13,2016-04-27,"Aristotle: Translation Alignment (Greek, Latin, Arabic)","Usama A. Gad (Ain-Shams University (Cairo) and University of Heidelberg), Riccardo Strobino (Tufts University)",
-Aurélia,27,2015-2016,NA,14,2016-05-04,Annotation of Geographical Data,Chiara Palladino (University of Bari and Leipzig) and Maxim Romanov (University of Leipzig),
-Aurélia,28,2015-2016,NA,15,2016-05-11,"Aligned Translations, Treebanking Part I","Neven Jovanović (University of Zagreb), Petra Šoštarić, Mario Benedik, Dunja Ševerdija (University of Zagreb)",
-Aurélia,29,2015-2016,NA,16,2016-05-18,"Aligned Translations, Treebanking Part II",Anise D'Orange Ferreira (UNESP Araraquara),
-Aurélia,30,2015-2016,NA,17,2016-05-27,Reading Plato with Digital Tools,"Irine Darchia (Associate Professor in Classics, Institute of Classical, Byzantine and Modern Greek Studies, Ivane Javakhishvili Tbilisi State University, Georgia)",
-Aurélia,31,2015-2016,NA,18,2016-06-01,Text and Digital Editing (Lexicography and Geography),"Stelios Chronopoulos (University of Freiburg), Tariq Yousef (University of Leipzig), Chiara Palladino (University of Bari and Leipzig)",
-Aurélia,32,2015-2016,NA,19,2016-06-08,Annotating Quotations and Text Reuses,Monica Berti (University of Leipzig) and Stylianos Chronopoulos (University of Freiburg),
-Aurélia,33,2015-2016,NA,20,2016-06-15,Presenting SunoikisisDC 2016 at the CHS Common Day,Monica Berti (University of Leipzig) and Gregory R. Crane (Tufts University and Leipzig University),
-Aurélia,34,2015-2016,NA,21,2016-06-22,Digitizing Inscriptions from Georgia,"Levan Gordeziani (Professor of Ancient History, Institute of World History, Ivane Javakhishvili Tbilisi State University, Georgia)",
-Aurélia,35,2015-2016,NA,22,2016-06-29,"Teaching Greek through (digital) epigraphy, epigraphy through Greek",Dimitar Illiev (University of Sofia) and his Students,
-Aurélia,36,2015-2016,NA,23,2016-07-06,Open Persian,Maryam Foradi (University of Leipzig),
-Aurélia,37,2016-2017,Fall,1,2016-29-09,Introduction: Object artefact script,Gabriel Bodard (ICS London),
-Aurélia,38,2016-2017,Fall,2,2016-06-10,"3D Imaging, Photogrammetry","Sebastian Heath Institute for the Study of the Ancient World, NYU)",
-Aurélia,39,2016-2017,Fall,3,2016-13-10,Geography 1: Gazetteers,"Valeria Vitale (King's College London), Usama Gad Ain Shams and Heidelberg, and Gabriel Bodard (ICS London)",
-Aurélia,40,2016-2017,Fall,4,2016-20-10,"3D Modelling, Computer Aided Design",Valeria Vitale (King's College London),
-Aurélia,41,2016-2017,Fall,5,2016-27-10,Geography 2: CartoDB,"Tom Elliott (Institute for the Study of the Ancient World, NYU)",
-Aurélia,42,2016-2017,Fall,6,2016-03-11,Geography 3: GIS,Leif Isaksen (Lancaster University),
+Aurélia,22,2015-2016,NA,9,2016-03-30,Teaching Classics in the digital era: pedagogical and logistical issues,"Ryan Fowler (Franklin & Marshall College), Gwen Gruber (The University of Iowa), J. Matthew Harrington (Tufts University), and Kenny Morrell (Rhodes College and Harvard's CHS)","Digital Humanities"
+Aurélia,23,2015-2016,NA,10,2016-04-06,Inscriptions in Lucian’s True Stories,Michèle Brunet (University Lumière Lyon 2) and her Students,"Literature"
+Aurélia,24,2015-2016,NA,11,2016-04-13,"Odyssey: Named Entities Annotation, Translation Alignment",Aurélien Berra (Université Paris-Ouest Nanterre La Défense) and 9 students,"Encoding"
+Aurélia,25,2015-2016,NA,12,2016-04-20,Digital Tools for the Arts and Humanities: students’ presentations (University of Florida),Eleni Bozia and her students (University of Florida),"Tools"
+Aurélia,26,2015-2016,NA,13,2016-04-27,"Aristotle: Translation Alignment (Greek, Latin, Arabic)","Usama A. Gad (Ain-Shams University (Cairo) and University of Heidelberg), Riccardo Strobino (Tufts University)","Encoding"
+Aurélia,27,2015-2016,NA,14,2016-05-04,Annotation of Geographical Data,Chiara Palladino (University of Bari and Leipzig) and Maxim Romanov (University of Leipzig),"Encoding"
+Aurélia,28,2015-2016,NA,15,2016-05-11,"Aligned Translations, Treebanking Part I","Neven Jovanović (University of Zagreb), Petra Šoštarić, Mario Benedik, Dunja Ševerdija (University of Zagreb)","Encoding"
+Aurélia,29,2015-2016,NA,16,2016-05-18,"Aligned Translations, Treebanking Part II",Anise D'Orange Ferreira (UNESP Araraquara),"Encoding"
+Aurélia,30,2015-2016,NA,17,2016-05-27,Reading Plato with Digital Tools,"Irine Darchia (Associate Professor in Classics, Institute of Classical, Byzantine and Modern Greek Studies, Ivane Javakhishvili Tbilisi State University, Georgia)","Literature","Tools"
+Aurélia,31,2015-2016,NA,18,2016-06-01,Text and Digital Editing (Lexicography and Geography),"Stelios Chronopoulos (University of Freiburg), Tariq Yousef (University of Leipzig), Chiara Palladino (University of Bari and Leipzig)",Encoding","Digital Studies"
+Aurélia,32,2015-2016,NA,19,2016-06-08,Annotating Quotations and Text Reuses,Monica Berti (University of Leipzig) and Stylianos Chronopoulos (University of Freiburg),"Encoding"
+Aurélia,33,2015-2016,NA,20,2016-06-15,Presenting SunoikisisDC 2016 at the CHS Common Day,Monica Berti (University of Leipzig) and Gregory R. Crane (Tufts University and Leipzig University),"Dissemination"
+Aurélia,34,2015-2016,NA,21,2016-06-22,Digitizing Inscriptions from Georgia,"Levan Gordeziani (Professor of Ancient History, Institute of World History, Ivane Javakhishvili Tbilisi State University, Georgia)","Digital Studies"
+Aurélia,35,2015-2016,NA,22,2016-06-29,"Teaching Greek through (digital) epigraphy, epigraphy through Greek",Dimitar Illiev (University of Sofia) and his Students,"Digital studies, Curricula"
+Aurélia,36,2015-2016,NA,23,2016-07-06,Open Persian,Maryam Foradi (University of Leipzig),"Language"
+Aurélia,37,2016-2017,Fall,1,2016-29-09,Introduction: Object artefact script,Gabriel Bodard (ICS London),"Digital studies, artifacts"
+Aurélia,38,2016-2017,Fall,2,2016-06-10,"3D Imaging, Photogrammetry","Sebastian Heath Institute for the Study of the Ancient World, NYU)","Image(3D)"
+Aurélia,39,2016-2017,Fall,3,2016-13-10,Geography 1: Gazetteers,"Valeria Vitale (King's College London), Usama Gad Ain Shams and Heidelberg, and Gabriel Bodard (ICS London)","Georeferencing"
+Aurélia,40,2016-2017,Fall,4,2016-20-10,"3D Modelling, Computer Aided Design",Valeria Vitale (King's College London),"image(3D)"
+Aurélia,41,2016-2017,Fall,5,2016-27-10,Geography 2: CartoDB,"Tom Elliott (Institute for the Study of the Ancient World, NYU)","Map,Georeferencing"
+Aurélia,42,2016-2017,Fall,6,2016-03-11,Geography 3: GIS,Leif Isaksen (Lancaster University),"Map,Georeferencing"
 Shubert,43,2016-2017,Fall,7,2016-10-11,Ontologies and Data Modelling,Arianna Ciula (Roehampton University) and Charlotte Tupman (University of Exeter),"Data, Digital Humanities"
 Shubert,44,2016-2017,Fall,8,2016-17-11,Data Structuring and Querying,"Tom Elliott (Institute for the Study of the Ancient World, NYU) and Sebastian Heath (Institute for the Study of the Ancient World, NYU)","Data, Digital Humanities"
 Shubert,45,2016-2017,Fall,9,2016-24-11,Data Visualization,"Jonathan Blaney (Institute of Historical Research), Sarah Milligan (Institute of Historical Research) and Jane Winters (School of Advanced Study)","Data, Visualization"
