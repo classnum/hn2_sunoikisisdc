@@ -1,4 +1,4 @@
-Responsable,Numéro,Année,Saison,Séance,Date,Titre,Contributeurs+Institutions,Thèmes
+student_resp,n_total,acad_year,season,n_in_session,date,title,contributors_institutions,themes
 Zacharie,1,2014-2015,NA,1,2015-04-07,Introduction to the Course,Monica Berti (University of Leipzig),
 Zacharie,2,2014-2015,NA,2,2015-04-14,"Ancient Named Entities in the Digital Age (common session from the Universidade Estadual Paulista at Araraquara, São Paulo, Brasil) [Introduction to onomastics, prosopography, and geography]",Monica Berti (University of Leipzig),
 Zacharie,3,2014-2015,NA,3,2015-04-21,"The Big Families [Examples of marked-up inscriptions, names, families, locations]",Kenny Morrell (CHS),
