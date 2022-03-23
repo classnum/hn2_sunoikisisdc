@@ -1,3 +1,4 @@
+institution,freq
 "A Street Near You",1
 "Ain Shams University, Cairo",4
 "Alan Turing Institute",5
@@ -11,14 +12,14 @@
 "British Library",8
 "British Museum",4
 "Brown University",3
-"Cambridge",1
+"Fitzwilliam Museum, University of Cambridge",1
 "Center for Hellenic Studies, Harvard University",3
 "Creative Commons",2
 "CY Tech, CY Cergy Paris University",1
 "Cyprus Institute",1
 "Deutsches Archäologisches Institut, Berlin",8
 "Duke University",2
-"Durham",1
+"Durham University",1
 "École polytechnique fédérale de Lausanne",6
 "Eldarion",4
 "Europeana Foundation",2
@@ -40,7 +41,7 @@
 "King's College London",19
 "Kraków University",1
 "Lancaster University",1
-"Mississippi State",1
+"Mississippi State University",1
 "Museo Egizio Torino",1
 "New York University",1
 "Open University",6
@@ -58,9 +59,9 @@
 "Stellenbosch University",1
 "Tbilisi State University, Georgia",6
 "The Watercolour World",1
-"Toronto",1
+"University of Toronto",1
 "Tufts University",7
-"UCSC, Milan",2
+"Università Cattolica del Sacro Cuore, Milan",2
 "Universidade Estadual Paulista",8
 "Universitat Jaume I",1
 "University College London",1
@@ -109,6 +110,5 @@
 "University of Trier",1
 "University of Virginia",1
 "University of Zagreb",12
-"Wikimedia Foundation",3
-"Wikimedia UK",1
+"Wikimedia UK",4
 "Yale University",1
