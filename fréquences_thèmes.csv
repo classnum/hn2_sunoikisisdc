@@ -1,43 +1,46 @@
-;thèmes;fréquences
-1;annotation;71
-2;archeology;9
-3;copyright license and open access;12
-4;crowdsourcing;6
-5;cultural studies;16
-6;data analysis;3
-7;database;18
-8;data mining;27
-9;digital archives and library;13
-10;digital edition;4
-11;digital humanities history;1
-12;digital methods;19
-13;digitisation;26
-14;encoding;38
-15;epigraphy;21
-16;geography;19
-17;GLAM: galleries, libraries, archives, museums;4
-18;linked open data;42
-19;manuscript;10
-20;maps and mapping;24
-21;named entities;18
-22;NLP;7
-23;objects and artefacts;17
-24;paleography;4
-25;photography;3
-26;prosopography;9
-27;research process;1
-28;scholarly editing;1
-29;semantic Web;5
-30;semantics;1
-31;sentiment analysis;1
-32;standards;17
-33;teaching and pedagogy;13
-34;text analysis;26
-35;text encoding;12
-36;text mining;25
-37;topic modeling;1
-38;translation;26
-39;treebank;33
-40;virtual and augmented reality;1
-41;visualisation;61
-42;XML-TEI;11
+﻿;themes;frequences;% par rapport au nombre de séances;% par rapport au nombre total de thème
+1;annotation;71;32,27272727;10,50295858
+2;archeology;9;4,090909091;1,331360947
+3;copyright license and open access;12;5,454545455;1,775147929
+4;crowdsourcing;6;2,727272727;0,887573964
+5;cultural studies;16;7,272727273;2,366863905
+6;data analysis;3;1,363636364;0,443786982
+7;database;18;8,181818182;2,662721893
+8;data mining;27;12,27272727;3,99408284
+9;digital archives and library;13;5,909090909;1,923076923
+10;digital edition;4;1,818181818;0,591715976
+11;digital humanities history;1;0,454545455;0,147928994
+12;digital methods;19;8,636363636;2,810650888
+13;digitisation;26;11,81818182;3,846153846
+14;encoding;38;17,27272727;5,621301775
+15;epigraphy;21;9,545454545;3,106508876
+16;geography;19;8,636363636;2,810650888
+17;GLAM: galleries, libraries, archives, museums;4;1,818181818;0,591715976
+18;linked open data;42;19,09090909;6,213017751
+19;manuscript;10;4,545454545;1,479289941
+20;maps and mapping;24;10,90909091;3,550295858
+21;named entities;18;8,181818182;2,662721893
+22;NLP;7;3,181818182;1,035502959
+23;objects and artefacts;17;7,727272727;2,514792899
+24;paleography;4;1,818181818;0,591715976
+25;photography;3;1,363636364;0,443786982
+26;prosopography;9;4,090909091;1,331360947
+27;research process;1;0,454545455;0,147928994
+28;scholarly editing;1;0,454545455;0,147928994
+29;semantic Web;5;2,272727273;0,73964497
+30;semantics;1;0,454545455;0,147928994
+31;sentiment analysis;1;0,454545455;0,147928994
+32;standards;17;7,727272727;2,514792899
+33;teaching and pedagogy;13;5,909090909;1,923076923
+34;text analysis;26;11,81818182;3,846153846
+35;text encoding;12;5,454545455;1,775147929
+36;text mining;25;11,36363636;3,698224852
+37;topic modeling;1;0,454545455;0,147928994
+38;translation;26;11,81818182;3,846153846
+39;treebank;33;15;4,881656805
+40;virtual and augmented reality;1;0,454545455;0,147928994
+41;visualisation;61;27,72727273;9,023668639
+42;XML-TEI;11;5;1,627218935
+;TOTAL : ;676;;
+;moyenne : ;16,0952381;7,316017316;2,380952381
+;mediane : ;12,5;5,681818182;1,849112426
