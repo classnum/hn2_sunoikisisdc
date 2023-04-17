@@ -36,7 +36,7 @@ d %>%
     geom_bar(aes(acad_year))
 
 d %>%
-    ggplot(aes(date, n_total, color = acad_year)) +
+    ggplot(aes(acad_year, n_total, color = acad_year)) +
     geom_step()
 
 d %>%
@@ -46,8 +46,8 @@ d %>%
     geom_point(aes(date, themes_3)) +
     geom_point(aes(date, themes_4)) +
     geom_point(aes(date, themes_5)) +
-    geom_point(aes(date, themes_6)) +
-    geom_point(aes(date, themes_7))
+    geom_point(aes(date, themes_6))
+# + geom_point(aes(date, themes_7))
 
 d %>%
     ggplot() +
