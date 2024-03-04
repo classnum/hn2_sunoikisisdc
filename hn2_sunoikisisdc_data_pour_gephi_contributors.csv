@@ -42,46 +42,80 @@ n,contributor
 38,,,,,,Sebastian Heath
 39,,,,Gabriel Bodard,Usama Gad,Valeria Vitale
 40,,,,,,Valeria Vitale
-41,,,,,,Tom Elliott
-42,,,,,,Leif Isaksen
-43,,,,,Charlotte Tupman,Arianna Ciula
-44,,,,,Sebastian Heath,Tom Elliott
-45,,,,Jane Winters,Sarah Milligan,Jonathan Blaney
-46,,,,,Greg Woolf,Silke Vanbeselaere
-47,,,,,,John Pearce
-48,,,,,,Monica Berti
-49,,,,,Valeria Vitale,Chiara Palladino
-50,,,,,Simona Stoyanova,Gabriel Bodard
-51,,,,,Marja Vierros,Polina Yordanova
-52,,,,,,Dag Haug
-53,,,,,,Giuseppe Celano
-54,,,,,,Usama Gad
-55,,,,,Gabriel Bodard,Rada Varga
-56,,,,,Barbara McGillivray,Dag Haug
-57,,,,,Francesco Mambrini,Matteo Romanello
-58,,,,,Anise D'Orange Ferreira,Eleni Bozia
-59,,,,,,Levan Gordeziani
-60,,,,,Maryam Foradi,Arash Keramati
-61,,,,,Francesco Mambrini,Matteo Romanello
-62,,,,,,Federico Aurora
-63,,,,Lucia Vannini,Gabriel Bodard,Nadine Quenouille
-64,,,,Lucia Vannini,Nicola Reggiani,Marja Vierros
-65,,,,,Farnoosh Shamsian,Maryam Foradi
-66,,,,,,Franziska Naether
-67,,,,,,Neven Jovanović
-68,,,,,,Stylianos Chronopoulos
-69,,,,Grigor Boykov,Maria Baramova,Dimitar Illiev
-70,,,,Marcel Mernitz,Valeria Vitale,Chiara Palladino
-71,,,,,,Thomas Köntges
-72,,,Rada Varga,Simona Stoyanova,Tom Elliott,Gabriel Bodard
-73,,,,,,John Pearce
-74,,,,,Valeria Vitale,Paula Granados García
-75,,,,,Valeria Vitale,Paula Granados García
-76,,,,,Tom Elliott,Chiara Palladino
-77,,,,Rada Varga,Tom Elliott,Gabriel Bodard
-78,,,,,Simona Stoyanova,Matteo Romanello
-79,,,,Gabriel Bodard,Simona Stoyanova,Charlotte Roueché
-80,,,,,Rada Varga,Gabriel Bodard
+41,Tom Elliott,
+42,Leif Isaksen,
+43,Charlotte Tupma,
+43,Arianna Ciula,
+44,Sebastian Heath,
+44,Tom Elliott,
+45,Jane Winters,
+45,Sarah Milligan,
+45,Jonathan Blaney,
+46,Greg Woolf,
+46,Silke Vanbeselaere,
+47,John Pearce,
+48,Monica Berti,
+49,Valeria Vitale,
+49,Chiara Palladino,
+50,Simona Stoyanov,
+50,Gabriel Bodard,
+51,Marja Vierros,
+51,Polina Yordanova,
+52,Dag Haug,
+53,Giuseppe Celano,
+54,Usama Gad,
+55,Gabriel Bodard,
+55,Rada Varga,
+56,Barbara McGilli,
+56,Dag Haug,
+57,Francesco Mambr,
+57,Matteo Romanello,
+58,Anise D'Orange,
+58,Eleni Bozia,
+59,Levan Gordeziani,
+60,Maryam Foradi,
+60,Arash Keramati,
+61,Francesco Mambr,
+61,Matteo Romanello,
+62,Federico Aurora,
+63,Lucia Vannini,
+63,Gabriel Bodard,
+63,Nadine Quenouille,
+64,Lucia Vannini,
+64,Nicola Reggiani,
+64,Marja Vierros,
+65,Farnoosh Shamsian,
+65,Maryam Foradi,
+66,Franziska Naether,
+67,Neven Jovanović,
+68,Stylianos Chronopoulos,
+69,Grigor Boykov,
+69,Maria Baramova,
+69,Dimitar Illiev,
+70,Marcel Mernitz,
+70,Valeria Vitale,
+70,Chiara Palladino,
+71,Thomas Köntges,
+72,Rada Varga,
+72,Simona Stoya Elliott,
+72,Gabriel Bodard,
+73,John Pearce,
+74,Valeria Vitale,
+74,Paula Granados García,
+75,Valeria Vitale,
+75,Paula Granados García,
+76,Tom Elliott,
+76,Chiara Palladino,
+77,Rada Varga,
+77,Tom Elliott,
+77,Gabriel Bodard,
+78,Simona Stoyanova,
+78,Matteo Romanello,
+79,Gabriel Bodard,
+79,Simona Stoyanova,
+79,Charlotte Roueché,
+80,Rada Varga,
+80,Gabriel Bodard,
 81,,,,Valeria Vitale,Sven Gronemeyer,Graeme Earl
 82,,,,Valeria Vitale,Tom Flynn,Graeme Earl
 83,,,,Tyler Jo Smith,Philip Carter,Gabriel Bodard
