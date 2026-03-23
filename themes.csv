@@ -1,5 +1,5 @@
-n_total,season,n_in_season,date,title,themes_1,themes_2,themes_3,class outline, note
-1,NA,1,07/04/2015,Introduction to the Course,digital method,,,,theme_aded
+n_total,season,n_in_season,date,title,themes_1,themes_2,themes_3,class outline
+1,NA,1,07/04/2015,Introduction to the Course,,,,
 2,NA,2,14/04/2015,"Ancient Named Entities in the Digital Age [Introduction to onomastics, prosopography, and geography]",prosopography,geography,named entities,https://docs.google.com/document/d/1cPfOKTnGc5Mhu7UyA3LEdh5i990vpV0Fg1X23JS9vqc/edit?pli=1
 3,NA,3,21/04/2015,"The Big Families [Examples of marked-up inscriptions, names, families, locations]",text encoding,named entities,,https://docs.google.com/document/d/1cPfOKTnGc5Mhu7UyA3LEdh5i990vpV0Fg1X23JS9vqc/edit?pli=1
 4,NA,4,28/04/2015,"Colonies and politics [Smith’s Dictionaries (translate and annotate entries), updating Wikipedia entries, SNAP ontology]",text encoding,semantic Web,linked open data,https://docs.google.com/document/d/1cPfOKTnGc5Mhu7UyA3LEdh5i990vpV0Fg1X23JS9vqc/edit?pli=1
@@ -10,9 +10,9 @@ n_total,season,n_in_season,date,title,themes_1,themes_2,themes_3,class outline, 
 9,NA,9,02/06/2015,"Thucydides and Thrace: linking texts, objects, and places [Annotating inscriptions with EpiDoc, translating inscriptions through EAGLE Europeana, annotating inscriptions in the Louvre, coins]",named entities,objects and artefacts,linked open data,https://docs.google.com/document/d/1cPfOKTnGc5Mhu7UyA3LEdh5i990vpV0Fg1X23JS9vqc/edit?pli=1
 10,NA,10,09/06/2015,Keywords of war? Follow the words in Thucydides [Morphological annotations],named entities,encoding,translation,https://docs.google.com/document/d/1cPfOKTnGc5Mhu7UyA3LEdh5i990vpV0Fg1X23JS9vqc/edit?pli=1
 11,NA,11,16/06/2015,Treebanking texts and translations [Bare trees],text encoding,treebank,translation,https://docs.google.com/document/d/1cPfOKTnGc5Mhu7UyA3LEdh5i990vpV0Fg1X23JS9vqc/edit?pli=1
-12,NA,12,23/06/2015,Comparing trees: an introduction to treebanking evaluation [Annotating trees],text encoding,treebank,,"https://docs.google.com/document/d/1cPfOKTnGc5Mhu7UyA3LEdh5i990vpV0Fg1X23JS9vqc/edit?pli=1"
-13,NA,13,10/07/2015,"Sunoikisis DC - An International Consortium of Digital Classics Programs [Digital Classicist Seminar Series 2015,digital-classics,digital methods,,"http://www.digitalclassicist.org/wip/wip2015-06mb.html",themes_added
-14,NA,1,03/02/2016,Introduction to the Course,digital methods,,,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Introduction-to-the-Course-%28February-3%29,theme_added
+12,NA,12,23/06/2015,Comparing trees: an introduction to treebanking evaluation [Annotating trees],text encoding,treebank,,https://docs.google.com/document/d/1cPfOKTnGc5Mhu7UyA3LEdh5i990vpV0Fg1X23JS9vqc/edit?pli=1
+13,NA,13,10/07/2015,"Sunoikisis DC - An International Consortium of Digital Classics Programs [Digital Classicist Seminar Series 2015, http://www.digitalclassicist.org/wip/wip2015-06mb.html]",,,,
+14,NA,1,03/02/2016,Introduction to the Course,,,,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Introduction-to-the-Course-%28February-3%29
 15,NA,2,10/02/2016,Introduction to Treebanking Part I,text encoding,treebank,,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Introduction-to-Treebanking-Part-I-%28February-10%29
 16,NA,3,17/02/2016,Introduction to Treebanking Part II,text encoding,treebank,,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Introduction-to-Treebanking-Part-II-%28February-17%29
 17,NA,4,24/02/2016,Named Entity Recognition: SNAP and Recogito,named entities,text encoding,visualisation,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Named-Entity-Recognition:-SNAP-and-Recogito-%28February-24%29
@@ -22,8 +22,8 @@ n_total,season,n_in_season,date,title,themes_1,themes_2,themes_3,class outline, 
 21,NA,8,23/03/2016,3D Modelling for Cultural Heritage,digitisation,visualisation,cultural studies,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/3D-Modelling-for-Cultural-Heritage-%28March-23%29
 22,NA,9,30/03/2016,Teaching Classics in the digital era: pedagogical and logistical issues,teaching and pedagogy,data mining,standards,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Teaching-Classics-in-the-digital-era:-pedagogical-and-logistical-issues-%28March-30%29
 23,NA,10,06/04/2016,Inscriptions in Lucian’s True Stories,epigraphy,text mining,translation,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Inscriptions-in-Lucian’s-True-Stories-%28April-6%29
-24,NA,11,13/04/2016,"Odyssey: Named Entities Annotation, Translation Alignment",named entities,text encoding,translation,"https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Odyssey:-named-entities-annotation,-translation-alignment-%28April-13%29",theme_added
-25,NA,12,20/04/2016,Digital Tools for the Arts and Humanities: students’ presentations (University of Florida),digital methods,teaching and pedagogy,,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Digital-Tools-for-the-Arts-and-Humanities:-students’-presentations-%28University-of-Florida%29-%28April-20%29
+24,NA,11,13/04/2016,"Odyssey: Named Entities Annotation, Translation Alignment",named entities,text encoding,translation,"https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Odyssey:-named-entities-annotation,-translation-alignment-%28April-13%29"
+25,NA,12,20/04/2016,Digital Tools for the Arts and Humanities: students’ presentations (University of Florida),,,,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Digital-Tools-for-the-Arts-and-Humanities:-students’-presentations-%28University-of-Florida%29-%28April-20%29
 26,NA,13,27/04/2016,"Aristotle: Translation Alignment (Greek, Latin, Arabic)",named entities,text encoding,translation,"https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Aristotle:-Translation-Alignment-%28Greek,-Latin,-Arabic%29-%28April-27%29"
 27,NA,14,04/05/2016,Annotation of Geographical Data,encoding,geography,named entities,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Annotation-of-Geographical-Data-%28May-4%29
 28,NA,15,11/05/2016,"Aligned Translations, Treebanking Part I",encoding,translation,treebank,"https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Aligned-Translations,-Treebanking-Part-I-%28May-11%29"
@@ -31,7 +31,7 @@ n_total,season,n_in_season,date,title,themes_1,themes_2,themes_3,class outline, 
 30,NA,17,27/05/2016,Reading Plato with Digital Tools,text analysis,text mining,named entities,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Reading-Plato-with-Digital-Tools-%28May-27%29
 31,NA,18,01/06/2016,Text and Digital Editing (Lexicography and Geography),digital edition,geography,named entities,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Text-and-Digital-Editing-%28Lexicography-and-Geography%29-%28June-1%29
 32,NA,19,08/06/2016,Annotating Quotations and Text Reuses,text encoding,text analysis,text mining,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Annotating-Quotations-and-Text-Reuses-%28June-8%29
-33,NA,20,15/06/2016,Presenting SunoikisisDC 2016 at the CHS Common Day,digital-classics,digital methods,,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Presenting-SunoikisisDC-2016-at-the-CHS-Common-Day-(June-15),themes_added
+33,NA,20,15/06/2016,Presenting SunoikisisDC 2016 at the CHS Common Day,,,,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Presenting-SunoikisisDC-2016-at-the-CHS-Common-Day-(June-15)
 34,NA,21,22/06/2016,Digitizing Inscriptions from Georgia,digitisation,epigraphy,named entities,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Digitizing-Inscriptions-from-Georgia-%28June-22%29
 35,NA,22,29/06/2016,"Teaching Greek through (digital) epigraphy, epigraphy through Greek",teaching and pedagogy,epigraphy,digitisation,"https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Teaching-Greek-through-(digital)-epigraphy,-epigraphy-through-Greek-(June-29)"
 36,NA,23,06/07/2016,Open Persian,translation,named entities,text encoding,https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki/Open-Persian-%28July-6%29
@@ -124,7 +124,7 @@ n_total,season,n_in_season,date,title,themes_1,themes_2,themes_3,class outline, 
 123,Spring,8,28/02/2019,Introduction to programming through R,data mining,annotation,programming,https://github.com/SunoikisisDC/SunoikisisDC-2018-2019/wiki/ICS02:-8.-Introduction-to-R
 124,Spring,9,07/03/2019,Digital methods in ancient palaeography,text analysis,digital methods,paleography,https://github.com/SunoikisisDC/SunoikisisDC-2018-2019/wiki/ICS02:-9.-Digital-palaeography
 125,Spring,10,14/03/2019,"Text analysis, stylometry, visualisation using R",text analysis,text mining,visualisation,https://github.com/SunoikisisDC/SunoikisisDC-2018-2019/wiki/ICS02:-10.-Text-analysis-with-R
-126,Summer,1,04/04/2019,Introduction to SunoikisisDC Summer 2019,digital methods,,https://github.com/SunoikisisDC/SunoikisisDC-2018-2019/wiki/Summer2019-Session1,,theme_added
+126,Summer,1,04/04/2019,Introduction to SunoikisisDC Summer 2019,,,,https://github.com/SunoikisisDC/SunoikisisDC-2018-2019/wiki/Summer2019-Session1
 127,Summer,2,11/04/2019,Digital Philology,encoding,annotation,digital philology,https://github.com/SunoikisisDC/SunoikisisDC-2018-2019/wiki/Summer2019-Session2
 128,Summer,3,18/04/2019,"Digital Scholarly Edition: Needs, Experiences, Possibilities",scholarly editing,text encoding,digital philology,https://github.com/SunoikisisDC/SunoikisisDC-2018-2019/wiki/Summer2019-Session3
 129,Summer,5,02/05/2019,Programming for Humanists,digital methods,encoding,digital philology,https://github.com/SunoikisisDC/SunoikisisDC-2018-2019/wiki/Summer2019-Session5
@@ -155,7 +155,7 @@ n_total,season,n_in_season,date,title,themes_1,themes_2,themes_3,class outline, 
 154,Spring,7,27/02/2020,Translation alignment,translation,encoding,database,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/DC-Session-7-Translation-alignment
 155,Spring,8,05/03/2020,Treebanking 2: querying treebanks,annotation,treebank,text mining,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/DC-Session-8-Treebanking-2
 156,Spring,9,12/03/2020,Data Visualisation,text analysis,data analysis,visualisation,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/DC-Session-9-Visualisation
-157,Summer,1,09/04/2020,Introduction to SunikisisDC,digital methods,,,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/Summer2020-Session-1,theme_added
+157,Summer,1,09/04/2020,Introduction to SunikisisDC,,,,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/Summer2020-Session-1
 158,Summer,2,16/04/2020,Digital Classics in Teaching: Before and Now,teaching and pedagogy,digital methods,,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/Summer-2020-Session-2
 159,Summer,3,23/04/2020,Text-Bearing Objects 1,encoding,archaeology,,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/Summer2020-Session-3
 160,Summer,4,30/04/2020,Text-Bearing Objects 2,archaeology,visualisation,database,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/Summer2020-Session-4
@@ -186,8 +186,8 @@ n_total,season,n_in_season,date,title,themes_1,themes_2,themes_3,class outline, 
 185,Spring,6,25/02/2021,Geographic Information Systems,visualisation,database,geography,https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/CH6-GIS
 186,Spring,7,04/03/2021,Publishing 3D models and intellectual property,digitisation,copyright license and open access,digital edition,https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/CH7-Publishing-3D
 187,Spring,8,11/03/2021,Intellectual Property and heritage restitution,copyright license and open access,linked open data,,https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/CH8-IP-and-Restitution
-188,Spring,9,18/03/2021,3D modelling,visualisation,digitisation,,https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/CH9-3D-Modelling,theme_added
-189,Summer,1,15/04/2021,Introduction,digital methods,,,https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/SunoikisisDC-Summer-2021-Session-1
+188,Spring,9,18/03/2021,3D modelling,visualisation,digitisation,,https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/CH9-3D-Modelling
+189,Summer,1,15/04/2021,Introduction,,,,https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/SunoikisisDC-Summer-2021-Session-1
 190,Summer,2,22/04/2021,Teaching Epigraphy in a Pandemic,teaching and pedagogy,epigraphy,,https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/blob/master/Summer-2021/Session2_slides.pdf
 191,Summer,3,29/04/2021,Digital Epigraphic Corpora. The Example of the Inscriptions from Israel and Palestine,encoding,epigraphy,digital archives and library,https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/SunoikisisDC-Summer-2021-Session-3
 192,Summer,4,06/05/2021,Linguistic Annotations of Greek and Latin Inscriptions,epigraphy,annotation,,https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/SunoikisisDC-Summer-2021-Session-4
@@ -206,7 +206,7 @@ n_total,season,n_in_season,date,title,themes_1,themes_2,themes_3,class outline, 
 205,Fall,3,21/10/2021,Text Analysis with Voyant,text mining,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Text-Analysis-with-Voyant
 206,Fall,4,28/10/2021,Text Encoding II: Objects,XML-TEI,archaeology,annotation,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Text-Encoding-II-Objects
 207,Fall,5,04/11/2021,Research with Treebanks,text analysis,epigraphy,linguistics,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Research-with-Treebanks
-208,Fall,6,11/11/2021,cancelled,,,,,
+208,Fall,6,11/11/2021,cancelled,,,,
 209,Fall,7,18/11/2021,Translation and Text Alignment,digital humanities history,translation,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Translation-and-Text-Alignment
 210,Fall,8,25/11/2021,Text and Web Annotation,annotation,linked open data,semantic Web,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Text-and-Web-Annotation
 211,Fall,9,02/12/2021,Computational Linguistics,linguistics,text analysis,text mining,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Computational-Linguistics
@@ -228,15 +228,15 @@ n_total,season,n_in_season,date,title,themes_1,themes_2,themes_3,class outline, 
 227,Summer,7,30/06/2022,Exhibiting the Ancient World - Online and Offline,Digital-Museology,Curating,Digital-Exhibitions,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-10
 228,Summer,8,07/07/2022,Translation Alignment for Ancient Greek and Latin,Computational-Linguistics,Translation-Alignment,Ancient-Greek,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-11
 229,Fall,1,03/11/2022,Learning Greek and Latin with Treebanks,digital-classics,annotation,tree-banking,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Learning-Greek-and-Latin-with-Treebanks
-230,Fall,2,10/11/2022,Contributing Apparatus corrections to Papyri.info,epigraphy,crowdsourcing,digital archives and library,digital-papyrology,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Contributing-Apparatus-corrections-to-Papyri-info,3_themes_added
-231,Fall,3,16/11/2022,Editing MediaWiki and the Digital Classicist Wiki,crowdsourcing,digital archives and library,digital-classics,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Editing-MediaWiki-and-the-Digital-Classicist-Wiki,3_themes_added
+230,Fall,2,10/11/2022,Contributing Apparatus corrections to Papyri.info,,,digital-papyrology,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Contributing-Apparatus-corrections-to-Papyri-info
+231,Fall,3,16/11/2022,Editing MediaWiki and the Digital Classicist Wiki,,,digital-classics,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Editing-MediaWiki-and-the-Digital-Classicist-Wiki
 232,Fall,4,22/11/2022,Contributing to Ancient Linguistic Annotation Projects,computational-linguistics,annotation,ancient-texts,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Contributing-to-Ancient-Linguistic-Annotation-Projects
 233,Fall,5,08/12/2022,Using and Editing Wikidata,,digital-classics,using-editing,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Using-and-Editing-Wikidata
 234,Spring,1,19/01/2023,Object description and process in EpiDoc,,digital-classics,text-editing,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Ch-1-EpiDoc
 235,Spring,2,26/01/2023,Using and Editing Wikipedia,,digital-classics,text-editing,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Ch-2-Wikipedia
 236,Spring,3,02/02/2023,Linked Geographical Data and Annotation,linked open data,semantic Web,geography,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/6-Linked-Geodata
-237,Spring,4,09/02/2023,GIS and Mapping,maps and mapping,geographyGIS and Mapping,,,3_themes_added
-238,Spring,5,16/02/2023,3D Imaging and Scanning,digitisation,archaeology,,,themes_added
+237,Spring,4,09/02/2023,GIS and Mapping,,,,
+238,Spring,5,16/02/2023,3D Imaging and Scanning,,,,
 239,Spring,6,23/02/2023,"Physical, Digital and Intellectual Property Restitution",copyright license and open access,digitisation,,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Ch-6-Restitution
 240,Spring,7,02/03/2023,3D Modelling and Reconstruction,digitisation,visualisation,cultural studies,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Ch-7-3D-Modelling
 241,Spring,8,09/03/2023,Museum Collection Data Management and Access,"GLAM: galleries,libraries,archives,museums",database,copyright license and open access,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Ch-8-Collection-Data
@@ -244,8 +244,8 @@ n_total,season,n_in_season,date,title,themes_1,themes_2,themes_3,class outline, 
 243,Summer,1,11/05/2023,Using and editing Wikidata,digital-classics,using-editing,wiki-data,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Using-and-Editing-Wikidata
 244,Summer,2,08/06/2023,The Digital Classicist Wiki,digital-classics,wiki-data,digital-classicist-wiki,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Session-2
 245,Summer,3,15/06/2023,Wikidata for Classicists,digital-classics,wiki-data,,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Session-3
-246,Summer,4,06/07/2023,"Wikimedia Commons, Wikisource and Wikiquote for Classicists",digital archives and library,crowdsourcing,copyright license and open access,,themes_added
-247,Spring,1,11/01/2024,EpiDoc: Digital encoding of epigraphic text and object,encoding,epigraphy,xml-tei,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/1.-EpiDoc,themes_added
+246,Summer,4,06/07/2023,"Wikimedia Commons, Wikisource and Wikiquote for Classicists",,,,
+247,Spring,1,11/01/2024,EpiDoc: Digital encoding of epigraphic text and object,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/1.-EpiDoc
 248,Spring,2,18/01/2024,3D Imaging: From remote sensing to photogrammetry,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/2.-3D-Imaging
 249,Spring,3,25/01/2024,Gazetteers: Annotation and mapping,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/3.-Gazetteers
 250,Spring,4,08/02/2024,Geographic Information Systems: From maps to analysis,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/4.-GIS
