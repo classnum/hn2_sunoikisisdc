@@ -1,6 +1,7 @@
 pacman::p_load(tidyverse)
 
 d <- read_csv("hn2_sunoikisisdc_data.csv")
+d2 <- read_csv("themes.csv")
 
 inst <-
     d %>% select(contains("institutions_")) %>% unlist() %>% unique()
@@ -19,6 +20,12 @@ d %>%
     arrange(desc(n)) %>% distinct()
 
 d %>%
+    select(contains("themes_")) %>%
+    unlist() %>% na.omit() %>% as_tibble() %>%
+    group_by(value) %>% add_count() %>%
+    arrange(desc(n)) %>% distinct()
+
+themes <- d2 %>%
     select(contains("themes_")) %>%
     unlist() %>% na.omit() %>% as_tibble() %>%
     group_by(value) %>% add_count() %>%
