@@ -249,35 +249,35 @@ n_total,season,n_in_season,date,title,themes_1,themes_2,themes_3,discipline_1,di
 248,Spring,2,18/01/2024,3D Imaging: From remote sensing to photogrammetry,,,,digital humanities,archaeology,teaching,imaging,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/2.-3D-Imaging
 249,Spring,3,25/01/2024,Gazetteers: Annotation and mapping,,,,geography,,georeferencing,annotating,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/3.-Gazetteers
 250,Spring,4,08/02/2024,Geographic Information Systems: From maps to analysis,,,,geography,,georeferencing,data visualization,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/4.-GIS
-251,Spring,5,15/02/2024,Ethical Responsibilites and 3D Methods in Cultural Heritage,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/5.-Ethics
-252,Spring,6,22/02/2024,Wikipedia & Wikidata: Collaboration and authority data,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/6.-Wikidata
-253,Spring,7,29/02/2024,Experiencing 3D: Virtual Reality and Sketchfab,,,,,,,,
-254,Spring,8,07/03/2024,3D Modelling: Archaeological reconstruction and 3D printing,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/8.-3D-Modelling
-255,Summer,1,08/04/2024,Free and open primary texts,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/1.-Open-Texts
-256,Summer,2,22/04/2024,Suda On Line and the Digital Suda projects,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023 2024/wiki/3.-Suda
-257,Summer,3,06/05/2024,Digital prosopography,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/5.-Prosopography
-258,Summer,4,27/05/2024,Text Analysis with Voyant Tools,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Text-Analysis-with-Voyant
-259,Summer,5,10/06/2024,Treebanking and morphosyntactic annotation to study reception of ancient language and texte,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/9.-Treebanking
-260,Summer,6,24/06/2024,Arabic and Georgian sources for Byzantine and Medieval history,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/11.-Arabic-Georgian
-261,Spring,1,16/01/2025,Finding free classical texts,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/1-Finding-Texts
-262,Spring,2,23/01/2025,Preparing texts and data cleaning,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/2-Preparing-Texts
-263,Spring,3,18/03/2025,Working with Egyptian texts,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/3-Egyptian-Texts
-264,Spring,4,06/02/2025,Digital editions of inscriptions and papyri,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/4-EpiDoc
-265,Spring,5,13/02/2025,Working with Wikipedia,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/5-Wikipedia
-266,Spring,6,27/02/2025,Analysing and visualising texts,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/6-Analysing-Texts
-267,Spring,7,06/03/2025,Working with Cuneiform texts,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/7-Cuneiform-Texts
-268,Spring,8,13/03/2025,Text alignment,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/8-Text-Alignment
-269,Spring,9,20/03/2025,Papyrological texts and linguistic research,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/9-Linguistics
-270,Spring,1,15/01/2026,What is Digital Classics/Cultural Heritage?,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/1-What-Is-DCH
-271,Spring,2,22/01/2026,Collaborative Cultural Heritage Geodata,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/2-Collaborative-Geodata
-272,Spring,3,29/01/2026,3D Modelling and Visualisation,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/3-3D-Modelling
-273,Spring,4,05/02/2026,3D and 2½D Imaging,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/4-3D-Imaging
-274,Spring,5,12/02/2026,Geographic Information Systems,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/5-GIS
-275,Spring,6,26/02/2026,Working with Indigenous Heritage,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/6-Indigenous-Heritage
-276,Spring,7,05/03/2026,Epigraphic Object Encoding,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/7-EpiDoc
-277,Spring,8,12/03/2026,"Ethics, Sustainability & Paradata in 3D Heritage",,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/8-Ethical-3D
-278,Spring,9,19/03/2026,VR and Virtual Environments,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/9-VR
-279,Summer,1,21/04/2026,Introduction to Digital Scholarly Edition,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/Summer-2026-Session-1
-280,Summer,2,28/04/2026,Tools and Environments for Publishing Digital Scholarly Editions,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/Summer-2026-Session-2
-281,Summer,3,05/05/2026,From the Manuscript to the Digital Scholarly Edition,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/Summer-2026-Session-3
-282,Summer,4,12/05/2026,Linked Open Data in Digital Scholarly Editions,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/Summer-2026-Session-4
+251,Spring,5,15/02/2024,Ethical Responsibilites and 3D Methods in Cultural Heritage,,,,digital humanities,museology,teaching,perserving,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/5.-Ethics
+252,Spring,6,22/02/2024,Wikipedia & Wikidata: Collaboration and authority data,,,,digital humanities,,teaching,crowdsourcing,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/6.-Wikidata
+253,Spring,7,29/02/2024,Experiencing 3D: Virtual Reality and Sketchfab,,,,digital humanities,,teaching,imaging,
+254,Spring,8,07/03/2024,3D Modelling: Archaeological reconstruction and 3D printing,,,,digital humanities,archaeology,teaching,designing,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/8.-3D-Modelling
+255,Summer,1,08/04/2024,Free and open primary texts,,,,literature,philology,,linked open data,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/1.-Open-Texts
+256,Summer,2,22/04/2024,Suda On Line and the Digital Suda projects,,,,digital humanities,literature,associating,,https://github.com/SunoikisisDC/SunoikisisDC-2023 2024/wiki/3.-Suda
+257,Summer,3,06/05/2024,Digital prosopography,,,,digital humanities,prosopography,teaching,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/5.-Prosopography
+258,Summer,4,27/05/2024,Text Analysis with Voyant Tools,,,,philology,digital humanities,exploring,teaching,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Text-Analysis-with-Voyant
+259,Summer,5,10/06/2024,Treebanking and morphosyntactic annotation to study reception of ancient language and texte,,,,linguistic,,tree-tagging,teaching,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/9.-Treebanking
+260,Summer,6,24/06/2024,Arabic and Georgian sources for Byzantine and Medieval history,,,,history,literature,comparing,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/11.-Arabic-Georgian
+261,Spring,1,16/01/2025,Finding free classical texts,,,,literature,digital humanities,exploring,linked open data,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/1-Finding-Texts
+262,Spring,2,23/01/2025,Preparing texts and data cleaning,,,,digital humanities,philology,data cleansing,teaching,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/2-Preparing-Texts
+263,Spring,3,18/03/2025,Working with Egyptian texts,,,,philology,literature,sentiment analysis,,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/3-Egyptian-Texts
+264,Spring,4,06/02/2025,Digital editions of inscriptions and papyri,,,,paleography,philology,exploring,,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/4-EpiDoc
+265,Spring,5,13/02/2025,Working with Wikipedia,,,,digital humanities,,linked open data,teaching,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/5-Wikipedia
+266,Spring,6,27/02/2025,Analysing and visualising texts,,,,philology,literature,named entity recognition,data visualization,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/6-Analysing-Texts
+267,Spring,7,06/03/2025,Working with Cuneiform texts,,,,philology,paleography,exploring,,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/7-Cuneiform-Texts
+268,Spring,8,13/03/2025,Text alignment,,,,philology,,comparing,,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/8-Text-Alignment
+269,Spring,9,20/03/2025,Papyrological texts and linguistic research,,,,paleography,liguistic,exploring,,https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki/9-Linguistics
+270,Spring,1,15/01/2026,What is Digital Classics/Cultural Heritage?,,,,digital humanities,museology,teaching,,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/1-What-Is-DCH
+271,Spring,2,22/01/2026,Collaborative Cultural Heritage Geodata,,,,digital humanities,geography,georeferencing,teaching,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/2-Collaborative-Geodata
+272,Spring,3,29/01/2026,3D Modelling and Visualisation,,,,digital humanities,,teaching,modelling,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/3-3D-Modelling
+273,Spring,4,05/02/2026,3D and 2½D Imaging,,,,digital humanities,,teaching,imaging,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/4-3D-Imaging
+274,Spring,5,12/02/2026,Geographic Information Systems,,,,geography,digital humanities,exploring,teaching,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/5-GIS
+275,Spring,6,26/02/2026,Working with Indigenous Heritage,,,,history,anthropology,knowledge discovery,,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/6-Indigenous-Heritage
+276,Spring,7,05/03/2026,Epigraphic Object Encoding,,,,epigraphy,digital humanities,encoding,teaching,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/7-EpiDoc
+277,Spring,8,12/03/2026,"Ethics, Sustainability & Paradata in 3D Heritage",,,,digital humanities,archaeology,knowledge discovery,teaching,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/8-Ethical-3D
+278,Spring,9,19/03/2026,VR and Virtual Environments,,,,digital humanities,,georeferencing,teaching,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/9-VR
+279,Summer,1,21/04/2026,Introduction to Digital Scholarly Edition,,,,digital humanities,,academic publishing,teaching,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/Summer-2026-Session-1
+280,Summer,2,28/04/2026,Tools and Environments for Publishing Digital Scholarly Editions,,,,digital humanities,,academic publishing,teaching,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/Summer-2026-Session-2
+281,Summer,3,05/05/2026,From the Manuscript to the Digital Scholarly Edition,,,,paleography,digital humanities,adding,academic publishing,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/Summer-2026-Session-3
+282,Summer,4,12/05/2026,Linked Open Data in Digital Scholarly Editions,,,,digital humanities,,teaching,linked open data,https://github.com/SunoikisisDC/SunoikisisDC-2025-2026/wiki/Summer-2026-Session-4
