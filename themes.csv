@@ -45,7 +45,7 @@ n_total,season,n_in_season,date,title,themes_1,themes_2,themes_3,discipline_1,di
 44,Fall,8,17/11/2016,Data Structuring and Querying,,,,digital humanities,,web development,managing,https://github.com/SunoikisisDC/SunoikisisDC-2016-2017/wiki/Session-8:-Data-Structuring-and-Querying
 45,Fall,9,24/11/2016,Data Visualization,,,,digital humanities,,data visualization,,https://github.com/SunoikisisDC/SunoikisisDC-2016-2017/wiki/Session-9:-Data-Visualization
 46,Fall,10,01/12/2016,Network Analysis,,,,digital humanities,anthropology,network analysis,,https://github.com/SunoikisisDC/SunoikisisDC-2016-2017/wiki/Session-10:-Network-Analysis
-47,Fall,11,08/12/2016,Crowdsourcing Heritage and Conservation,,,,history,museum study,crowdsourcing,preserving,https://github.com/SunoikisisDC/SunoikisisDC-2016-2017/wiki/Session-11:-Crowdsourcing-Heritage-and-Conservation
+47,Fall,11,08/12/2016,Crowdsourcing Heritage and Conservation,,,,history,museology,crowdsourcing,preserving,https://github.com/SunoikisisDC/SunoikisisDC-2016-2017/wiki/Session-11:-Crowdsourcing-Heritage-and-Conservation
 48,Fall,12,15/12/2016,Historical sources,,,,philology,history,sentiment analysis,,https://github.com/SunoikisisDC/SunoikisisDC-2016-2017/wiki/Session-12:-Historical-Sources
 49,Spring,1,26/01/2017,Geo-annotation,,,,geography,,annotating,georeferencing,https://github.com/SunoikisisDC/SunoikisisDC-2016-2017/wiki/Geo-annotation
 50,Spring,2,02/02/2017,Encoding of ancient texts,,,,digital humanities,paleography,encoding,teaching,https://github.com/SunoikisisDC/SunoikisisDC-2016-2017/wiki/Encoding-of-ancient-texts
@@ -148,7 +148,7 @@ n_total,season,n_in_season,date,title,themes_1,themes_2,themes_3,discipline_1,di
 147,Fall,9,28/11/2019,Crowdsourcing Cultural Heritage,linked open data,digital archives and library,crowdsourcing,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/DCH-Session-9-Crowdsourcing
 148,Spring,1,16/01/2020,Basic tools,digital methods,copyright license and open access,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/DC-Session-1-Basic-Tools
 149,Spring,2,23/01/2020,Wikimedia sites for research,linked open data,database,research process,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/DC-Session-2-Wikimedia
-150,Spring,3,30/01/2020,EpiDoc 1: intro to markup,epigraphy,manuscript,encoding,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/DC-Session-3-EpiDoc-1
+150,Spring,3,30/01/2020,EpiDoc 1: intro to markup,epigraphy,manuscript,encoding,digital humanities,,teaching,,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/DC-Session-3-EpiDoc-1
 151,Spring,4,06/02/2020,Introduction to Python,digital methods,data mining,encoding,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/DC-Session-4-Python
 152,Spring,5,13/02/2020,EpiDoc 2: publishing,text encoding,visualisation,digital edition,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/DC-Session-5-EpiDoc-2
 153,Spring,6,20/02/2020,Treebanking 1: morphosyntactic annotation,annotation,treebank,encoding,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/DC-Session-6-Treebanking-1
@@ -208,47 +208,47 @@ n_total,season,n_in_season,date,title,themes_1,themes_2,themes_3,discipline_1,di
 207,Fall,5,04/11/2021,Research with Treebanks,text analysis,epigraphy,linguistics,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Research-with-Treebanks
 208,Fall,6,11/11/2021,cancelled,,,,,,,,
 209,Fall,7,18/11/2021,Translation and Text Alignment,digital humanities history,translation,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Translation-and-Text-Alignment
-210,Fall,8,25/11/2021,Text and Web Annotation,annotation,linked open data,semantic Web,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Text-and-Web-Annotation
-211,Fall,9,02/12/2021,Computational Linguistics,linguistics,text analysis,text mining,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Computational-Linguistics
-212,Spring,1,13/01/2022,Crowdsourcing and cultural heritage,crowdsourcing,linked open data,cultural studies,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/1-Crowdsourcing
-213,Spring,2,20/01/2022,"Museum data, access and metadata","GLAM: galleries,libraries,archives,museums",metadata,copyright license and open access,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/2-Museum-data
-214,Spring,3,27/01/2022,3D imaging in museum research,digitisation,"GLAM: galleries,libraries,archives,museums",archaeology,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/3-3D-imaging
-215,Spring,4,03/02/2022,Digital heritage collections,"GLAM: galleries,libraries,archives,museums",copyright license and open access,cultural studies,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/4-Digital-heritage
-216,Spring,5,10/02/2022,3D modelling and reconstruction,digitisation,visualisation,cultural studies,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/5-3D-modelling
-217,Spring,6,17/02/2022,Linked geographical data and annotation,linked open data,maps and mapping,semantic Web,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/6-Linked-Geodata
-218,Spring,7,24/02/2022,Reuse of heritage data and open licenses,"GLAM: galleries,libraries,archives,museums",copyright license and open access,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/7-Reuse-of-heritage
-219,Spring,8,03/03/2022,Geographic Information Systems,geography,cultural studies,archaeology,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/8-GIS
-220,Spring,9,10/03/2022,"Archaeology, VR and other gaming technologies",virtual and augmented reality,digitisation,archaeology,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/9-VR-and-archaeology
-221,Summer,1,28/04/2022,WordNets for Ancient Indo-European Languages,Digital-Lexicography,Word-Nets,Linguistic-Research,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-1
-222,Summer,2,05/05/2022,Text Analysis and Fragment Detection in Aelian’s De Natura Animalium,Digital-Philology,Text-Analysis,Voyant-Tool,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-2
-223,Summer,3,19/05/2022,ToposText and Wikidata,Digital-Geography,Mapping,ToposText,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-4
-224,Summer,4,02/06/2022,Machina Callida,Pedagogy,Philological-Research,Machina-Callida,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-6
-225,Summer,5,09/06/2022,"South Africa, Greece and Rome: Classical Confrontations in the Digital Age",Digital-Museology,Preserving,Museum-Data,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-7
-226,Summer,6,23/06/2022,Natural Language Processing (NLP) for Historical Texts,Natural-Language-Processing,Geo-Tagging,GIS,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-9
-227,Summer,7,30/06/2022,Exhibiting the Ancient World - Online and Offline,Digital-Museology,Curating,Digital-Exhibitions,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-10
-228,Summer,8,07/07/2022,Translation Alignment for Ancient Greek and Latin,Computational-Linguistics,Translation-Alignment,Ancient-Greek,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-11
-229,Fall,1,03/11/2022,Learning Greek and Latin with Treebanks,digital-classics,annotation,tree-banking,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Learning-Greek-and-Latin-with-Treebanks
-230,Fall,2,10/11/2022,Contributing Apparatus corrections to Papyri.info,,,digital-papyrology,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Contributing-Apparatus-corrections-to-Papyri-info
-231,Fall,3,16/11/2022,Editing MediaWiki and the Digital Classicist Wiki,,,digital-classics,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Editing-MediaWiki-and-the-Digital-Classicist-Wiki
-232,Fall,4,22/11/2022,Contributing to Ancient Linguistic Annotation Projects,computational-linguistics,annotation,ancient-texts,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Contributing-to-Ancient-Linguistic-Annotation-Projects
-233,Fall,5,08/12/2022,Using and Editing Wikidata,,digital-classics,using-editing,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Using-and-Editing-Wikidata
-234,Spring,1,19/01/2023,Object description and process in EpiDoc,,digital-classics,text-editing,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Ch-1-EpiDoc
-235,Spring,2,26/01/2023,Using and Editing Wikipedia,,digital-classics,text-editing,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Ch-2-Wikipedia
-236,Spring,3,02/02/2023,Linked Geographical Data and Annotation,linked open data,semantic Web,geography,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/6-Linked-Geodata
-237,Spring,4,09/02/2023,GIS and Mapping,,,,,,,,
-238,Spring,5,16/02/2023,3D Imaging and Scanning,,,,,,,,
-239,Spring,6,23/02/2023,"Physical, Digital and Intellectual Property Restitution",copyright license and open access,digitisation,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Ch-6-Restitution
-240,Spring,7,02/03/2023,3D Modelling and Reconstruction,digitisation,visualisation,cultural studies,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Ch-7-3D-Modelling
-241,Spring,8,09/03/2023,Museum Collection Data Management and Access,"GLAM: galleries,libraries,archives,museums",database,copyright license and open access,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Ch-8-Collection-Data
-242,Spring,9,16/03/2023,3D Printing and Publishing,,,,,,,,
-243,Summer,1,11/05/2023,Using and editing Wikidata,digital-classics,using-editing,wiki-data,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Using-and-Editing-Wikidata
-244,Summer,2,08/06/2023,The Digital Classicist Wiki,digital-classics,wiki-data,digital-classicist-wiki,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Session-2
-245,Summer,3,15/06/2023,Wikidata for Classicists,digital-classics,wiki-data,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Session-3
-246,Summer,4,06/07/2023,"Wikimedia Commons, Wikisource and Wikiquote for Classicists",,,,,,,,
-247,Spring,1,11/01/2024,EpiDoc: Digital encoding of epigraphic text and object,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/1.-EpiDoc
-248,Spring,2,18/01/2024,3D Imaging: From remote sensing to photogrammetry,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/2.-3D-Imaging
-249,Spring,3,25/01/2024,Gazetteers: Annotation and mapping,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/3.-Gazetteers
-250,Spring,4,08/02/2024,Geographic Information Systems: From maps to analysis,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/4.-GIS
+210,Fall,8,25/11/2021,Text and Web Annotation,,,,linguistic,philology,annotating,linked open data,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Text-and-Web-Annotation
+211,Fall,9,02/12/2021,Computational Linguistics,,,,linguistic,digital humanities,teaching,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Computational-Linguistics
+212,Spring,1,13/01/2022,Crowdsourcing and cultural heritage,,linked open data,cultural studies,digital humanities,,crowdsourcing,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/1-Crowdsourcing
+213,Spring,2,20/01/2022,"Museum data, access and metadata",,,,digital humanities,museology,oganizing,linked open data,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/2-Museum-data
+214,Spring,3,27/01/2022,3D imaging in museum research,digitisation,"GLAM: galleries,libraries,archives,museums",archaeology,digital humanities,museology,teaching,organizing,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/3-3D-imaging
+215,Spring,4,03/02/2022,Digital heritage collections,"GLAM: galleries,libraries,archives,museums",copyright license and open access,cultural studies,digital humanities,museology,archiving,preservation metadata,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/4-Digital-heritage
+216,Spring,5,10/02/2022,3D modelling and reconstruction,digitisation,visualisation,cultural studies,digital humanities,archaeology,teaching,modeling,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/5-3D-modelling
+217,Spring,6,17/02/2022,Linked geographical data and annotation,linked open data,maps and mapping,semantic Web,geography,,georeferencing,annotating,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/6-Linked-Geodata
+218,Spring,7,24/02/2022,Reuse of heritage data and open licenses,"GLAM: galleries,libraries,archives,museums",copyright license and open access,,museology,,linked open data,upload,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/7-Reuse-of-heritage
+219,Spring,8,03/03/2022,Geographic Information Systems,geography,cultural studies,archaeology,geography,archaeology,spatial analysis,data visualization,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/8-GIS
+220,Spring,9,10/03/2022,"Archaeology, VR and other gaming technologies",virtual and augmented reality,digitisation,archaeology,digital humanities,archaeology,teaching,modeling,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/9-VR-and-archaeology
+221,Summer,1,28/04/2022,WordNets for Ancient Indo-European Languages,Digital-Lexicography,Word-Nets,Linguistic-Research,linguistic,digital humanities,teaching,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-1
+222,Summer,2,05/05/2022,Text Analysis and Fragment Detection in Aelian’s De Natura Animalium,Digital-Philology,Text-Analysis,Voyant-Tool,literature,paleography,discourse analysis,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-2
+223,Summer,3,19/05/2022,ToposText and Wikidata,Digital-Geography,Mapping,ToposText,geography,digital humanities,georeferencing,linked open data,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-4
+224,Summer,4,02/06/2022,Machina Callida,Pedagogy,Philological-Research,Machina-Callida,digital humanities,linguistic,teaching,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-6
+225,Summer,5,09/06/2022,"South Africa, Greece and Rome: Classical Confrontations in the Digital Age",Digital-Museology,Preserving,Museum-Data,museology,anthropology,discourse analysis,organizing,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-7
+226,Summer,6,23/06/2022,Natural Language Processing (NLP) for Historical Texts,Natural-Language-Processing,Geo-Tagging,GIS,linguistic,history,natural language processing,discourse analysis,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-9
+227,Summer,7,30/06/2022,Exhibiting the Ancient World - Online and Offline,Digital-Museology,Curating,Digital-Exhibitions,museology,digital humanities,teaching,,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-10
+228,Summer,8,07/07/2022,Translation Alignment for Ancient Greek and Latin,Computational-Linguistics,Translation-Alignment,Ancient-Greek,translation,,comparing,annotating,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-11
+229,Fall,1,03/11/2022,Learning Greek and Latin with Treebanks,digital-classics,annotation,tree-banking,linguistic,digital humanities,tree-tagging,teaching,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Learning-Greek-and-Latin-with-Treebanks
+230,Fall,2,10/11/2022,Contributing Apparatus corrections to Papyri.info,,,digital-papyrology,digital humanities,philology,teaching,correcting,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Contributing-Apparatus-corrections-to-Papyri-info
+231,Fall,3,16/11/2022,Editing MediaWiki and the Digital Classicist Wiki,,,digital-classics,digital humanities,,teaching,collaborating,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Editing-MediaWiki-and-the-Digital-Classicist-Wiki
+232,Fall,4,22/11/2022,Contributing to Ancient Linguistic Annotation Projects,computational-linguistics,annotation,ancient-texts,linguistic,,annotating,collaborating,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Contributing-to-Ancient-Linguistic-Annotation-Projects
+233,Fall,5,08/12/2022,Using and Editing Wikidata,,digital-classics,using-editing,digital humanities,,editing,linked open data,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Using-and-Editing-Wikidata
+234,Spring,1,19/01/2023,Object description and process in EpiDoc,,digital-classics,text-editing,history,,annotating,editing,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Ch-1-EpiDoc
+235,Spring,2,26/01/2023,Using and Editing Wikipedia,,digital-classics,text-editing,digital humanities,,editing,linked open data,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Ch-2-Wikipedia
+236,Spring,3,02/02/2023,Linked Geographical Data and Annotation,linked open data,semantic Web,geography,geography,,organizing,annotating,https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/6-Linked-Geodata
+237,Spring,4,09/02/2023,GIS and Mapping,,,,geography,,data visualization,georeferencing,
+238,Spring,5,16/02/2023,3D Imaging and Scanning,,,,digital humanities,,teaching,imaging,
+239,Spring,6,23/02/2023,"Physical, Digital and Intellectual Property Restitution",copyright license and open access,digitisation,,museology,,knowledge discovery,preservation,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Ch-6-Restitution
+240,Spring,7,02/03/2023,3D Modelling and Reconstruction,digitisation,visualisation,cultural studies,digital humanities,archaeology,modeling,teaching,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Ch-7-3D-Modelling
+241,Spring,8,09/03/2023,Museum Collection Data Management and Access,"GLAM: galleries,libraries,archives,museums",database,copyright license and open access,museology,,teaching,organizing,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Ch-8-Collection-Data
+242,Spring,9,16/03/2023,3D Printing and Publishing,,,,digital humanities,,teaching,modeling,
+243,Summer,1,11/05/2023,Using and editing Wikidata,digital-classics,using-editing,wiki-data,digital humanities,,adding,teaching,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Using-and-Editing-Wikidata
+244,Summer,2,08/06/2023,The Digital Classicist Wiki,digital-classics,wiki-data,digital-classicist-wiki,digital humanities,,teaching,collaborating,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Session-2
+245,Summer,3,15/06/2023,Wikidata for Classicists,digital-classics,wiki-data,,digital humanities,,teaching,linked open data,https://github.com/SunoikisisDC/SunoikisisDC-2022-2023/wiki/Session-3
+246,Summer,4,06/07/2023,"Wikimedia Commons, Wikisource and Wikiquote for Classicists",,,,digital humanities,,teaching,linked open data,
+247,Spring,1,11/01/2024,EpiDoc: Digital encoding of epigraphic text and object,,,,history,epigraphy,teaching,annotating,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/1.-EpiDoc
+248,Spring,2,18/01/2024,3D Imaging: From remote sensing to photogrammetry,,,,digital humanities,archaeology,teaching,imaging,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/2.-3D-Imaging
+249,Spring,3,25/01/2024,Gazetteers: Annotation and mapping,,,,geography,,georeferencing,annotating,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/3.-Gazetteers
+250,Spring,4,08/02/2024,Geographic Information Systems: From maps to analysis,,,,geography,,georeferencing,data visualization,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/4.-GIS
 251,Spring,5,15/02/2024,Ethical Responsibilites and 3D Methods in Cultural Heritage,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/5.-Ethics
 252,Spring,6,22/02/2024,Wikipedia & Wikidata: Collaboration and authority data,,,,,,,,https://github.com/SunoikisisDC/SunoikisisDC-2023-2024/wiki/6.-Wikidata
 253,Spring,7,29/02/2024,Experiencing 3D: Virtual Reality and Sketchfab,,,,,,,,
