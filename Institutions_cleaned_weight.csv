@@ -1,0 +1,307 @@
+Source,Target,Weight
+Tufts University,University Lyon 2,1
+"Center for Hellenic Studies, Harvard University",Leipzig University,1
+"Center for Hellenic Studies, Harvard University",Tufts University,2
+Leipzig University,Tufts University,2
+Leipzig University,University of Oslo,1
+Leipzig University,University of Bari,7
+Leipzig University,University of London,22
+University of Bari,University of London,3
+King’s College London,University of London,15
+King’s College London,University of Oslo,1
+University of London,University of Oslo,1
+Tufts University,University of Heidelberg,2
+Tufts University,University of London,1
+University of Heidelberg,University of London,2
+King’s College London,University of Florida,1
+"Center for Hellenic Studies, Harvard University",Franklin & Marshall College,1
+"Center for Hellenic Studies, Harvard University",Rhodes College,1
+"Center for Hellenic Studies, Harvard University",University of Iowa,1
+Franklin & Marshall College,Rhodes College,1
+Franklin & Marshall College,Tufts University,1
+Franklin & Marshall College,University of Iowa,1
+Rhodes College,Tufts University,1
+Rhodes College,University of Iowa,1
+Tufts University,University of Iowa,1
+Ain Shams University,Tufts University,1
+Ain Shams University,University of Heidelberg,2
+Leipzig University,University of Freiburg,2
+University of Bari,University of Freiburg,1
+Ain Shams University,King’s College London,1
+Ain Shams University,University of London,2
+King’s College London,University of Heidelberg,1
+Roehampton University,University of Exeter,1
+Institute of Historical Research,School of Advanced Study,1
+Katholieke Universiteit Leuven,University of London,2
+King’s College London,Leipzig University,4
+King’s College London,University of Bari,1
+University of Helsinki,University of Sofia,2
+Babeș-Bolyai University,University of London,5
+Alan Turing Institute,University of Cambridge,6
+Alan Turing Institute,University of Oslo,1
+University of Cambridge,University of Oslo,1
+Universidade Estadual Paulista,University of Florida,2
+University of Helsinki,University of London,8
+University of Helsinki,University of Parma,2
+University of Helsinki,University of Trier,1
+University of London,University of Parma,1
+University of London,University of Trier,1
+University of Parma,University of Trier,1
+Leipzig University,University of Tehran,4
+Babeș-Bolyai University,"Institute for the Study of the Ancient World, New York University",2
+"Institute for the Study of the Ancient World, New York University",University of London,4
+Open University,University of London,4
+"Institute for the Study of the Ancient World, New York University",Leipzig University,1
+"Institute for the Study of the Ancient World, New York University",University of Bari,1
+Deutsches Archäologisches Institut,University of London,2
+Deutsches Archäologisches Institut,École polytechnique fédérale de Lausanne,1
+University of London,École polytechnique fédérale de Lausanne,2
+King’s College London,University of Bonn,1
+University of Bonn,University of London,1
+King’s College London,SketchFab,1
+SketchFab,University of London,3
+University of London,University of Virginia,1
+University of Bordeaux,University of Pittsburgh,1
+SketchFab,University of Reading,1
+University of London,University of Reading,1
+University of London,University of Tehran,1
+Leipzig University,University of Köln,2
+University of Köln,University of London,3
+University of London,University of Sofia,1
+Deutsches Archäologisches Institut,University of Oslo,1
+Alan Turing Institute,École polytechnique fédérale de Lausanne,1
+University of Cambridge,École polytechnique fédérale de Lausanne,1
+Duke University,University of London,2
+Binghamton University,University of London,1
+Binghamton University,University of Pittsburgh,1
+University of London,University of Pittsburgh,1
+British Library,Open University,1
+British Library,University of London,2
+Babeș-Bolyai University,University of Lancaster,1
+University of London,University of Portsmouth,1
+University of London,University of South Florida,1
+University of Portsmouth,University of South Florida,1
+Duke University,"Institute for the Study of the Ancient World, New York University",1
+Duke University,University of Exeter,1
+Duke University,University of Oxford,1
+"Institute for the Study of the Ancient World, New York University",University of Exeter,1
+"Institute for the Study of the Ancient World, New York University",University of Oxford,1
+University of Exeter,University of London,7
+University of Exeter,University of Oxford,1
+University of London,University of Oxford,2
+Glasgow University,SketchFab,1
+Glasgow University,University of London,1
+King’s College London,University of Exeter,1
+Brown University,University of London,1
+Alpheios,University of Chicago,1
+Alpheios,University of Helsinki,1
+University of Chicago,University of Helsinki,1
+Boğaziçi University,Haifa University,1
+Boğaziçi University,University of London,1
+Haifa University,University of London,1
+Birkbeck University,University of London,2
+University of Helsinki,Università Cattolica del Sacro Cuore,1
+King’s College London,University of Basel,1
+King’s College London,University of Ghent,1
+University of Basel,University of Ghent,1
+Kraków University,University of London,1
+Kraków University,University of Nebraska Lincoln,1
+University of London,University of Nebraska Lincoln,1
+Heidelberg Academy of Sciences and Humanities,Ilia State University,1
+Heidelberg Academy of Sciences and Humanities,Leipzig University,1
+Heidelberg Academy of Sciences and Humanities,University of London,1
+Ilia State University,Leipzig University,1
+Ilia State University,University of London,1
+Leipzig University,Stellenbosch University,3
+Stellenbosch University,University of London,1
+King’s College London,University of Leiden,1
+University of Leiden,University of London,2
+Ain Shams University,"Royal Holloway, University of London",1
+Ain Shams University,University of Lancaster,1
+"Royal Holloway, University of London",University of Lancaster,1
+Cyprus Institute,University of Amsterdam,1
+Cyprus Institute,University of Ghent,1
+Cyprus Institute,University of Leiden,1
+Cyprus Institute,University of London,1
+University of Amsterdam,University of Ghent,1
+University of Amsterdam,University of Leiden,2
+University of Amsterdam,University of London,1
+University of Ghent,University of Leiden,1
+University of Ghent,University of London,1
+"Institute for the Study of the Ancient World, New York University",University of Göteborg,1
+University of Göteborg,University of London,1
+Open University,École polytechnique fédérale de Lausanne,2
+University of Exeter,Wikimedia UK,1
+University of London,Wikimedia UK,6
+Furman University,University of Massachusetts Amherst,2
+British Library,King’s College London,1
+Alan Turing Institute,University College London,1
+Alan Turing Institute,University of London,1
+University College London,University of Cambridge,1
+University College London,University of London,1
+University of Cambridge,University of London,2
+University of Hamburg,University of London,1
+University of Hamburg,Wikimedia UK,1
+Open University,The Watercolour World,1
+The Watercolour World,École polytechnique fédérale de Lausanne,1
+University of Köln,University of Nottingham,1
+University of London,University of Nottingham,1
+University of Helsinki,University of Nebraska Lincoln,2
+Furman University,Leipzig University,5
+Katholieke Universiteit Leuven,Università Cattolica del Sacro Cuore,1
+University Paris Nanterre,École polytechnique fédérale de Lausanne,1
+Leipzig University,University of Sofia,2
+Frankfurt Big Data Lab,University Paris Sorbonne,1
+Frankfurt Big Data Lab,University of Sofia,1
+University Paris Sorbonne,University of Sofia,1
+Babeș-Bolyai University,Leipzig University,1
+Furman University,Universidade Estadual Paulista,1
+Babeș-Bolyai University,"CY Tech, CY Cergy Paris University",1
+University of Oxford,University of Reading,1
+Leipzig University,University of Bologna,1
+University of Bologna,University of London,5
+University of Bologna,University of Exeter,1
+University Paris Sorbonne,University of Bologna,1
+University Paris Sorbonne,University of London,1
+Katholieke Universiteit Leuven,University of Oxford,2
+Katholieke Universiteit Leuven,University of Surrey,1
+University of Oxford,University of Surrey,1
+British Library,Leipzig University,1
+Leipzig University,Wikimedia UK,2
+University of Helsinki,University of Lausanne,1
+University of Lausanne,University of Nebraska Lincoln,1
+University Paris Nanterre,University of London,4
+Indiana University,Recollection Heritage,1
+Indiana University,University of London,1
+Recollection Heritage,University of London,1
+A Street Near You,British Library,1
+Creative Commons,Smithsonian Institute,1
+Creative Commons,University of Exeter,2
+Creative Commons,University of London,1
+Smithsonian Institute,University of Exeter,1
+Smithsonian Institute,University of London,1
+Austrian Institute of Technology,British Library,1
+Austrian Institute of Technology,Yale University,1
+British Library,Yale University,1
+Creative Commons,Palestine Open Maps,1
+Palestine Open Maps,University of Exeter,1
+University of Antwerp,University of Massachusetts Amherst,1
+Bournemouth University,Recollection Heritage,1
+Bournemouth University,SketchFab,1
+Recollection Heritage,SketchFab,1
+Europeana Foundation,University of Exeter,2
+Recollection Heritage,University of Amsterdam,1
+Recollection Heritage,University of Leiden,1
+Eldarion,University of Oxford,1
+King’s College London,Open University,1
+Leipzig University,"University of California, Berkeley",1
+Fondazione Museo delle Antichità Egizie di Torino,Leipzig University,1
+Durham University,Eldarion,1
+Durham University,Katholieke Universiteit Leuven,1
+Durham University,University of London,2
+Eldarion,Katholieke Universiteit Leuven,1
+Eldarion,University of London,1
+Mississippi State University,University of London,1
+University of Helsinki,University of Milan,1
+University of London,University of Milan,1
+Furman University,Tbilisi State University,1
+Leipzig University,Tbilisi State University,1
+Alan Turing Institute,Leipzig University,2
+Leipzig University,University of Cambridge,2
+King’s College London,Wikimedia UK,3
+British Museum,Museo Egizio Torino,1
+British Museum,"Fitzwilliam Museum, University of Cambridge",1
+British Museum,University of London,2
+"Fitzwilliam Museum, University of Cambridge",University of London,1
+British Library,British Museum,1
+British Library,Science Museum Group,1
+British Museum,Science Museum Group,1
+Science Museum Group,University of London,1
+Hebrew University of Jerusalem,University of London,3
+Hebrew University of Jerusalem,University of Oxford,1
+Alan Turing Institute,British Museum,1
+British Museum,University of Cambridge,1
+University of Massachusetts Amherst,University of Toronto,1
+New York University,Universitat Jaume I,1
+Leipzig University,University of Exeter,1
+Leipzig University,University of Pavia,1
+University of Exeter,University of Pavia,1
+Leipzig University,University Paris Nanterre,1
+Leipzig University,University of Erfurt,1
+Leipzig University,University of Oviedo,1
+University Paris Nanterre,University of Erfurt,1
+University Paris Nanterre,University of Oviedo,1
+University of Erfurt,University of London,1
+University of Erfurt,University of Oviedo,1
+University of London,University of Oviedo,1
+Humboldt University of Berlin,Leipzig University,1
+Alan Turing Institute,Institut national des sciences appliquées de Lyon (INSA Lyon),1
+Institut national des sciences appliquées de Lyon (INSA Lyon),Leipzig University,1
+Institut national des sciences appliquées de Lyon (INSA Lyon),University of Cambridge,1
+Leipzig University,Rijksmuseum van Oudheden Leiden,1
+Rijksmuseum van Oudheden Leiden,Stellenbosch University,1
+Tufts University,University of Nebraska Lincoln,1
+La Sapienza University of Rome,Liceo Classico G. Pantaleo - Castelvetrano (TP),1
+La Sapienza University of Rome,University of London,1
+Liceo Classico G. Pantaleo - Castelvetrano (TP),University of London,1
+Università Cattolica del Sacro Cuore,Université de Neuchâtel,1
+Leipzig University,Tel Aviv University-University of London,2
+Ain Shams University,University of Cologne,1
+University of Cologne,University of London,2
+Open University,University of Sheffield,1
+Barnard College,University of Exeter,1
+Open University,University College London,1
+Tel Aviv University-University of London,University of London,1
+Leipzig University,independent scholar,1
+University of London,independent scholar,1
+Leipzig University,Yale University,1
+Maynooth University,University of Cologne,1
+Maynooth University,University of London,1
+British School at Rome,University of London,1
+British School at Rome,University of Porto,1
+University of London,University of Porto,1
+Furman University,University of Sheffield,1
+University of London,University of Massachusetts Amherst,1
+Endangered Material Knowledge Programme,GLAM-E Lab,1
+Endangered Material Knowledge Programme,University of Exeter,1
+Endangered Material Knowledge Programme,University of London,1
+GLAM-E Lab,University of Exeter,1
+GLAM-E Lab,University of London,1
+Bard College,Birkbeck University,1
+Bard College,Leipzig University,1
+Bard College,University of London,1
+Birkbeck University,Leipzig University,1
+University of Vienna,University of Wien,1
+University of Helsinki,University of Leuven,1
+University of Leuven,University of London,1
+Ilia State University,University Frankfurt,1
+King’s College London,University of Cambridge,1
+Free University of Berlin,Leipzig University,1
+Oxford Text Archive,University of London,1
+Copenhagen University,King’s College London,1
+Copenhagen University,Lund University,1
+Copenhagen University,University of York,1
+King’s College London,Lund University,1
+King’s College London,University of York,1
+Lund University,University of York,1
+Furman University,Oxford Text Archive,1
+Leipzig University,Oxford Text Archive,1
+Columbia University,Durham University,1
+Columbia University,Leipzig University,1
+Columbia University,University of Helsinki,1
+Columbia University,University of London,1
+Durham University,Leipzig University,1
+Durham University,University of Helsinki,1
+Leipzig University,University of Helsinki,1
+Bard College,New York University,1
+Bard College,Yale University,1
+New York University,Yale University,1
+University of Glasgow,University of London,2
+University of Glasgow,University of York,1
+University of London,University of York,1
+British Museum,University of Glasgow,1
+Durham University,Furman University,1
+Durham University,University of Massachusetts Amherst,1
+British Museum,University of Ottawa,1
+Digital Heritage Consulting,Leiden University,1
+Ca' Foscari University of Venice,Kore University of Enna,1
